@@ -1,0 +1,38 @@
+# Requirements for Industrial Experience
+
+There are several requirements for industrial experience.
+
+
+## Basic requirements {#basic}
+
+The basic requirements for Industrial Experience are:
+
+1. You should be registered on IE, change degree [studentnet.cs.manchester.ac.uk/ugt/changedegree.php](https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php)
+1. You have received a job offer and make an application for IE via MyPlacement at [studentmobility.manchester.ac.uk](https://studentmobility.manchester.ac.uk)
+1. The University formally approves your placement application 
+1. You accept the job offer from the employer
+
+
+## Finding a placmeent {#fin}
+
+The basic requirements might sound simple but finding a suitable placement requires lots of work on your part and you'll have to balance this with your study.
+
+1. You will need to prepare and debug your CV, as covered in COMP101 and COMP2CARS, see [Debugging your Future](https://www.cdyf.me/debugging) [@debugging]
+1. You need to find and apply for jobs, see [Finding your Future](https://www.cdyf.me/finding) [@finding] Your placement needs to be something broadly related to your degree but this can encompass a wide variety of activities from business analysis, software engineering, software testing, hardware design, data science etc. You can self-arrange a placement but it needs to be approved before you can go on placement.
+1. You will need to have job interviews, assessment centres etc on-line or in person, sometimes multiple rounds
+1. If you are made job offers that you'd like to accept you need tell us about it, BEFORE you sign any formal contract of employment 
+
+## Grade requirements 
+There are no minimum grade requirements besides passing the first and second year of your degree. The placement year doesn’t count towards your degree classification, but it **does** appear in the title of your degree e.g.
+
+* `BSc (Hons) Computer Science with Industrial Experience`: instead of
+* `BSc (Hons) Computer Science`: the ``vanilla'' degree
+
+## Grade requirements 
+
+You MUST do the following if you want to do Industrial Experience (IE):
+
+1. **CHECK** your visa. If you’re not a UK or EU student and have a Student visa, you will need to extend your visa an extra year to include your placement year if you’re not already registered on IE. See [Student Visas: Changing your Course](documents.manchester.ac.uk/display.aspx?DocID=37044)  [@changing]
+2. **REGISTER** for the appropriate degree programme with IE (if you’re not already) by completing a programme change form. You can do this at any point during your second year Bachelors (or third year MEng) up until the end of July of the year that you start your placement
+4. **SUBMIT** your application for placement as soon as you’ve received an offer of employment by filling in the form at MyPlacement: [studentmobility.manchester.ac.uk](https://studentmobility.manchester.ac.uk). You can do this by clicking on “work experiences” > “computer science”. The Placement Journey infographic takes you through the process step by step. Placements outside the UK are subject to additional checks and approval, for example we need to ensure employers have employers liability insurance or an equivalent
+5. **WAIT** for our approval BEFORE you make any concrete arrangements to start work, such as signing a contract of employment, moving house, flying to another country etc

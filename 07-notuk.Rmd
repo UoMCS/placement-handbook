@@ -1,0 +1,7 @@
+# Working outside the UK {#notuk}
+
+It is possible to do placements outside the UK, (for example, CERN is common) although YOU (and your employer) will need to sort out an appropriate visa that allows you to work in that country. For example, for a J-1 visa (USA) you’d need to find a sponsor such as bunac.org or an employer. There is more information from the careers service on [Finding international jobs. Information for students looking for opportunities outside the UK](https://www.careers.manchester.ac.uk/international/internationaljobs/) [@interjobs]
+
+We require that the employer meets certain requirements before we approve year-long placements. Approval for summer internships is only required if they are part of the integrated masters (MEng) programme, speak to the MEng tutor.
+
+In some cases you can apply for funding from the turing-scheme.org.uk, this provides funding that was previously available through the European Union’s Erasmus Programme.

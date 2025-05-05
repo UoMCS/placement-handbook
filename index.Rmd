@@ -1,0 +1,36 @@
+---
+title: "Computer Science Placement Handbook 2025/6"
+author: "A guidebook for students"
+#date: "Last updated `r Sys.Date()`"
+date: "Last updated on `r format(Sys.time(), '%d %B, %Y')`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: UoMCS/placement-handbook
+description: "A guidebook for undergraduate students students at the University of Manchester before, during and after their placement in industry"
+---
+
+# Welcome {-}
+
+Welcome to the placement manual 
+
+
+* Duncan Hull (employability lead)
+* David Petrescu (Industrial Experience tutor)
+
+
+## What is a placement {#whatisie}
+
+A placement year, also known a year-in-industry or sometimes sandwich year is a year of paid employment 
+
+* penultimate year of study (last but one) for bachelors studnets that's after your second year of study
+* not a summer internship, the usual duration is 12 months, typically starting between June and August, depending on the employer
+* you are a full-time student and 
+
+
+### Placement year fees {#fees}
+
+You pay reduced tuition fees for your placement years, these are not the full tuition fees you pay while studying at University full time, although they vary depending on if you are an international student (or not) see [Study Abroad, Placements & Other fees](www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/] [@fees]

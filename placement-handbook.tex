@@ -1,0 +1,456 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Computer Science Placement Handbook 2025/6},
+  pdfauthor={A guidebook for students},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Computer Science Placement Handbook 2025/6}
+\author{A guidebook for students}
+\date{Last updated on 05 May, 2025}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\chapter*{Welcome}\label{welcome}
+\addcontentsline{toc}{chapter}{Welcome}
+
+Welcome to the placement manual
+
+\begin{itemize}
+\tightlist
+\item
+  Duncan Hull (employability lead)
+\item
+  David Petrescu (Industrial Experience tutor)
+\end{itemize}
+
+\section{What is a placement}\label{whatisie}
+
+A placement year, also known a year-in-industry or sometimes sandwich year is a year of paid employment
+
+\begin{itemize}
+\tightlist
+\item
+  penultimate year of study (last but one) for bachelors studnets that's after your second year of study
+\item
+  not a summer internship, the usual duration is 12 months, typically starting between June and August, depending on the employer
+\item
+  you are a full-time student and
+\end{itemize}
+
+\subsection{Placement year fees}\label{fees}
+
+You pay reduced tuition fees for your placement years, these are not the full tuition fees you pay while studying at University full time, although they vary depending on if you are an international student (or not) see {[}Study Abroad, Placements \& Other fees{]}(www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/{]} \citep{fees}
+
+\chapter{Introduction}\label{intro}
+
+Studying engineering at the University of Manchester helps students to gain technical skills and knowlege in lectures, laboratories, and during projects both in individual and team-based roles. With this engineering knowledge students will be able to solve problems, develop new ideas, and design innovative solutions to solve a wide spectrum of engineering and social problems.
+
+While working for an employer, graduate engineers gain valuable experience and in many cases discover what they really like and what to focus their working life on in the long term. The ``with Industrial Experience'' (wIE) scheme of our courses provides a valuable opportunity for students to obtain experience working as an early-career engineer in the real world within the period of their degree programme. There are many advantages to this, including:
+
+\begin{itemize}
+\tightlist
+\item
+  The experience of industrially focused engineering and applying it to real-world scenarios
+\item
+  The responsibilities associated with industrial employment.
+\item
+  Working within a team
+\item
+  The satisfaction of contributing to engineering products that will influence the future development of society.
+\item
+  The consolidation of a education with that of the engineering environment
+\item
+  The increased likelihood of job offers after graduation.
+\item
+  For many, the year in industry is the transformation from student to engineer, from student to professional
+\end{itemize}
+
+There are many advantages for employers who host students on placmeent
+
+\begin{itemize}
+\tightlist
+\item
+  The opportunity to have a year-long ``interviews'' with undergraduates who have two years (or more) experience at university.
+\item
+  The ability to familiarise students with in-house methods leading to fast-track interviewing and graduate
+  training as a prospective future employee.
+\item
+  Access to high quality students as industrial trainees who can then offer the company valuable resources and new ideas.
+\item
+  Employers with a long-term commitment to the placement of students will have access to future potential recruits by maintaining contact with the Department through the wIE team.
+\end{itemize}
+
+We hope that you enjoy and make the most of your placement year in industry and wish you the best of luck!
+
+\section{TODO: What is a placement}\label{todo-what-is-a-placement}
+
+\chapter{Aims and Intended Learning Outcomes}\label{aims-and-intended-learning-outcomes}
+
+The Learning outcomes for the placement year are
+
+\begin{itemize}
+\tightlist
+\item
+  To learn how to operate in a professional environment
+\item
+  To apply the skills and knowledge you've learned at University in the workplace
+\item
+  To grow as a professional by seeking out development opportunities to acquire new skills and knowledge in the workplace
+\item
+  To meet (or exceed) the expectation of your employer, as set out in your contract of employment
+\item
+  To describe your development as a professional in a short written report
+\end{itemize}
+
+Some of this will involve developing skills and knowledge beyond your University curriculum such as softer skills and digital capabilities, described below.
+
+\section{Developing your digital capabilities}\label{developing-your-digital-capabilities}
+
+Throughout your time at The University of Manchester you will be supported to develop the digital capabilities needed for your studies and future careers. Your placement experience will provide you with further authentic digital development opportunities. The following information is intended to help
+you record and articulate your capabilities, supporting your development and further enhancing your employability.
+
+\section{What are digital capabilities?}\label{what-are-digital-capabilities}
+
+Digital capabilities enable us to `live, learn and work in a digital society.' This profile provides further information about the capabilities University students might expect to develop; it is important to contextualise these, so they are relevant to you and your studies.
+
+\section{Exploring your digital capabilities}\label{exploring-your-digital-capabilities}
+
+The Jisc Discovery tool is a supportive online tool, that can help you understand and develop your digital capabilities. By completing a question set within the tool you can gain a personalised report that includes
+links to suggested resources in the tool's resource bank to support your further development. It is recommended that you repeat the question sets annually, to recognise your progress across the different elements of digital capability. You can access the Discovery tool through
+
+\begin{itemize}
+\tightlist
+\item
+  My Learning Essentials: Develop your digital capabilities resource. \href{https://www.education.library.manchester.ac.uk/none-programme-content/digital-capabilities/}{education.library.manchester.ac.uk/none-programme-content/digital-capabilities/}
+\item
+  My Skills Development -- on CareerConnect \href{https://www.careers.manchester.ac.uk/findjobs/skills/myskills/}{careers.manchester.ac.uk/findjobs/skills/myskills}
+\end{itemize}
+
+These resources support you in reflecting on your development on your reports - providing an action plan template for you to complete.
+
+For placement students, we recommend taking the:
+
+\begin{itemize}
+\tightlist
+\item
+  `Current student' digital capability question set, which provides an in-depth exploration of your digital confidence and experience.
+\item
+  `Digital skills in AI and generative AI' question set, which also has its own resource bank
+\end{itemize}
+
+\section{Recording your development}\label{recording-your-development}
+
+From work with employers, we know they value narratives around how you have developed your skills and capabilities through your studies. You can use the language from your Discovery tool reports to update your CV / online professional profile to help you record your digital development. This blog by the Careers Service can further support you with capturing and articulating the capabilities you develop during your placement. \citep{conway}
+
+\chapter{Requirements for Industrial Experience}\label{requirements-for-industrial-experience}
+
+There are several requirements for industrial experience.
+
+\section{Basic requirements}\label{basic}
+
+The basic requirements for Industrial Experience are:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  You should be registered on IE, change degree \href{https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php}{studentnet.cs.manchester.ac.uk/ugt/changedegree.php}
+\item
+  You have received a job offer and make an application for IE via MyPlacement at \href{https://studentmobility.manchester.ac.uk}{studentmobility.manchester.ac.uk}
+\item
+  The University formally approves your placement application
+\item
+  You accept the job offer from the employer
+\end{enumerate}
+
+\section{Finding a placmeent}\label{fin}
+
+The basic requirements might sound simple but finding a suitable placement requires lots of work on your part and you'll have to balance this with your study.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  You will need to prepare and debug your CV, as covered in COMP101 and COMP2CARS, see \href{https://www.cdyf.me/debugging}{Debugging your Future} \citep{debugging}
+\item
+  You need to find and apply for jobs, see \href{https://www.cdyf.me/finding}{Finding your Future} \citep{finding} Your placement needs to be something broadly related to your degree but this can encompass a wide variety of activities from business analysis, software engineering, software testing, hardware design, data science etc. You can self-arrange a placement but it needs to be approved before you can go on placement.
+\item
+  You will need to have job interviews, assessment centres etc on-line or in person, sometimes multiple rounds
+\item
+  If you are made job offers that you'd like to accept you need tell us about it, BEFORE you sign any formal contract of employment
+\end{enumerate}
+
+\section{Grade requirements}\label{grade-requirements}
+
+There are no minimum grade requirements besides passing the first and second year of your degree. The placement year doesn't count towards your degree classification, but it \textbf{does} appear in the title of your degree e.g.
+
+\begin{itemize}
+\tightlist
+\item
+  \texttt{BSc\ (Hons)\ Computer\ Science\ with\ Industrial\ Experience}: instead of
+\item
+  \texttt{BSc\ (Hons)\ Computer\ Science}: the ``vanilla'\,' degree
+\end{itemize}
+
+\section{Grade requirements}\label{grade-requirements-1}
+
+You MUST do the following if you want to do Industrial Experience (IE):
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{CHECK} your visa. If you're not a UK or EU student and have a Student visa, you will need to extend your visa an extra year to include your placement year if you're not already registered on IE. See \href{documents.manchester.ac.uk/display.aspx?DocID=37044}{Student Visas: Changing your Course} \citep{changing}
+\item
+  \textbf{REGISTER} for the appropriate degree programme with IE (if you're not already) by completing a programme change form. You can do this at any point during your second year Bachelors (or third year MEng) up until the end of July of the year that you start your placement
+\item
+  \textbf{SUBMIT} your application for placement as soon as you've received an offer of employment by filling in the form at MyPlacement: \href{https://studentmobility.manchester.ac.uk}{studentmobility.manchester.ac.uk}. You can do this by clicking on ``work experiences'' \textgreater{} ``computer science''. The Placement Journey infographic takes you through the process step by step. Placements outside the UK are subject to additional checks and approval, for example we need to ensure employers have employers liability insurance or an equivalent
+\item
+  \textbf{WAIT} for our approval BEFORE you make any concrete arrangements to start work, such as signing a contract of employment, moving house, flying to another country etc
+\end{enumerate}
+
+\chapter{Your responsibilities}\label{you}
+
+As a student, you are expected to complete documents for the University as part of the myPlacement application at \href{https://studentmobility.manchester.ac.uk/}{studentmobility.manchester.ac.uk/}. This includes: UNIV+: Work Placement Declaration (subject to updates, check online for latest version). This document sets out some of your responsibilities. When you sign the document, you agree to the following:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  You will declare any disability or serious, unstable or difficult to manage physical or mental health conditions to my placement administrator at the earliest opportunity. You understand that my placement administrator will work alongside specialist services, such as the Disability Advisory and Support Service and Occupational Health, to investigate the support systems available to you from your employer and any additional funding that you may be entitled to.
+\item
+  For your attention: By sharing information with The University of Manchester about a disability or serious, unstable or difficult to manage physical or mental health conditions, you enable us to provide any necessary additional support during the application process, pre-departure preparation and during your placement.
+\item
+  It is rare that a health condition or disability would result in you being unable to participate in a work placement, but you should be aware that the ability to support health conditions or disabilities varies significantly by country.
+\item
+  If you have an approved mitigating circumstances case, you will inform your placement administrator at the earliest opportunity.
+\item
+  If your placement application is approved, you understand that you will need to complete all requirements, such as the health needs self-assessment. You will take preparation for your placement seriously and understand that it
+  will require a considerable time commitment.
+\item
+  You declare that the information presented in your my placement application and the accompanying documentation is true and complete.
+\end{enumerate}
+
+\section{Contact with the University whilst on placement}\label{contact-with-the-university-whilst-on-placement}
+
+During your placement, you are a full time student of the University. Outside of prescribed contact points you can contact us directly at any point. If you have any concerns or questions, you can contact the usual teams or the Placements team \href{mailto:soe.placements@manchester.ac.uk}{\nolinkurl{soe.placements@manchester.ac.uk}}
+
+As a student at the University and employee of your placement, you should familiarise yourself with the practical and professional requirements including breach of contract of the placement provider and, if relevant, the cultural life of the host country. It is your responsibility to source any additional insurance required over and above the standard University
+insurance.
+
+Remember you remain a registered University of Manchester student and must conduct yourself accordingly and with due regard to the University's requirements and regulations and must adhere to the
+\href{https://documents.manchester.ac.uk/DocuInfo.aspx?DocID=6530}{University's Conduct and Discipline of Students: Regulations XVII} \citep{regulations}
+
+Once your placement has been formally approved by the Placement academic, you should complete the UNIV+: Work Placement Statement of Commitment (subject to updates, check myPlacement for latest version). This document includes:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Time commitment: I understand that I must dedicate the necessary time and effort to prepare for my work placement, which includes undertaking independent research, completing any application forms, making my own travel arrangements (if required), obtaining the relevant immigration documents if my
+  placement is overseas, arranging my own accommodation, adhering to deadlines, and attending all required briefings.
+\item
+  Costs: I have researched any additional costs that may be involved in undertaking a work placement, such as accommodation or travel, and I am confident that I can cover any extra expenses involved. I understand that should I decide to return early from placement / not successfully obtain a visa (if required), I will not be entitled to a reimbursement of costs and will need to pay back any additional funding or scholarships that I may have received.
+\item
+  Declaration of disabilities or health conditions: I understand that I should declare any disability or serious, unstable or difficult to manage health condition, including mental health conditions, to my placement administrator as early as possible, so that I can access any necessary support. I recognise that failure to declare any disabilities or serious, unstable or difficult to manage health conditions, or doing so later in the process, will limit the amount of support available to me, or could have implications for my participation in the exchange programme.
+\item
+  Emergency contacts: In the event of an emergency, I give The University of Manchester permission to communicate with my named emergency contact person(s), partner university staff and appropriate University services (specifically the University insurance provider and emergency assistance provider) regarding all issues surrounding my exchange placement. This may include but is not limited to student account information, student conduct issues, health and safety, or academic concerns; such contact
+  may occur before, during, or after the programme.
+\end{enumerate}
+
+\section{Responsibilities to your employer}\label{responsibilities-to-your-employer}
+
+As an employee you are responsible to the placement provider:
+
+\begin{itemize}
+\tightlist
+\item
+  Carry out the work programme specified by the placement provider under the supervision of the specified supervisor(s) or manager(s)
+\item
+  Abide by all rules regarding health and safety requirements, and other practices and procedures of the employer or placement organisation.
+\item
+  Inform the placement provider of any health concerns or disability that may require adjustments.
+\item
+  Report any concerns about health and safety at your placement to your placement provider.
+\end{itemize}
+
+\section{Responsibilities to the University:}\label{responsibilities-to-the-university}
+
+Although an employee, you are still a student at the University and we expect you to:
+
+\begin{itemize}
+\tightlist
+\item
+  Attend briefing sessions before going on placement and familiarise yourself with all information provided and in the placement handbook
+\item
+  Inform the University of any personal factors (e.g.~health, disability, linguistic or cultural) that may affect the level of risk or may require adjustments
+\item
+  Consult with the University prior to seeking any changes in the terms and duration of the placement
+\end{itemize}
+
+Report any incidents in which they are involved and any health and safety concerns that are not addressed by their placement provider to the University.
+
+\chapter{University responsibilities}\label{university}
+
+The University has a duty of care for students on campus \emph{and} on placement. In addition to checking that your placement provider is a suitable employer, a academic member of staff from University will also have two scheduled meetings with you during your placement:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  A one-to-one early on in your placement to check everything is OK, this is usually your personal tutor
+\item
+  A three-person meeting nearer the middle or end of your placement with you, your manager and your tutor to talk about your progress, see
+\end{enumerate}
+
+The placement team are on hand throughout the year if you need them
+
+\subsection{Mit Circs}\label{mit-circs}
+
+Mitigating Circumstances is a policy and procedure in place whereby if students experience personal circumstances that affect their ability to perform to the best of their ability across exams, assessments, or their attendance to teaching activities (such as labs or workshops) they can apply for Mitigating Circumstances or Coursework Extension.
+
+\chapter{Assessment}\label{assessment}
+
+Your placement is assessed as pass or fail, there is no grade, though the title ``with industrial experience'' appears in your degree title.
+
+\section{Bachelors degrees: BSc}\label{bsc}
+
+At the end of the year, we ask you to complete a short report using this Microsoft form (UoM login required) \href{https://bit.ly/placement-report-form}{bit.ly/placement-report-form}
+
+As part of that we ask you to complete a skills audit at the beginning and end of the year and compare the results, see \href{https://www.careers.manchester.ac.uk/findjobs/skills/myskills/}{My Skills Development -- on CareerConnect} \citep{audit}
+
+\section{Integrated Masters degrees: MEng}\label{meng}
+
+If you are on the Master of Engineering (MEng) programme, the IE processes are mostly the same as for the BSc programme. The differences are:
+
+\begin{itemize}
+\tightlist
+\item
+  The IE year is taken after year three, not year two
+\item
+  To stay on the MEng programme you must have a year end average of at least 60\% in years one and two. If you don't, you'll be transferred to the equivalent bachelor's programme. If your year three average is below 60\% you will graduate.
+\item
+  The Meng students who don't do an IE year will do a short (9 -- 12 week) placement over the summer between years three and four.
+\item
+  The placement is assessed in COMP40901 by a report you submit at the end of September and a seminar you give during Reading Week. This unit is worth 25 credits of the final year.
+\end{itemize}
+
+Speak to the MEng tutor to find out more
+
+\chapter{Key placement dates}\label{keydates}
+
+Here are a list of all the key dates before, during and after you r placement
+
+\begin{itemize}
+\tightlist
+\item
+  Obtain and submit plans for formal academic approval deadline, 31 August 2025.
+\item
+  Initial one-to-one check-in meeting, 30 September -- 31 October 2025.
+\item
+  Students should coordinate with allocated academic to arrange a suitable time and date.
+\item
+  Second check-in meeting for students on placement outside the UK (only) 20-31 January 2026 Students should coordinate with allocated academic to arrange a suitable time and date.
+\item
+  Academic tutor, placement manager \& student meeting, 31 March -- 25 April 2026. Students should coordinate with academic, supervisor/line manager to arrange a suitable time and date. If you are not able to arrange a date during this time period, the meeting needs to take place before the end of your placement year
+\item
+  End of welcome week 2026, submit placement report using the form described in section \ref{bsc}
+\end{itemize}
+
+\chapter{Working outside the UK}\label{notuk}
+
+It is possible to do placements outside the UK, (for example, CERN is common) although YOU (and your employer) will need to sort out an appropriate visa that allows you to work in that country. For example, for a J-1 visa (USA) you'd need to find a sponsor such as bunac.org or an employer. There is more information from the careers service on \href{https://www.careers.manchester.ac.uk/international/internationaljobs/}{Finding international jobs. Information for students looking for opportunities outside the UK} \citep{interjobs}
+
+We require that the employer meets certain requirements before we approve year-long placements. Approval for summer internships is only required if they are part of the integrated masters (MEng) programme, speak to the MEng tutor.
+
+In some cases you can apply for funding from the turing-scheme.org.uk, this provides funding that was previously available through the European Union's Erasmus Programme.
+
+  \bibliography{book.bib}
+
+\end{document}
