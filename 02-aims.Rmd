@@ -8,16 +8,36 @@ The Learning outcomes for the placement year are
 *  To meet (or exceed) the expectation of your employer, as set out in your contract of employment
 * To describe your development as a professional in a short written report
 
-Some of this will involve developing skills and knowledge beyond your University curriculum such as softer skills and digital capabilities, described below.
+Some of this will involve developing softer skills, digital skills and knowledge beyond your University curriculum, some of which are described below.
 
-## Developing your digital capabilities
-Throughout your time at The University of Manchester you will be supported to develop the digital capabilities needed for your studies and future careers. Your placement experience will provide you with further authentic digital development opportunities. The following information is intended to help
-you record and articulate your capabilities, supporting your development and further enhancing your employability.
+## Developing your professional skills {#soft}
+Engineering education tends to focus on technical skills and knowledge, while these are important, they are not everything that you'll need to succeeed as a a professional. You may have done some group work during your undergraduate study, but most of the assessment at University (and school) is based on your individual performance such as:
 
-## What are digital capabilities?
-Digital capabilities enable us to ‘live, learn and work in a digital society.’ This profile provides further information about the capabilities University students might expect to develop; it is important to contextualise these, so they are relevant to you and your studies.
+* Exam performance: exams try to measure your skills and knowledge as an individual
+* Coursework: most coursework tend to be solo projects, that you do on your own
 
-## Exploring your digital capabilities
+The workplace is different. You will probably spend more time collaborating with more diverse teams of people. This means that professional skills, sometimes called [soft skills](https://en.wikipedia.org/wiki/Soft_skills) [@soft], are important such as:
+
+* Teamwork
+* Leadership
+* Adaptability
+* Negotiation
+* Communication: reading, writing, speaking and listening
+
+Your placement is an opportunity to develop these professional skills, while also deepening and broadening your technical knowledge.
+
+## Audit your skills {#Audit}
+We require students to audit their skills at the beginning and end of their placements. Your employer will probably ask you to do something similar during your regular meetings with your manager. 
+
+```{r skillsaudit-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionskillsaudit)"}
+knitr::include_graphics("images/skills-audit-graphic.jpg")
+```
+
+(ref:captionskillsaudit) Completing a skills audit will help you develop your self-awareness and better articulate what you have to offer to prospective employers, find out more at [bit.ly/manchester-skills-audit](https://bit.ly/manchester-skills-audit)
+
+
+## Exploring your digital capabilities {#digital}
+Part of becoming a professional means developing your digital capabilities. Digital capabilities enable us to ‘live, learn and work in a digital society.’
 
 The Jisc Discovery tool is a supportive online tool, that can help you understand and develop your digital capabilities. By completing a question set within the tool you can gain a personalised report that includes
 links to suggested resources in the tool’s resource bank to support your further development. It is recommended that you repeat the question sets annually, to recognise your progress across the different elements of digital capability. You can access the Discovery tool through 

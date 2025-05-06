@@ -2,8 +2,9 @@
 
 # Introduction {#intro}
 
-Studying  engineering at the University of Manchester helps students to gain technical skills and knowlege in lectures, laboratories, and during projects both in individual and team-based roles. With this engineering knowledge students will be able to solve problems, develop new ideas, and design innovative solutions to solve a wide spectrum of engineering and social problems.
+Studying  engineering at the University of Manchester helps students to gain technical skills and knowlege in lectures, laboratories, and during projects both in individual and team-based roles. With this engineering knowledge students will be able to solve problems, develop new ideas, and design innovative solutions to solve a wide spectrum of engineering and social problems. [@ucas]
 
+## The value of industrial experience {#value}
 While working for an employer, graduate engineers gain valuable experience and in many cases discover what they really like and what to focus their working life on in the long term. The “with Industrial Experience” (wIE) scheme of our courses provides a valuable opportunity for students to obtain experience working as an early-career engineer in the real world within the period of their degree programme. There are many advantages to this, including:
 
 * The experience of industrially focused engineering and applying it to real-world scenarios
@@ -24,4 +25,3 @@ training as a prospective future employee.
 
 We hope that you enjoy and make the most of your placement year in industry and wish you the best of luck!
 
-## TODO: What is a placement

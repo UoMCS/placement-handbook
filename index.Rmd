@@ -1,6 +1,6 @@
 ---
-title: "Computer Science Placement Handbook 2025/6"
-author: "A guidebook for students"
+title: "Computer Science Placement Handbook for students at the University of Manchester 2025/6"
+author: "edited by the Placements Team "
 #date: "Last updated `r Sys.Date()`"
 date: "Last updated on `r format(Sys.time(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
@@ -15,22 +15,28 @@ description: "A guidebook for undergraduate students students at the University 
 
 # Welcome {-}
 
-Welcome to the placement manual 
+Welcome to the placement manual, this hanbook is for undergraduate students at the University of Manchester before, during and after their Industrial Experience (IE) placement in industry.
+
+## The Placements Team {#team}
+
+The placements team are here to support you on placement:
+
+* Duncan Hull (Employability lead, Computer Science) [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact)
+* David Petrescu (Industrial Experience tutor, Computer Science) [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu)
+* The placements administration team in the Schol of Engineering, see section \@ref(contacts)
 
 
-* Duncan Hull (employability lead)
-* David Petrescu (Industrial Experience tutor)
+## What is a placement year? {#placement}
+
+A placement is a formal period of paid work that is an assessed part of your study as an undergraduate. [@whatisie] The length of the employment varies, in this guide a placement (also known a year-in-industry or  sandwich year) is a **full year** of paid employment. Placements take place in the penultimate year of your study, for Bachelors students, that's after your second year of study.
+
+* a placement is _not_ a summer internship, although these are also good things to do and lots of students do them
+* the usual duration of a placement is 12 months, typically starting between June and August, depending on the employer. At the University of Manchester, the minimum length of employment for placements is 9 months, though 12 months is much more common. 
 
 
-## What is a placement {#whatisie}
-
-A placement year, also known a year-in-industry or sometimes sandwich year is a year of paid employment 
-
-* penultimate year of study (last but one) for bachelors studnets that's after your second year of study
-* not a summer internship, the usual duration is 12 months, typically starting between June and August, depending on the employer
-* you are a full-time student and 
+During your placement you are a both full-time student and an employee of an organisation at the same time.
 
 
-### Placement year fees {#fees}
+## Placement year fees {#fees}
 
-You pay reduced tuition fees for your placement years, these are not the full tuition fees you pay while studying at University full time, although they vary depending on if you are an international student (or not) see [Study Abroad, Placements & Other fees](www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/] [@fees]
+You pay reduced tuition fees for your placement year, these are not the full tuition fees you pay while studying at University full time. The amount you pay depends on if you are an international student (or not) see [Study Abroad, Placements and Other fees](https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/) [@fees]
