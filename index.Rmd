@@ -2,7 +2,7 @@
 title: "Computer Science Placement Handbook for students at the University of Manchester 2025/6"
 author: "edited by the Placements Team "
 #date: "Last updated `r Sys.Date()`"
-date: "Last updated on `r format(Sys.time(), '%d %B, %Y')`"
+date: "DRAFT version currently under revision, last updated on `r format(Sys.time(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -21,9 +21,17 @@ Welcome to the placement manual, this hanbook is for undergraduate students at t
 
 The placements team are here to support you on placement:
 
-* Duncan Hull (Employability lead, Computer Science) [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact)
-* David Petrescu (Industrial Experience tutor, Computer Science) [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu)
+* Duncan Hull (Employability lead, Computer Science) [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:team-fig)
+* David Petrescu (Industrial Experience tutor, Computer Science) [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu),  see figure \@ref(fig:team-fig)
 * The placements administration team in the Schol of Engineering, see section \@ref(contacts)
+
+```{r team-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionteam)'}
+knitr::include_graphics("images/duncananddavid.png")
+```
+(ref:captionteam) Duncan Hull (employability lead for Computer Science) and David Petrescu (Industrial Experience tutor)
+
+
+
 
 
 ## What is a placement year? {#placement}

@@ -1,19 +1,16 @@
-# Requirements for Industrial Experience
+# Requirements for Industrial Experience {#requirements}
 
 There are several requirements for industrial experience.
+
 ## Basic requirements {#basic}
 
 The basic requirements for Industrial Experience are:
 
-1. You should be registered on IE, this may require that yuo change degree program. Bachelors students can change onto and off IE any point up until the end of your se[studentnet.cs.manchester.ac.uk/ugt/changedegree.php](https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php)
+1. You should be registered on IE, this may require that you change degree program. Bachelors students can change onto and off IE any point up until the end of your see [studentnet.cs.manchester.ac.uk/ugt/changedegree.php](https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php)
 1. You have received a job offer and make an application for IE via MyPlacement at [studentmobility.manchester.ac.uk](https://studentmobility.manchester.ac.uk)
 1. The University formally approves your placement application 
 1. You accept the job offer from the employer and sign a contract of employment
 
-
-2. **REGISTER** for the appropriate degree programme with IE (if you’re not already) by completing a programme change form. You can do this at any point during your second year Bachelors (or third year MEng) up until the end of July of the year that you start your placement
-4. **SUBMIT** your application for placement as soon as you’ve received an offer of employment by filling in the form at MyPlacement: [studentmobility.manchester.ac.uk](https://studentmobility.manchester.ac.uk). You can do this by clicking on “work experiences” > “computer science”. The Placement Journey infographic takes you through the process step by step. Placements outside the UK are subject to additional checks and approval, for example we need to ensure employers have employers liability insurance or an equivalent
-5. **WAIT** for our approval BEFORE you make any concrete arrangements to start work, such as signing a contract of employment, moving house, flying to another country etc
 
 ## Finding a placmeent {#finding}
 
@@ -37,9 +34,13 @@ You MUST do the following if you want to do Industrial Experience (IE):
 1. **CHECK** your visa. If you’re not a UK or EU student and have a Student visa, you will need to extend your visa an extra year to include your placement year if you’re not already registered on IE. See [Student Visas: Changing your Course](documents.manchester.ac.uk/display.aspx?DocID=37044)  [@changing]
 
 
-## Working in the UK 
+## Working in the UK {#uk}
 
 UK and EU residents have the right to work in the UK. Student visa holders are allowed to work up to 20 hours per week *during term time* and *full-time during vacation periods* according to the [University’s vacation dates](https://www.manchester.ac.uk/discover/key-dates) [@keydates], including Christmas, Easter and Summer. See [Student Visas: Working during your Studies](https://www.studentsupport.manchester.ac.uk/immigration-and-visas/working/working-during-your-studies/) [@workingduringstudy]
+
+## Working outside the UK
+
+It is possible to do a placement year outside the uk, see chapter \@ref(notuk).
 
 ## Full-time work on placement 
 For a placement year (with industrial experience) a Student visa allows you to work full-time provided that the employment is part of your study (which an industrial experience year is) this is true for both:

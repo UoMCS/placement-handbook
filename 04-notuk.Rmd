@@ -1,7 +1,21 @@
 # Working outside the UK {#notuk}
 
-It is possible to do placements outside the UK, (for example, CERN is common) although YOU (and your employer) will need to sort out an appropriate visa that allows you to work in that country. For example, for a J-1 visa (USA) you’d need to find a sponsor such as bunac.org or an employer. There is more information from the careers service on [Finding international jobs. Information for students looking for opportunities outside the UK](https://www.careers.manchester.ac.uk/international/internationaljobs/) [@interjobs]
+Most students do their placements in the UK, however it is possible to do placements outside the UK as well.
 
-We require that the employer meets certain requirements before we approve year-long placements. Approval for summer internships is only required if they are part of the integrated masters (MEng) programme, speak to the MEng tutor.
 
-In some cases you can apply for funding from the turing-scheme.org.uk, this provides funding that was previously available through the European Union’s Erasmus Programme.
+```{r notuk-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionnotuk)'}
+knitr::include_graphics("images/outsideuk.png")
+```
+(ref:captionnotuk) It is possible to do your industrial experience year outside the UK provided you have the right to work in that country, or an employer is willing to sponsor the appropriate working visa for you. Creative Commons [BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) licensed map of Europe by Rob984 via Wikimedia Commons [w.wiki/3FXK](https://w.wiki/3FXK)
+
+For example CERN is common. although YOU (and your employer) will need to sort out an appropriate visa that allows you to work in that country. For example, working the USA requires a J-1 visa - you’d need to find a sponsor. There is more information from the careers service on [Finding international jobs. Information for students looking for opportunities outside the UK](https://www.careers.manchester.ac.uk/international/internationaljobs/) [@interjobs]
+
+The University requires that the employer meets certain requirements before we approve year-long placements. Approval for summer internships is only required if they are part of the integrated masters (MEng) programme, speak to the MEng tutor.
+
+In some cases you can apply for funding from third parties such as the Turing Scheme which provides funding that was previously available through the Erasmus Programme of the European Union. [@turing]
+
+## Applying for a placment outside the UK
+
+Students taking a placement outside the UK should apply to the University using MyPlacement in the usual way as described in section \@ref(basic).
+
+See also [Fees & funding](https://www.manchester.ac.uk/study/undergraduate/fees-and-funding/) and [Student visa holders](https://www.studentsupport.manchester.ac.uk/immigration-and-visas/)

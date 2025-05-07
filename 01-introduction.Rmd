@@ -4,8 +4,8 @@
 
 Studying  engineering at the University of Manchester helps students to gain technical skills and knowlege in lectures, laboratories, and during projects both in individual and team-based roles. With this engineering knowledge students will be able to solve problems, develop new ideas, and design innovative solutions to solve a wide spectrum of engineering and social problems. [@ucas]
 
-## The value of industrial experience {#value}
-While working for an employer, graduate engineers gain valuable experience and in many cases discover what they really like and what to focus their working life on in the long term. The “with Industrial Experience” (wIE) scheme of our courses provides a valuable opportunity for students to obtain experience working as an early-career engineer in the real world within the period of their degree programme. There are many advantages to this, including:
+## The value of industrial experience for you {#value}
+While working for an employer, students gain valuable experience and in many cases discover what they really like and what to focus their working life on in the long term. The “with Industrial Experience” (wIE) scheme of our courses provides a valuable opportunity for students to obtain experience working as an early-career engineer in the real world within the period of their degree programme. There are many advantages to this, including:
 
 * The experience of industrially focused engineering and applying it to real-world scenarios
 * The responsibilities associated with industrial employment.
@@ -14,6 +14,8 @@ While working for an employer, graduate engineers gain valuable experience and i
 * The consolidation of a education with that of the engineering environment
 * The increased likelihood of job offers after graduation.
 *  For many, the year in industry is the transformation from student to engineer, from student to professional
+
+## The value of industrial experience for your employer {#evalue}
 
 There are many advantages for employers who host students on placmeent 
 
