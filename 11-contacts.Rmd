@@ -6,11 +6,11 @@ This page lists contacts that will be useful to you on your placement year
 ## Main contacts {#main}
 
 * For academic leads see section \@ref(team)
-* Placement academic team: CSPlacementsAcademicTeam@manchester.ac.uk
-* Placements administration team: Soe.placements@manchester.ac.uk
+* Computer Science placements team: CSPlacementsAcademicTeam@manchester.ac.uk
+* Engineering placements administration team: Soe.placements@manchester.ac.uk
 
 ## Emergency contacts {#emergency}
-In an emergency situation if you are a Manchester student working overseas please contact AIG tel:+441273552922 or CorporateAssist@aig.com
+In an emergency if you are a Manchester student working overseas please contact AIG tel:+441273552922 or CorporateAssist@aig.com
 
 The University operate a 24 hour emergency helpline tel:+441613069966
 

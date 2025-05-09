@@ -1,5 +1,5 @@
 ---
-title: "Computer Science Placement Handbook for students at the University of Manchester 2025/6"
+title: "Computer Science Placement Handbook for students at the University of Manchester"
 author: "edited by the Placements Team "
 #date: "Last updated `r Sys.Date()`"
 date: "DRAFT version currently under revision, last updated on `r format(Sys.time(), '%d %B, %Y')`"
@@ -28,7 +28,7 @@ The placements team are here to support you on placement:
 ```{r team-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionteam)'}
 knitr::include_graphics("images/duncananddavid.png")
 ```
-(ref:captionteam) Duncan Hull (employability lead for Computer Science) and David Petrescu (Industrial Experience tutor)
+(ref:captionteam) Duncan Hull (left) employability lead for the Department of Computer Science and David Petrescu, Industrial Experience tutor, year tutor for your placement year.
 
 
 

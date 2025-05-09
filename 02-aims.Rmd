@@ -1,4 +1,4 @@
-# Aims and Intended Learning Outcomes
+# Aims of Industrial Experience {#aims}
 
 The Learning outcomes for the placement year are
 
@@ -11,10 +11,18 @@ The Learning outcomes for the placement year are
 Some of this will involve developing softer skills, digital skills and knowledge beyond your University curriculum, some of which are described below.
 
 ## Developing your professional skills {#soft}
-Engineering education tends to focus on technical skills and knowledge, while these are important, they are not everything that you'll need to succeeed as a a professional. You may have done some group work during your undergraduate study, but most of the assessment at University (and school) is based on your individual performance such as:
+Engineering education tends to focus on technical skills and knowledge, while these are important, they are not everything that you'll need to succeeed as a professional. 
 
-* Exam performance: exams try to measure your skills and knowledge as an individual
-* Coursework: most coursework tend to be solo projects, that you do on your own
+```{r skillsaudit-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionskillsaudit)"}
+knitr::include_graphics("images/skills-audit-graphic.jpg")
+```
+
+(ref:captionskillsaudit) Completing a skills audit will help you develop your self-awareness and better articulate what you have to offer to prospective employers, find out more at [www.careers.manchester.ac.uk/options/skills/myskills](https://www.careers.manchester.ac.uk/options/skills/myskills/) [@]
+
+You may have done some group work during your undergraduate study, but most of the assessment at University (and school) is based on your individual performance such as:
+
+* Exam performance: exams try to measure your skills and knowledge as an individual, collaboration (as in plagiarism) is punished
+* Coursework submission: most coursework tends to be solo projects, that you do on your own, collaboration (as in plagiarism) is punished
 
 The workplace is different. You will probably spend more time collaborating with more diverse teams of people. This means that professional skills, sometimes called [soft skills](https://en.wikipedia.org/wiki/Soft_skills) [@soft], are important such as:
 
@@ -29,11 +37,6 @@ Your placement is an opportunity to develop these professional skills, while als
 ## Audit your skills {#Audit}
 We require students to audit their skills at the beginning and end of their placements. Your employer will probably ask you to do something similar during your regular meetings with your manager. 
 
-```{r skillsaudit-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionskillsaudit)"}
-knitr::include_graphics("images/skills-audit-graphic.jpg")
-```
-
-(ref:captionskillsaudit) Completing a skills audit will help you develop your self-awareness and better articulate what you have to offer to prospective employers, find out more at [bit.ly/manchester-skills-audit](https://bit.ly/manchester-skills-audit)
 
 
 ## Exploring your digital capabilities {#digital}
@@ -43,7 +46,7 @@ The Jisc Discovery tool is a supportive online tool, that can help you understan
 links to suggested resources in the tool’s resource bank to support your further development. It is recommended that you repeat the question sets annually, to recognise your progress across the different elements of digital capability. You can access the Discovery tool through 
 
 *  My Learning Essentials: Develop your digital capabilities resource. [education.library.manchester.ac.uk/none-programme-content/digital-capabilities/](https://www.education.library.manchester.ac.uk/none-programme-content/digital-capabilities/)
-* My Skills Development – on CareerConnect [careers.manchester.ac.uk/findjobs/skills/myskills](https://www.careers.manchester.ac.uk/findjobs/skills/myskills/)
+* My Skills Development – on CareerConnect [www.careers.manchester.ac.uk/options/skills/myskills/](https://www.careers.manchester.ac.uk/options/skills/myskills/) [@audit]
 
 These resources support you in reflecting on your development on your reports - providing an action plan template for you to complete.
 

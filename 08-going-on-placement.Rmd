@@ -1,0 +1,56 @@
+# So, you're going on placement? {#starting}
+Congratulations, if you’ve accepted a job offer and its been approved, you’re ready to start your placement.
+
+```{r survival-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsurvival)"}
+knitr::include_graphics("images/DiveThriveSurvive.png")
+```
+(ref:captionsurvival) How can you survive and thrive on your placement year? Jungle survival sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+You've done well to find a placement, graduate application ratios hit a record high of `140:1` this year. [@ratio]  This confirms what you've probably already found out about the job market being tough for everyone including:
+
+* summer internships
+* year long placements
+* graduate vacancies 
+
+So, you've done well to find a placement in a very competitve job market, give yourself a pat on the back!
+
+
+## Key dates {#keydates} 
+
+Here are a list of all the key dates before, during and after your placement
+
+Obtain and submit plans for formal academic approval deadline, **31 August 2025**. Once you start your job, there are three key dates, four if you are working outside the UK:
+
+
+### First check-in meeting {#one}
+
+Initial one-to-one check-in meeting, **30 September – 31 October 2025**. Students should coordinate with allocated academic to arrange a suitable time and date.
+
+### Second check-in meeting {#two}
+
+For students on placement outside the UK (only) **20-31 January 2026** Students should coordinate with allocated academic to arrange a suitable time and date.
+
+### Manager, Tutor and You meeting {#three}
+
+ Academic tutor, personal tutor and stuent meeting,  **31 March – 25 April 2026**. Students should coordinate with academic, supervisor/line manager to arrange a suitable time and date. If you are not able to arrange a date during this time period, the meeting needs to take place before the end of your placement year
+
+
+### Project selection {#four}
+
+See email from [Terence Morley](https://research.manchester.ac.uk/en/persons/terence.morley), make your project selections or propose an own project early **May 2026**
+
+
+### Placement report submission {#five}
+
+For Bachelors students, your placement report is due at the **end of welcome week 2026**, submit placement report using the form described in section 6.1
+
+
+<!--## Skills audit -->
+
+
+tere
+<!--## Don't forget to read your email {#email} -->
+
+## Resitting exams {#resits} 
+
+If you fail any of your second year exams, you may need to resit them. This doesn't prevent you from doing your placement, but you will need to negotiate some time off to resit any exams and these will need to be done in person in Manchester. [@resits]

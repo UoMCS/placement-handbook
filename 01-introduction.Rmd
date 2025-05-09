@@ -1,21 +1,21 @@
 
 
-# Introduction {#intro}
+# Introduction to IE {#intro}
 
-Studying  engineering at the University of Manchester helps students to gain technical skills and knowlege in lectures, laboratories, and during projects both in individual and team-based roles. With this engineering knowledge students will be able to solve problems, develop new ideas, and design innovative solutions to solve a wide spectrum of engineering and social problems. [@ucas]
+Studying  engineering at the University of Manchester helps students to gain technical skills and knowlege in lectures, laboratories and projects both in individual and team-based roles. With this engineering knowledge students will be able to solve problems, develop new ideas, and design innovative solutions to solve a wide range of engineering and social problems. A year of Industrial Experience (IE) will consolidate, broaden and deepen what you are taught at University.
 
-## The value of industrial experience for you {#value}
-While working for an employer, students gain valuable experience and in many cases discover what they really like and what to focus their working life on in the long term. The “with Industrial Experience” (wIE) scheme of our courses provides a valuable opportunity for students to obtain experience working as an early-career engineer in the real world within the period of their degree programme. There are many advantages to this, including:
+## The value of IE for you {#value}
+While working for an employer, students gain valuable experience and can explore their career interests. [@ucas] The “with Industrial Experience” (IE) scheme of our courses provides a valuable opportunity for students to obtain experience working as an early-career engineer in the real world within the period of their degree programme. There are many advantages to this, including:
 
 * The experience of industrially focused engineering and applying it to real-world scenarios
-* The responsibilities associated with industrial employment.
+* The responsibilities associated with industrial employment
 * Working within a team 
 * The satisfaction of contributing to engineering products that will influence the future development of society.
 * The consolidation of a education with that of the engineering environment
-* The increased likelihood of job offers after graduation.
+* The increased likelihood of job offers after graduation, many students receive return offers from their placement providers
 *  For many, the year in industry is the transformation from student to engineer, from student to professional
 
-## The value of industrial experience for your employer {#evalue}
+## The value of IE for your employer {#evalue}
 
 There are many advantages for employers who host students on placmeent 
 
@@ -25,5 +25,19 @@ training as a prospective future employee.
 * Access to high quality students as industrial trainees who can then offer the company valuable resources and new ideas.
 * Employers with a long-term commitment to the placement of students will have access to future potential recruits by maintaining contact with the Department through the wIE team.
 
-We hope that you enjoy and make the most of your placement year in industry and wish you the best of luck!
+## The value of IE to the University {#uvalue}
+
+The are many advantages to the University of you doing a placement year 
+
+* The Unversity produces better graduates because students learn skills and gain knowledge that are difficult to teach in an academic environment
+* Graduates from the University with placements get paid more, get better jobs and progress more quickly in their chosen careers. We know this from many different sources such as the annual [graduateoutcomes.ac.uk](https://www.graduateoutcomes.ac.uk/) survey
+* Students returning from placements tend to do much better final year (honours) projects and perform better in exams and coursework 
+
+So placements are a win-win-win situation
+
+* they are a win for your employer
+* they are a win for the University 
+* the are a win for you 
+
+So, we hope that you enjoy and make the most of your placement year in industry and wish you the best of luck!
 
