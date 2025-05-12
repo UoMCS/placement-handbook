@@ -1,6 +1,6 @@
 # Working outside the UK {#notuk}
 
-Some degrees at the University of Manchester allow you to [study abroad](https://www.manchester.ac.uk/study/undergraduate/study-experience/study-abroad/) for a year. [@studyabroad] This is **not** currently an option for Computer Science degrees, however, you can _work abroad_ for your placement year. Most students do their placements in the UK, however it is possible to do placements outside the UK as well provided you can find a suitable employer and can get (or have) the right to work in the that country.
+Some degrees at the University of Manchester allow you to [study abroad](https://www.manchester.ac.uk/study/undergraduate/study-experience/study-abroad/) for a year. [@studyabroad] This is **not** currently an option for Computer Science degrees, however, you can _work abroad_ (outside the UK) for your placement year. While most students do their placements in the UK,  it is possible to do placements outside the UK as well provided you can find a suitable employer and can get (or have) the right to work in the that country.
 
 
 ```{r notuk-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionnotuk)'}
