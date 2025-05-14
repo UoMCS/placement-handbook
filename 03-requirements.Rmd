@@ -6,20 +6,20 @@ There are several requirements for industrial experience.
 
 The basic requirements for Industrial Experience are:
 
-1. You should be registered on IE, this may require that you change degree program. Bachelors students can change onto and off IE any point up until the end of your see [studentnet.cs.manchester.ac.uk/ugt/changedegree.php](https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php)
-1. You have received a job offer and make an application for IE via MyPlacement at [studentmobility.manchester.ac.uk](https://studentmobility.manchester.ac.uk)
-1. The University formally approves your placement application 
+1. You should be registered on IE, this may require that you change degree program. Bachelors students can change onto and off IE any point up until the end of your by filling in the [change of degree form](https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php), either in print or pdf and getting it signed-off by the year tutor and employability lead [@changedegree]
+1. You have received a job offer and make an application for IE via [My Placement](https://studentmobility.manchester.ac.uk)  at [@myplacement]
+1. The University formally approves your placement application before you start work 
 1. You accept the job offer from the employer and sign a contract of employment
 
 
-## Finding a placmeent {#finding}
+## Finding a placemeent {#finding}
 
-The basic requirements might sound simple but finding a suitable placement requires lots of work on your part and you'll have to balance this with your study.
+The basic requirements might sound simple but finding a suitable placement requires a significant amount of your time and energy, and you'll have to balance these requirements with those of your study.
 
 1. You will need to prepare and debug your CV, as covered in COMP101 and COMP2CARS, see [Debugging your Future](https://www.cdyf.me/debugging) [@debugging]
 1. You need to find and apply for jobs, see [Finding your Future](https://www.cdyf.me/finding) [@finding] Your placement needs to be something broadly related to your degree but this can encompass a wide variety of activities from business analysis, software engineering, software testing, hardware design, data science etc. You can self-arrange a placement but it needs to be approved before you can go on placement.
-1. You will need to have job interviews, assessment centres etc on-line or in person, sometimes multiple rounds
-1. If you are made job offers that you'd like to accept you need tell us about it, BEFORE you sign any formal contract of employment 
+1. You will need to attend any job interviews, assessment centres etc on-line or in person, sometimes multiple rounds, that you apply to
+1. If you are made job offer that you'd like to accept you need tell us about it, BEFORE you sign any formal contract of employment 
 
 ## Grade requirements 
 There are no minimum grade requirements besides passing the first and second year of your degree. The placement year doesn’t count towards your degree classification, but it **does** appear in the title of your degree e.g.
@@ -34,9 +34,11 @@ You MUST do the following if you want to do Industrial Experience (IE):
 1. **CHECK** your visa. If you’re not a UK or EU student and have a Student visa, you will need to extend your visa an extra year to include your placement year if you’re not already registered on IE. See [Student Visas: Changing your Course](documents.manchester.ac.uk/display.aspx?DocID=37044)  [@changing]
 
 
-## Working in the UK {#uk}
+## Your right to work in the UK {#uk}
+If you are not a UK resident, a placement year gives you the right to work **full time** in the UK because it is an assessed part of your undergraduate study. [@righttowork;@workingduringstudy]
 
-UK and EU residents have the right to work in the UK. Student visa holders are allowed to work up to 20 hours per week *during term time* and *full-time during vacation periods* according to the [University’s vacation dates](https://www.manchester.ac.uk/discover/key-dates) [@keydates], including Christmas, Easter and Summer. See [Student Visas: Working during your Studies](https://www.studentsupport.manchester.ac.uk/immigration-and-visas/working/working-during-your-studies/) [@workingduringstudy]
+During term-time, student visa holders are allowed to work up to 20 hours per week *during term time* and *full-time during vacation periods* according to the [University’s vacation dates](https://www.manchester.ac.uk/discover/key-dates) [@keydates], including Christmas, Easter and Summer. See [Student Visas: Working during your Studies](https://www.studentsupport.manchester.ac.uk/immigration-and-visas/working/working-during-your-studies/) [@workingduringstudy]
+
 
 ## Working outside the UK
 

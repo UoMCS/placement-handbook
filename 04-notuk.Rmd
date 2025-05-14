@@ -1,6 +1,9 @@
 # Working outside the UK {#notuk}
 
-Some degrees at the University of Manchester allow you to [study abroad](https://www.manchester.ac.uk/study/undergraduate/study-experience/study-abroad/) for a year. [@studyabroad] This is **not** currently an option for Computer Science degrees, however, you can _work abroad_ (outside the UK) for your placement year. While most students do their placements in the UK,  it is possible to do placements outside the UK as well provided you can find a suitable employer and can get (or have) the right to work in the that country.
+Some degrees at the University of Manchester incorporate a period of study or work outside the University. [@studyabroad]
+
+## Study Abroad {#abroad}
+Study Abroad is **not** currently an option for Computer Science degrees at the University of Manchester, however, you can _work abroad_ (outside the UK) for your placement year. While most students do their placements in the UK,  it is possible to do placements outside the UK as well provided you can find a suitable employer and can get (or have) the right to work in the that country.
 
 
 ```{r notuk-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionnotuk)'}
@@ -8,7 +11,7 @@ knitr::include_graphics("images/outsideuk.png")
 ```
 (ref:captionnotuk) It is possible to do your industrial experience year outside the UK provided you have the right to work in that country, or an employer is willing to sponsor the appropriate work visa for you. Creative Commons [BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) licensed map of Europe by Rob984 via Wikimedia Commons [w.wiki/3FXK](https://w.wiki/3FXK)
 
-In Computer Science for example, many students do placement years at CERN in Switzerland. [@cern]
+In Computer Science for example, many students have done placement years at CERN in Switzerland. [@cern]
 
 To work outside the UK, **YOU** (and your employer) will need to sort out an appropriate visa that allows you to work in that country. For example, working the USA requires a J-1 visa - you’d need to find a sponsor. There is more information from the careers service on [Finding international jobs. Information for students looking for opportunities outside the UK](https://www.careers.manchester.ac.uk/international/internationaljobs/) [@interjobs]
 

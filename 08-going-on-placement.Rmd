@@ -25,9 +25,20 @@ Most students **meet** or **exceed** the expectations of their employers. We wan
 
 ## Key dates {#keydates} 
 
-Here are a list of all the key dates before, during and after your placement
+There are seven key dates dates before, during and after your placement: 
 
-Obtain and submit plans for formal academic approval deadline, **31 August 2025**. Once you start your job, there are three key dates, four if you are working outside the UK:
+1. Placement approval, see section \@ref(approval)
+1. First check-in, see section \@ref(one)
+1. Second check-in, (outside UK only) see section \@ref(two)
+1. Three way progress meeting, see section \@ref(three)
+1. Project selection, see section \@ref(four)
+1. Report submission, see section \@ref(five)
+1. Industrial Experience panel for incoming year 2 students, see section \@ref(five)
+
+
+### Placement approval {#approval}
+
+Obtain and submit plans for formal academic approval deadline, **31 August 2025**. 
 
 
 ### First check-in meeting {#one}
@@ -50,13 +61,17 @@ See email from [Terence Morley](https://research.manchester.ac.uk/en/persons/ter
 
 ### Placement report submission {#five}
 
-For Bachelors students, your placement report is due at the **end of welcome week 2026**, submit placement report using the form described in section 6.1
+For Bachelors students, your placement report is due at the **end of welcome week 2026**, submit placement report using the form described in section \@ref(bsc) which documents some of the reflection you did with your personal tutor outlined in chapter \@ref(tutors).
+
+
+### Industrial Experience panel {#six}
+If you'd like to serve on a panel during welcome week for the welcome back to year 2 talk, we invite a selection of students who've been on placements to describe their year in industry to incoming year 2 students. There is a check box on the placement submission form that allows you to indicate if you'd like to serve on this panel.
+
 
 
 <!--## Skills audit -->
 
 
-tere
 <!--## Don't forget to read your email {#email} -->
 
 ## Resitting exams {#resits} 

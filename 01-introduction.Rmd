@@ -1,43 +1,44 @@
 
 
-# Introduction to IE {#intro}
+# Introduction to Industrial Experience {#intro}
 
-Studying  engineering at the University of Manchester helps students to gain technical skills and knowlege in lectures, laboratories and projects both in individual and team-based roles. With this engineering knowledge students will be able to solve problems, develop new ideas, and design innovative solutions to solve a wide range of engineering and social problems. A year of Industrial Experience (IE) will consolidate, broaden and deepen what you are taught at University.
+Studying engineering at the University of Manchester helps you to to gain technical skills and knowlege during their lectures, laboratories and projects. With this knowledge you will be able to solve problems, develop new ideas, and design innovative solutions to solve a wide range of engineering and social problems. A year of **Industrial Experience (IE)** will consolidate, broaden and deepen what you are taught at University while preparing you for your final year of study back at University.
 
 ## The value of IE for you {#value}
-While working for an employer, students gain valuable experience and can explore their career interests. [@ucas] The “with Industrial Experience” (IE) scheme of our courses provides a valuable opportunity for students to obtain experience working as an early-career engineer in the real world within the period of their degree programme. There are many advantages to this, including:
+You will gain valuable experience and can further explore your career interests while you are on Industrial Experience. [@ucas] The “with Industrial Experience” (IE) scheme of our undergraduate degrees provides a valuable opportunity for you to experience employment before you graduate. There are many advantages to this, including:
 
 * The experience of industrially focused engineering and applying it to real-world scenarios
-* The responsibilities associated with industrial employment
-* Working within a team 
-* The satisfaction of contributing to engineering products that will influence the future development of society.
-* The consolidation of a education with that of the engineering environment
-* The increased likelihood of job offers after graduation, many students receive return offers from their placement providers
-*  For many, the year in industry is the transformation from student to engineer, from student to professional
+* The responsibilities associated with commercial employment
+* Working within a team, collaborating with the wider organisation that you have joined
+* The satisfaction of contributing to products and serfvices that will influence the future development of society
+* The consolidation of your education to date
+* The increased likelihood of return (or extended) job offers after graduation. It is common for students who perform well to receive return offers from their placement providers
+*  For many, Industrial Experience is the start of a transformation from student to engineer and from student to professional
 
 ## The value of IE for your employer {#evalue}
 
-There are many advantages for employers who host students on placmeent 
+There are many advantages for employers who host students on placement: 
 
-* The opportunity to have a year-long “interviews” with undergraduates who have two years (or more) experience at university.
-* The ability to familiarise students with in-house methods leading to fast-track interviewing and graduate
-training as a prospective future employee.
-* Access to high quality students as industrial trainees who can then offer the company valuable resources and new ideas.
-* Employers with a long-term commitment to the placement of students will have access to future potential recruits by maintaining contact with the Department through the wIE team.
+* The opportunity to have a year-long “interviews” with undergraduate students who have two years (or more) experience at university.
+* The ability to familiarise students with working practices leading to fast-track interviewing and graduate training as a prospective future employee.
+* Access to high quality students as industrial trainees who can offer the employer valuable resources and fresh insights
+* Employers with a long-term commitment to the placement of students will have access to potential recruits by maintaining contact with the University through the student
 
 ## The value of IE to the University {#uvalue}
 
 The are many advantages to the University of you doing a placement year 
 
-* The Unversity produces better graduates because students learn skills and gain knowledge that are difficult to teach in an academic environment
+* The Unversity produces better graduates because you will develop skills and gain knowledge that are difficult to teach and learn in a traditional academic environment
 * Graduates from the University with placements get paid more, get better jobs and progress more quickly in their chosen careers. We know this from many different sources such as the annual [graduateoutcomes.ac.uk](https://www.graduateoutcomes.ac.uk/) survey
 * Students returning from placements tend to do much better final year (honours) projects and perform better in exams and coursework 
 
-So placements are a win-win-win situation
+## Win win win? {#win}
 
-* they are a win for your employer
-* they are a win for the University 
-* the are a win for you 
+So placements can be a win-win-win situation for all three parties involved:
+
+* they are a win for your employer, see section \@ref(value)
+* they are a win for the University, see section \@ref(uvalue)
+* the are a win for you, see section \@ref(value)
 
 So, we hope that you enjoy and make the most of your placement year in industry and wish you the best of luck!
 

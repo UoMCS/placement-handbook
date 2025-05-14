@@ -3,9 +3,9 @@
 This page lists contacts that will be useful to you on your placement year
 
 
-## Main contacts {#main}
+## Main placement contacts {#main}
 
-* For academic leads see section \@ref(team)
+* For academic contacts see section \@ref(team)
 * Computer Science placements team: CSPlacementsAcademicTeam@manchester.ac.uk
 * Engineering placements administration team: Soe.placements@manchester.ac.uk
 

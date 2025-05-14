@@ -15,20 +15,22 @@ description: "A guidebook for undergraduate students students at the University 
 
 # Welcome {-}
 
-Welcome to the placement manual, this hanbook is for undergraduate students at the University of Manchester before, during and after their Industrial Experience (IE) placement in industry.
+Welcome to the placement manual, this handbook is for undergraduate students studying Computer Science at the University of Manchester before, during and after their Industrial Experience (IE) placements in industry.
 
-## The Placements Team {#team}
+## The Placements Team in Computer Science {#team}
 
-The placements team are here to support you on placement:
+The placements team are here to support you on placement alongside the support you get from your employer: 
 
-* Duncan Hull (Employability lead, Computer Science) [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:team-fig)
-* David Petrescu (Industrial Experience tutor, Computer Science) [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu),  see figure \@ref(fig:team-fig)
-* The placements administration team in the Schol of Engineering, see section \@ref(contacts)
+1. **Duncan Hull**: Employability lead, Computer Science [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:team-fig)
+1. **David Petrescu**: Placement year tutor, Computer Science [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu),  see figure \@ref(fig:team-fig)
+1. **Your personal tutor**: in _most_ cases this is the will be the same personal tutor you had in first year. If you're not sure who your personal tutor is, get in touch with the second year tutor listed in undergraduate handbook [@ughandbook] and the [Monday Mail](https://studentnet.cs.manchester.ac.uk/ugt/mondaymail/) [@mondaymail] 
+1. **The placements admin team** in the School of Engineering, see section \@ref(contacts)
+1. **Your employer**, your line manager(s) and Human Resources (HR) department, see chapter \@ref(employers)
 
 ```{r team-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionteam)'}
 knitr::include_graphics("images/duncananddavid.png")
 ```
-(ref:captionteam) Duncan Hull (left) employability lead for the Department of Computer Science and David Petrescu, Industrial Experience tutor, year tutor for your placement year.
+(ref:captionteam) Duncan Hull (left) employability lead for the Department of Computer Science and David Petrescu, Industrial Experience year tutor for your placement year.
 
 
 
@@ -48,3 +50,17 @@ During your placement you are a both full-time student and an employee of an org
 ## Placement year fees {#fees}
 
 You pay reduced tuition fees for your placement year, these are not the full tuition fees you pay while studying at University full time. The amount you pay depends on if you are an international student (or not) see [Study Abroad, Placements and Other fees](https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/) [@fees]
+
+
+## How this handbook is structured {#guide}
+The rest of this placement handbook is structured as follows: 
+
+* Chapter \@ref(intro) outlines the value of a placement for you, your employer and your University 
+* Chapter \@ref(aims) describes the aims of your Industrial Experience (IE) year
+* Chapter \@ref(requirements) describes the requirements that need to be met for IE
+* Chapter \@ref(notuk) discusses placements outside the UK
+* Chapter \@ref(you) outlines your responsibilities to your employer and the University
+* Chapter \@ref(university) describes the obligations of the University to you while you are on placement
+* Chapter \@ref(starting) is a starter guide, you've finished (or are about to finish) your second year: _So, you're going on placement_? 
+* Chapter \@ref(tutors) is the guide for your personal tutor who visits you on placement
+* Chapter \@ref(contacts) lists all the contacts you'll need for your year in industry

@@ -1,5 +1,19 @@
-# Employers {#employers}
+# Employers responsibilities {#employers}
 
-Your employers responsibilities to you are outlined in the contract of employment you have signed. 
+Your employers responsibilities to you as their employee are outlined in the contract of employment you have signed. [@contract]
 
-TODO: outline expectations here
+## What your employer needs to do {#eq}
+Your employer must treat you with respect, just like they would any other employee. Yes you are a student but you're also an employee like any other. Specifically this means that they must:
+
+* Give you a fixed term contract of employment. That's usually 12 months, but anywhere between 9 and 15 months is acceptable, starting between June and September and finishing by the following September in time for the next academic year [@employee]
+* Pay you [minimum wage](https://www.gov.uk/national-minimum-wage) or higher. [@minimumwage] The job market for computer scientists is such that you will usually be paid more than minimum wage, but some employers (even big ones) pay lower wages. In the UK, placement salaries range from minimum wage to £60k+ depending on the sector and location of the employer, see [cdyf.me/finding#undersell](https://cdyf.me/finding#undersell) [@finding]
+* Provide you with projects to work on where you can apply the skills and knowledge you've learned at University
+* Help you learn new skills and acquire new knowledge from your colleagues and their customers, clients or other stakeholders 
+* Treat you with respect. Although you are probably one of the most junior employees, you should not just be the office dogsbody, who's main responsbilities are making cups of tea and running errands for your colleagues. 
+
+
+## If your employer treats you unfairly {#unfair}
+If you don't think an employer can offer you the working conditions described in section \@ref(eq), we encourage you to look elsewhere for employment before signing a contract of employment.
+
+If you feel that your employer has withdrawn any of the things _while_ you are employed on a placement year, please speak to your line manager about it and get in touch with the placements team sooner rather than later, see section \@ref(team). 
+
