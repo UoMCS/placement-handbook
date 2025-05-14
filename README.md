@@ -1,3 +1,3 @@
-This is the LaTeX lab manual for COMP101 at the University of Manchester 
+This is placement handbook for the Department of Computer Science at the University of Manchester 
 
-You can find the preview at https://latex4year1.netlify.app
+You can find the preview at https://placement-handbook.netlify.app
