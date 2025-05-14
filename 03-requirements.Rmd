@@ -1,6 +1,6 @@
 # Requirements for Industrial Experience {#requirements}
 
-There are several requirements for industrial experience.
+There are several requirements for Industrial Experience (IE).
 
 ## Basic requirements {#basic}
 
@@ -9,15 +9,15 @@ The basic requirements for Industrial Experience are:
 1. You should be registered on IE, this may require that you change degree program. Bachelors students can change onto and off IE any point up until the end of your by filling in the [change of degree form](https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php), either in print or pdf and getting it signed-off by the year tutor and employability lead [@changedegree]
 1. You have received a job offer and make an application for IE via [My Placement](https://studentmobility.manchester.ac.uk)  at [@myplacement]
 1. The University formally approves your placement application before you start work 
-1. You accept the job offer from the employer and sign a contract of employment
+1. You formally accept the job offer from the employer and sign a contract of employment
 
 
 ## Finding a placemeent {#finding}
 
 The basic requirements might sound simple but finding a suitable placement requires a significant amount of your time and energy, and you'll have to balance these requirements with those of your study.
 
-1. You will need to prepare and debug your CV, as covered in COMP101 and COMP2CARS, see [Debugging your Future](https://www.cdyf.me/debugging) [@debugging]
-1. You need to find and apply for jobs, see [Finding your Future](https://www.cdyf.me/finding) [@finding] Your placement needs to be something broadly related to your degree but this can encompass a wide variety of activities from business analysis, software engineering, software testing, hardware design, data science etc. You can self-arrange a placement but it needs to be approved before you can go on placement.
+1. You will need to prepare and debug your CV, as covered in COMP101 and COMP2CARS, see [Debugging Your Future](https://www.cdyf.me/debugging) [@debugging]
+1. You need to find and apply for jobs, see [Finding Your Future](https://www.cdyf.me/finding) [@finding] Your placement needs to be something broadly related to your degree but this can encompass a wide variety of activities from business analysis, software engineering, software testing, hardware design, data science etc. You can self-arrange a placement but it needs to be approved before you can go on placement.
 1. You will need to attend any job interviews, assessment centres etc on-line or in person, sometimes multiple rounds, that you apply to
 1. If you are made job offer that you'd like to accept you need tell us about it, BEFORE you sign any formal contract of employment 
 

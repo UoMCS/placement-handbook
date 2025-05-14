@@ -1,33 +1,35 @@
-# So, you're going on placement? {#starting}
-Congratulations, if you’ve accepted a job offer and its been approved, you’re ready to start your placement. 
+# So, you're going on Industrial Experience? {#starting}
+Congratulations, if you’ve accepted a job offer and its been approved, you’re ready to start your Industrial Experience placement. 
 
 ```{r survival-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsurvival)"}
 knitr::include_graphics("images/DiveThriveSurvive.png")
 ```
 (ref:captionsurvival) How can you survive and thrive on your placement year? Jungle survival sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-You've done well to find a placement, graduate application ratios hit a record high of `140:1` this year. [@ratio]  This confirms what you've probably already found out about the job market being tough for everyone including:
+
+## Congratulations! {#congrats}
+You've done very well to find a placement during a year when graduate application ratios hit a record high of `140:1`. This means that in 2014 the average _graduate_ vacancy had 140 applicants, with similar ratios for placement year applicants. [@ratio]  This confirms what you've probably already found out in your job hunting. It is an incredibly tough job market for _everyone_ at the moment and that includes students seeking employment through:
 
 * summer internships
-* year long placements
+* year-long Industrial Experience placements
 * graduate vacancies 
 
-So, you've done well to find a placement in a very competitve job market, give yourself a pat on the back!
+So, you've done incredibly well to find a placement in a very competitve job market. Give yourself a pat on the back!
 
-## Dive, Survive or Thrive {#thrive}
+## Dive, Survive or Thrive? {#thrive}
 Crudely speaking there are three scenarios for your placement year show in figure \@ref(fig:survival-fig):
 
-1. Dive - you **won't meet** the expectations of your emxployer
+1. Dive - you **won't meet** the expectations of your employer
 1. Survive - you **will meet** the expectations of your employer
 1. Thrive - you will **exceed** the expectaons of your employer
 
 Most students **meet** or **exceed** the expectations of their employers. We want to help you achieve while avoiding the first scenario and pointing you to help and advice if you are struggling on placement. 
 
-## Key dates {#keydates} 
+## Key placement dates for IE {#keydates} 
 
-There are seven key dates dates before, during and after your placement: 
+There are seven key dates you need to pay attention to before, during and after your placement: 
 
-1. Placement approval, see section \@ref(approval)
+1. Placement approval, see section \@ref(approval) 
 1. First check-in, see section \@ref(one)
 1. Second check-in, (outside UK only) see section \@ref(two)
 1. Three way progress meeting, see section \@ref(three)
@@ -38,7 +40,7 @@ There are seven key dates dates before, during and after your placement:
 
 ### Placement approval {#approval}
 
-Obtain and submit plans for formal academic approval deadline, **31 August 2025**. 
+Obtain and submit plans for formal academic approval deadline, **31 August 2025**, see section \@(basic)
 
 
 ### First check-in meeting {#one}
@@ -65,7 +67,7 @@ For Bachelors students, your placement report is due at the **end of welcome wee
 
 
 ### Industrial Experience panel {#six}
-If you'd like to serve on a panel during welcome week for the welcome back to year 2 talk, we invite a selection of students who've been on placements to describe their year in industry to incoming year 2 students. There is a check box on the placement submission form that allows you to indicate if you'd like to serve on this panel.
+If you'd like to serve on a IE panel during welcome week lecture for next years incoming year 2 students, we invite a selection of students who've been on placements to describe their year in industry to students in a _welcome back to year 2_ lecture at the beginning of term. There is a check box on the placement submission form that allows you to indicate if you'd like to serve on this panel.
 
 
 
@@ -77,3 +79,9 @@ If you'd like to serve on a panel during welcome week for the welcome back to ye
 ## Resitting exams {#resits} 
 
 If you fail any of your second year exams, you may need to resit them. This doesn't prevent you from doing your placement, but you will need to negotiate some time off to resit any exams and these will need to be done in person in Manchester. [@resits]
+
+
+## Don't forget to read your University email! {#email} 
+Your employer will expect you to read your work email on a regular basis, we also expect you to read your University email `@student.manchester.ac.uk` too as it is our primary form of communication with you on your Industrial Experience placement.
+
+For example, your personal tutor and the placement year tutor will be sending you important information by email, so please make sure you read it regularly, somewhere between once a day and once a week.

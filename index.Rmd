@@ -7,8 +7,10 @@ site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib]
-biblio-style: apalike
+biblio-style: 
 link-citations: yes
+csl: /Users/user/Zotero/styles/harvard-imperial-college-london.csl
+# local copy but available from https://www.zotero.org/styles
 github-repo: UoMCS/placement-handbook
 description: "A guidebook for undergraduate students students at the University of Manchester before, during and after their placement in industry"
 ---
@@ -61,6 +63,32 @@ The rest of this placement handbook is structured as follows:
 * Chapter \@ref(notuk) discusses placements outside the UK
 * Chapter \@ref(you) outlines your responsibilities to your employer and the University
 * Chapter \@ref(university) describes the obligations of the University to you while you are on placement
-* Chapter \@ref(starting) is a starter guide, you've finished (or are about to finish) your second year: _So, you're going on placement_? 
+* Chapter \@ref(starting) is a starter guide for those finishign their second year of study 
+* Chapter \@ref(assessment) describes how your placement year is assessed
 * Chapter \@ref(tutors) is the guide for your personal tutor who visits you on placement
 * Chapter \@ref(contacts) lists all the contacts you'll need for your year in industry
+
+## Editing this handbook {#edit}
+
+We have tried to make this handbook as useful as possible but if you spot any errors or omissions, we appreciate your contributions. You can do this is several ways outlined below.
+
+**EITHER**: 
+
+* Edit the [placement-guide.docx](placement-guide.docx) file, make sure you turn on [track changes in Microsoft Word](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so the placement team can see your edits 
+
+**OR**:
+
+* Edit the source in markdown. That's all the `*.Rmd` files [available on github](https://github.com/search?q=repo%3AUoMCS%2Fplacement-handbook++language%3ARMarkdown&type=code), which are used to generate all the outputs including: 
+    + the [placement-guide.pdf](placement-guide.pdf)
+    + the [placement-guide.docx](placement-guide.docx)
+    + the `*.html` files you see if you are viewing this text in a web browser
+* Raise new issues at [github.com/uomcs/placement-handbook/issues/new/choose](https://github.com/uomcs/placement-handbook/issues/new/choose)
+* Fork the repository [github.com/uomcs/placement-handbook](https://github.com/uomcs/placement-handbook), make changes and submit a pull request 
+* Email us any updates, see section \@ref(team)
+
+
+
+
+
+
+

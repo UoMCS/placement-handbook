@@ -21,20 +21,44 @@ Students should raise any concerns in the first place with the workplace supervi
 
 ## Careers service {#careers}
 
-The Careers Service offers support and advice throughout your time at the University of Manchester to help you make the most of your time here and best prepare you for your future. They can also advise you about your placement and career plans, see [www.careers.manchester.ac.uk/](https://www.careers.manchester.ac.uk/)
+The Careers Service offers support and advice throughout your time at the University of Manchester to help you make the most of your time here and best prepare you for your future. They can also advise you about your placement and career plans, see [www.careers.manchester.ac.uk](https://www.careers.manchester.ac.uk/) [@careers]
+
+For students interested in international placements see [GoinGlobal](https://www.careers.manchester.ac.uk/international/goinglobal/). [@goinglobal]
 
 ## Wellbeing Support Services {#wellbeing}
 
-Wellbeing Support Services, see [https://www.studentsupport.manchester.ac.uk/taking-care/](https://www.studentsupport.manchester.ac.uk/taking-care/) [@wellbeing]
+There are a wide range of support services available to you across the university and externally:
 
-TODO: 
+Wellbeing Support Services, see [https://www.studentsupport.manchester.ac.uk/taking-care](https://www.studentsupport.manchester.ac.uk/taking-care/) [@wellbeing]
+
+* **University Counselling and Mental Health Service** at [counsellingservice.manchester.ac.uk](https://www.counsellingservice.manchester.ac.uk/) [@counselling]
+* **University GP Service** If you are on placement in Manchester there is an on-campus medical GP practice provided by the Robert Darbishire Practice. It’s located in Crawford House on campus and you can register as a patient at [rdp.org.uk/form/new-patient-registration](https://rdp.org.uk/form/new-patient-registration/).  Find out more about the University GP Service on the Robert Darbishire Practice website at [rdp.org.uk](https://rdp.org.uk).[@darbishire]
+* **Health Assured 24/7 Helpline**: The service gives you access to empathetic and compassionate support over the phone, in person or online with a trained counsellors. Freephone: 0800 028 3766 or download my healthy advantage app for live chat at [healthassured.org/wisdom-app](https://www.healthassured.org/wisdom-app/)
+* **Manchester Mind**: A mental health charity that offer support and advice, and also have a Self-Care Hub which you might want to look at for wellbeing resources: [manchestermind.org/our-services](https://www.manchestermind.org/our-services/) [@manchestermind]
+* **Qwell**: An online community that offers mental health support 24 hours per day. You can join Qwell
+at [studentsupport.manchester.ac.uk/taking-care/qwell](https://www.studentsupport.manchester.ac.uk/taking-care/qwell/) [@qwell]
+* **Crisis Point** : A mental health crisis support service based in Manchester City Centre provided by Turning Point for people who identify themselves as experiencing a mental health crisis, but do not require immediate medical assessment. There are various support options, including face to face or telephone contact for up to 10 days. You can self-refer between 12 noon and 11pm via 0161 238 5149.
+
+
+This is not an exhaustive list, and in addition to these suggested resources, we always recommend that you seek advice from your GP or a professional support service regarding any concerns for your physical and emotional health. You can also check out this external resource [help.miricyl.org](https://help.miricyl.org) that can help you to find the right service for you in your local area. If you have any questions about any of the above or wish to discuss support in a further conversation, please
+contact soe.wellbeing@manchester.ac.uk or you can visit your student support hub.
+
 
 ## Disability Advisory and Support Service: DASS {#dass}
 
-DASS provides equity of services to everyone regardless of people’s age, disability, gender, gender
-identity, race, religion or belief or sexual orientation.
+The Disability Advisory and Support Service (DASS) provides equity of services to everyone regardless of people’s age, disability, gender, gender identity, race, religion or belief or sexual orientation.
 
-TODO: finish
+DASS supports a variety of different groups, where students, staff or supporters. They provide practical support by working with you to identify the practical adjustments you need to enable you to succeed in your study, work and the rest of your University experience.
+
+You can find information on who DASS supports, what support is available and how to get support [www.dass.manchester.ac.uk](https://www.dass.manchester.ac.uk) [@dass]
+
+DASS is open for calls Monday to Friday 10am to 4pm and the University of Manchester Assessment Centre Monday to Friday 9-4.
+
+* Tel (Disability Service) +44 (0)161 275 7512
+* Tel (Assessment Centre) +44 (0)161 275 0990
+* Mobile Number (Text only for d/Deaf students) 07899 658 790
+* Email (Disability Service) dass@manchester.ac.uk
+* Email (Assessment Centre) assessments@manchester.ac.uk
 
 
 

@@ -1,33 +1,30 @@
-# Tutor meeting guide {#tutors}
+# Tutor meeting guide for Industrial Experience {#tutors}
 
-Information for personal tutors (academic staff) interviewing students (and their managers) on placement.
+Information for personal tutors (academic staff) interviewing students (and their managers) on their Industrial Experience placement.
 
 ## Purpose of the meeting {#purpose}
-
 The purpose of the meeting between you (the tutor), your tutee (the student) and their manager(s) is to: 
 
-1. Find out what they have been doing  
-1. Get students to reflect on what they’ve done well, with their manager
-1. Get students to reflect on what they could do better, with their manager
-1. Record that the meeting has taken place
-1. AOB 
+1. Find out what they have been doing, see section \@ref(what) 
+1. Get students to reflect on what they’ve done well, with their manager, see section \@ref(www) 
+1. Get students to reflect on what they could do better, with their manager, see section \@ref(ebi) 
+1. Record that the meeting has taken place, using the [bit.ly/placement-visit-form](bit.ly/placement-visit-form) [@visitform]
+1. Any other business? See section \@ref(aob) 
 
 Most employers can do these visits remotely via Microsoft Teams, Zoom or similar video conferencing software.
 
-Once you’ve visited your tutees, please fill in the short tutees form at [bit.ly/placement-visit-form](bit.ly/placement-visit-form) (UoM login required) to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 15 and 30 minutes, we've a suggested agenda below.
+Once you’ve visited your tutees, please fill in the short tutees form at [bit.ly/placement-visit-form](bit.ly/placement-visit-form) [@visitform] to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 15 and 30 minutes, we've a suggested agenda below.
 
 ## What have you been doing? {#what}
 
-Ask the student to describe what they have been doing since they started on placement and how that fits into the wider organisation they are a part of.
-
-* Tell me about your employerm
-
-Most employers can do these visits remotely via Microsoft Teams, Zoom or similar video conferencing software.
+Ask the student to describe what they have been doing since they started on placement and how that fits into the wider organisation they are a part of. Some students need more prompting than others, here are some suggestions:
 
 * Tell me about your employer and the products or services they provide?
 * Which products or services have you been working on?
 * What methodologies and tools have you been using?
 * What have you been surprised by since you started work?
+
+Most employers can do these visits remotely via Microsoft Teams, Zoom or similar video conferencing software.
 
 
 ## What Went Well (WWW)? {#www}

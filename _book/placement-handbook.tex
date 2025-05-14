@@ -75,7 +75,7 @@
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
-\bibliographystyle{apalike}
+\bibliographystyle{plainnat}
 \usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
@@ -168,11 +168,49 @@ The rest of this placement handbook is structured as follows:
 \item
   Chapter \ref{university} describes the obligations of the University to you while you are on placement
 \item
-  Chapter \ref{starting} is a starter guide, you've finished (or are about to finish) your second year: \emph{So, you're going on placement}?
+  Chapter \ref{starting} is a starter guide for those finishign their second year of study
+\item
+  Chapter \ref{assessment} describes how your placement year is assessed
 \item
   Chapter \ref{tutors} is the guide for your personal tutor who visits you on placement
 \item
   Chapter \ref{contacts} lists all the contacts you'll need for your year in industry
+\end{itemize}
+
+\section{Editing this handbook}\label{edit}
+
+We have tried to make this handbook as useful as possible but if you spot any errors or omissions, we appreciate your contributions. You can do this is several ways outlined below.
+
+\textbf{EITHER}:
+
+\begin{itemize}
+\tightlist
+\item
+  Edit the \url{placement-guide.docx} file, make sure you turn on \href{https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a}{track changes in Microsoft Word} so the placement team can see your edits
+\end{itemize}
+
+\textbf{OR}:
+
+\begin{itemize}
+\tightlist
+\item
+  Edit the source in markdown. That's all the \texttt{*.Rmd} files \href{https://github.com/search?q=repo\%3AUoMCS\%2Fplacement-handbook++language\%3ARMarkdown&type=code}{available on github}, which are used to generate all the outputs including:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    the \url{placement-guide.pdf}
+  \item
+    the \url{placement-guide.docx}
+  \item
+    the \texttt{*.html} files you see if you are viewing this text in a web browser
+  \end{itemize}
+\item
+  Raise new issues at \href{https://github.com/uomcs/placement-handbook/issues/new/choose}{github.com/uomcs/placement-handbook/issues/new/choose}
+\item
+  Fork the repository \href{https://github.com/uomcs/placement-handbook}{github.com/uomcs/placement-handbook}, make changes and submit a pull request
+\item
+  Email us any updates, see section \ref{team}
 \end{itemize}
 
 \chapter{Introduction to Industrial Experience}\label{intro}
@@ -238,7 +276,7 @@ So placements can be a win-win-win situation for all three parties involved:
 \begin{itemize}
 \tightlist
 \item
-  they are a win for your employer, see section \ref{value}
+  they are a win for your employer, see section \ref{evalue}
 \item
   they are a win for the University, see section \ref{uvalue}
 \item
@@ -347,7 +385,7 @@ From work with employers, we know they value narratives around how you have deve
 
 \chapter{Requirements for Industrial Experience}\label{requirements}
 
-There are several requirements for industrial experience.
+There are several requirements for Industrial Experience (IE).
 
 \section{Basic requirements}\label{basic}
 
@@ -363,7 +401,7 @@ The basic requirements for Industrial Experience are:
 \item
   The University formally approves your placement application before you start work
 \item
-  You accept the job offer from the employer and sign a contract of employment
+  You formally accept the job offer from the employer and sign a contract of employment
 \end{enumerate}
 
 \section{Finding a placemeent}\label{finding}
@@ -374,9 +412,9 @@ The basic requirements might sound simple but finding a suitable placement requi
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  You will need to prepare and debug your CV, as covered in COMP101 and COMP2CARS, see \href{https://www.cdyf.me/debugging}{Debugging your Future} \citep{debugging}
+  You will need to prepare and debug your CV, as covered in COMP101 and COMP2CARS, see \href{https://www.cdyf.me/debugging}{Debugging Your Future} \citep{debugging}
 \item
-  You need to find and apply for jobs, see \href{https://www.cdyf.me/finding}{Finding your Future} \citep{finding} Your placement needs to be something broadly related to your degree but this can encompass a wide variety of activities from business analysis, software engineering, software testing, hardware design, data science etc. You can self-arrange a placement but it needs to be approved before you can go on placement.
+  You need to find and apply for jobs, see \href{https://www.cdyf.me/finding}{Finding Your Future} \citep{finding} Your placement needs to be something broadly related to your degree but this can encompass a wide variety of activities from business analysis, software engineering, software testing, hardware design, data science etc. You can self-arrange a placement but it needs to be approved before you can go on placement.
 \item
   You will need to attend any job interviews, assessment centres etc on-line or in person, sometimes multiple rounds, that you apply to
 \item
@@ -430,7 +468,7 @@ For a placement year (with industrial experience) a Student visa allows you to w
 
 This means you don't need to apply for a work permit, as your Tier 4 visa entitles you to work when it is an integral part of your degree.
 
-\chapter{Working outside the UK}\label{notuk}
+\chapter{Industrial Experience outside the UK}\label{notuk}
 
 Some degrees at the University of Manchester incorporate a period of study or work outside the University. \citep{studyabroad}
 
@@ -451,7 +489,15 @@ Study Abroad is \textbf{not} currently an option for Computer Science degrees at
 
 In Computer Science for example, many students have done placement years at CERN in Switzerland. \citep{cern}
 
-To work outside the UK, \textbf{YOU} (and your employer) will need to sort out an appropriate visa that allows you to work in that country. For example, working the USA requires a J-1 visa - you'd need to find a sponsor. There is more information from the careers service on \href{https://www.careers.manchester.ac.uk/international/internationaljobs/}{Finding international jobs. Information for students looking for opportunities outside the UK} \citep{interjobs}
+To work outside the UK, \textbf{YOU} (and your employer) will need to sort out an appropriate visa that allows you to work in that country. For example, working the USA requires a J-1 visa - you'd need to find a sponsor. There is more information from the careers service on
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.careers.manchester.ac.uk/international/internationaljobs/}{Finding international jobs. Information for students looking for opportunities outside the UK} \citep{interjobs}
+\item
+  \href{https://www.careers.manchester.ac.uk/international/goinglobal/}{GoinGlobal} \citep{goinglobal}
+\end{itemize}
 
 The University requires that the employer meets certain requirements before we approve year-long placements. Approval for summer internships is only required if they are part of the integrated masters (MEng) programme, speak to the MEng tutor.
 
@@ -463,7 +509,7 @@ Students taking a placement outside the UK should apply to the University using 
 
 See also \href{https://www.manchester.ac.uk/study/undergraduate/fees-and-funding/}{Fees \& funding} and \href{https://www.studentsupport.manchester.ac.uk/immigration-and-visas/}{Student visa holders}
 
-\chapter{Your responsibilities as a placement student}\label{you}
+\chapter{Your responsibilities on Industrial Experience}\label{you}
 
 As a student, you are expected to complete documents for the University as part of the myPlacement application at \href{https://studentmobility.manchester.ac.uk/}{studentmobility.manchester.ac.uk}. This includes: \textbf{UNIV+: Work Placement Declaration }(subject to updates, check online for latest version). This document sets out some of your responsibilities. When you sign the document, you agree to the following:
 
@@ -540,13 +586,15 @@ Although an employee, you are still a student at the University and we expect yo
   Inform the University of any personal factors (e.g.~health, disability, linguistic or cultural) that may affect the level of risk or may require adjustments
 \item
   Consult with the University prior to seeking any changes in the terms and duration of the placement
+\item
+  Read your University email on a regular basis, see section \ref{email}
 \end{itemize}
 
 Report any incidents in which they are involved and any health and safety concerns that are not addressed by their placement provider to the University.
 
-\chapter{Employers responsibilities}\label{employers}
+\chapter{Employers responsibilities to placement students}\label{employers}
 
-Your employers responsibilities to you as their employee are outlined in the contract of employment you have signed. \citep{contract}
+Your employers responsibilities to you as their employee are outlined in the contract of employment you have signed. \citep{contract} You should read your contract of employment carefully before signing it.
 
 \section{What your employer needs to do}\label{eq}
 
@@ -570,23 +618,34 @@ Your employer must treat you with respect, just like they would any other employ
 
 If you don't think an employer can offer you the working conditions described in section \ref{eq}, we encourage you to look elsewhere for employment before signing a contract of employment.
 
-If you feel that your employer has withdrawn any of the things \emph{while} you are employed on a placement year, please speak to your line manager about it and get in touch with the placements team sooner rather than later, see section \ref{team}.
+If you feel that your employer has withdrawn conditions in section \ref{eq}\emph{while} you are employed on a placement year, please speak to your line manager about it and/or get in touch with the placements team sooner rather than later, see section \ref{team}.
 
-\chapter{University responsibilities}\label{university}
+\chapter{University responsibilities for Industrial Experience}\label{university}
 
 The University has a duty of care for students on campus \emph{and} on placement.
 
+\begin{figure}
+
+{\centering \includegraphics[width=0.5\linewidth]{images/msteams} 
+
+}
+
+\caption{Your \texttt{@student.manchester.ac.uk} email is the primary communication tool for you while on Industrial Experience. The placement visit meetings described in section \ref{keydates} will be conducted remotely using either \href{https://teams.microsoft.com}{teams.microsoft.com} or \href{https://www.zoom.com}{zoom.com}, you'll be notified about these by email, so please make sure you read it regularly.}\label{fig:teams-fig}
+\end{figure}
+
+
+
 \section{Your personal tutor}\label{tutor}
 
-In addition to checking that your placement provider is a suitable employer, a academic member of staff from University will also have two scheduled meetings with you during your placement:
+In addition to checking that your placement provider is a suitable employer, an academic member of staff from University will also have at least two scheduled meetings with you during your placement:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  A one-to-one early on in your placement to check everything is OK, this is usually your personal tutor
+  A one-to-one early on in your placement to check everything is OK, this is usually your personal tutor, see section \ref{keydates}
 \item
-  A three-person meeting nearer the middle or end of your placement with you, your manager and your tutor to talk about your progress, see
+  A three-person meeting nearer the middle or end of your placement with you, your manager and your tutor to talk about your progress, see section \ref{keydates}
 \end{enumerate}
 
 The placement team are on hand throughout the year if you need them
@@ -595,9 +654,9 @@ The placement team are on hand throughout the year if you need them
 
 Mitigating Circumstances is a policy and procedure in place whereby if students experience personal circumstances that affect their ability to perform to the best of their ability across exams, assessments, or their attendance to teaching activities (such as labs or workshops) they can apply for Mitigating Circumstances or Coursework Extension. \citep{mitcircs}
 
-\chapter{So, you're going on placement?}\label{starting}
+\chapter{So, you're going on Industrial Experience?}\label{starting}
 
-Congratulations, if you've accepted a job offer and its been approved, you're ready to start your placement.
+Congratulations, if you've accepted a job offer and its been approved, you're ready to start your Industrial Experience placement.
 
 \begin{figure}
 
@@ -610,21 +669,23 @@ Congratulations, if you've accepted a job offer and its been approved, you're re
 
 
 
-You've done well to find a placement, graduate application ratios hit a record high of \texttt{140:1} this year. \citep{ratio} This confirms what you've probably already found out about the job market being tough for everyone including:
+\section{Congratulations!}\label{congrats}
+
+You've done very well to find a placement during a year when graduate application ratios hit a record high of \texttt{140:1}. This means that in 2014 the average \emph{graduate} vacancy had 140 applicants, with similar ratios for placement year applicants. \citep{ratio} This confirms what you've probably already found out in your job hunting. It is an incredibly tough job market for \emph{everyone} at the moment and that includes students seeking employment through:
 
 \begin{itemize}
 \tightlist
 \item
   summer internships
 \item
-  year long placements
+  year-long Industrial Experience placements
 \item
   graduate vacancies
 \end{itemize}
 
-So, you've done well to find a placement in a very competitve job market, give yourself a pat on the back!
+So, you've done incredibly well to find a placement in a very competitve job market. Give yourself a pat on the back!
 
-\section{Dive, Survive or Thrive}\label{thrive}
+\section{Dive, Survive or Thrive?}\label{thrive}
 
 Crudely speaking there are three scenarios for your placement year show in figure \ref{fig:survival-fig}:
 
@@ -632,7 +693,7 @@ Crudely speaking there are three scenarios for your placement year show in figur
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Dive - you \textbf{won't meet} the expectations of your emxployer
+  Dive - you \textbf{won't meet} the expectations of your employer
 \item
   Survive - you \textbf{will meet} the expectations of your employer
 \item
@@ -641,9 +702,9 @@ Crudely speaking there are three scenarios for your placement year show in figur
 
 Most students \textbf{meet} or \textbf{exceed} the expectations of their employers. We want to help you achieve while avoiding the first scenario and pointing you to help and advice if you are struggling on placement.
 
-\section{Key dates}\label{keydates}
+\section{Key placement dates for IE}\label{keydates}
 
-There are seven key dates dates before, during and after your placement:
+There are seven key dates you need to pay attention to before, during and after your placement:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -666,7 +727,7 @@ There are seven key dates dates before, during and after your placement:
 
 \subsection{Placement approval}\label{approval}
 
-Obtain and submit plans for formal academic approval deadline, \textbf{31 August 2025}.
+Obtain and submit plans for formal academic approval deadline, \textbf{31 August 2025}, see section @(basic)
 
 \subsection{First check-in meeting}\label{one}
 
@@ -690,15 +751,21 @@ For Bachelors students, your placement report is due at the \textbf{end of welco
 
 \subsection{Industrial Experience panel}\label{six}
 
-If you'd like to serve on a panel during welcome week for the welcome back to year 2 talk, we invite a selection of students who've been on placements to describe their year in industry to incoming year 2 students. There is a check box on the placement submission form that allows you to indicate if you'd like to serve on this panel.
+If you'd like to serve on a IE panel during welcome week lecture for next years incoming year 2 students, we invite a selection of students who've been on placements to describe their year in industry to students in a \emph{welcome back to year 2} lecture at the beginning of term. There is a check box on the placement submission form that allows you to indicate if you'd like to serve on this panel.
 
 \section{Resitting exams}\label{resits}
 
 If you fail any of your second year exams, you may need to resit them. This doesn't prevent you from doing your placement, but you will need to negotiate some time off to resit any exams and these will need to be done in person in Manchester. \citep{resits}
 
+\section{Don't forget to read your University email!}\label{email}
+
+Your employer will expect you to read your work email on a regular basis, we also expect you to read your University email \texttt{@student.manchester.ac.uk} too as it is our primary form of communication with you on your Industrial Experience placement.
+
+For example, your personal tutor and the placement year tutor will be sending you important information by email, so please make sure you read it regularly, somewhere between once a day and once a week.
+
 \chapter{Assessment of your placement year}\label{assessment}
 
-Your placement is formatively assessed by visits during your placement and a short report you write at the end. The title ``with industrial experience'' appears in the title of your degree and your degree certicate.
+Your placement is formatively assessed by visits during your placement and a short report you write at the end of the year. The title ``with industrial experience'' appears in the title of your degree and your degree certicate.
 
 \section{Bachelors degrees: BSc}\label{bsc}
 
@@ -724,9 +791,9 @@ If you are on the Master of Engineering (MEng) programme, the IE processes are m
 
 Speak to the MEng tutor to find out more
 
-\chapter{Tutor meeting guide}\label{tutors}
+\chapter{Tutor meeting guide for Industrial Experience}\label{tutors}
 
-Information for personal tutors (academic staff) interviewing students (and their managers) on placement.
+Information for personal tutors (academic staff) interviewing students (and their managers) on their Industrial Experience placement.
 
 \section{Purpose of the meeting}\label{purpose}
 
@@ -736,32 +803,24 @@ The purpose of the meeting between you (the tutor), your tutee (the student) and
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Find out what they have been doing\\
+  Find out what they have been doing, see section \ref{what}
 \item
-  Get students to reflect on what they've done well, with their manager
+  Get students to reflect on what they've done well, with their manager, see section \ref{www}
 \item
-  Get students to reflect on what they could do better, with their manager
+  Get students to reflect on what they could do better, with their manager, see section \ref{ebi}
 \item
-  Record that the meeting has taken place
+  Record that the meeting has taken place, using the \url{bit.ly/placement-visit-form} \citep{visitform}
 \item
-  AOB
+  Any other business? See section \ref{aob}
 \end{enumerate}
 
 Most employers can do these visits remotely via Microsoft Teams, Zoom or similar video conferencing software.
 
-Once you've visited your tutees, please fill in the short tutees form at \url{bit.ly/placement-visit-form} (UoM login required) to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 15 and 30 minutes, we've a suggested agenda below.
+Once you've visited your tutees, please fill in the short tutees form at \url{bit.ly/placement-visit-form} \citep{visitform} to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 15 and 30 minutes, we've a suggested agenda below.
 
 \section{What have you been doing?}\label{what}
 
-Ask the student to describe what they have been doing since they started on placement and how that fits into the wider organisation they are a part of.
-
-\begin{itemize}
-\tightlist
-\item
-  Tell me about your employerm
-\end{itemize}
-
-Most employers can do these visits remotely via Microsoft Teams, Zoom or similar video conferencing software.
+Ask the student to describe what they have been doing since they started on placement and how that fits into the wider organisation they are a part of. Some students need more prompting than others, here are some suggestions:
 
 \begin{itemize}
 \tightlist
@@ -774,6 +833,8 @@ Most employers can do these visits remotely via Microsoft Teams, Zoom or similar
 \item
   What have you been surprised by since you started work?
 \end{itemize}
+
+Most employers can do these visits remotely via Microsoft Teams, Zoom or similar video conferencing software.
 
 \section{What Went Well (WWW)?}\label{www}
 
@@ -867,20 +928,59 @@ Students should raise any concerns in the first place with the workplace supervi
 
 \section{Careers service}\label{careers}
 
-The Careers Service offers support and advice throughout your time at the University of Manchester to help you make the most of your time here and best prepare you for your future. They can also advise you about your placement and career plans, see \href{https://www.careers.manchester.ac.uk/}{www.careers.manchester.ac.uk/}
+The Careers Service offers support and advice throughout your time at the University of Manchester to help you make the most of your time here and best prepare you for your future. They can also advise you about your placement and career plans, see \href{https://www.careers.manchester.ac.uk/}{www.careers.manchester.ac.uk} \citep{careers}
+
+For students interested in international placements see \href{https://www.careers.manchester.ac.uk/international/goinglobal/}{GoinGlobal}. \citep{goinglobal}
 
 \section{Wellbeing Support Services}\label{wellbeing}
 
-Wellbeing Support Services, see \url{https://www.studentsupport.manchester.ac.uk/taking-care/} \citep{wellbeing}
+There are a wide range of support services available to you across the university and externally:
 
-TODO:
+Wellbeing Support Services, see \href{https://www.studentsupport.manchester.ac.uk/taking-care/}{https://www.studentsupport.manchester.ac.uk/taking-care} \citep{wellbeing}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{University Counselling and Mental Health Service} at \href{https://www.counsellingservice.manchester.ac.uk/}{counsellingservice.manchester.ac.uk} \citep{counselling}
+\item
+  \textbf{University GP Service} If you are on placement in Manchester there is an on-campus medical GP practice provided by the Robert Darbishire Practice. It's located in Crawford House on campus and you can register as a patient at \href{https://rdp.org.uk/form/new-patient-registration/}{rdp.org.uk/form/new-patient-registration}. Find out more about the University GP Service on the Robert Darbishire Practice website at \href{https://rdp.org.uk}{rdp.org.uk}.\citep{darbishire}
+\item
+  \textbf{Health Assured 24/7 Helpline}: The service gives you access to empathetic and compassionate support over the phone, in person or online with a trained counsellors. Freephone: 0800 028 3766 or download my healthy advantage app for live chat at \href{https://www.healthassured.org/wisdom-app/}{healthassured.org/wisdom-app}
+\item
+  \textbf{Manchester Mind}: A mental health charity that offer support and advice, and also have a Self-Care Hub which you might want to look at for wellbeing resources: \href{https://www.manchestermind.org/our-services/}{manchestermind.org/our-services} \citep{manchestermind}
+\item
+  \textbf{Qwell}: An online community that offers mental health support 24 hours per day. You can join Qwell
+  at \href{https://www.studentsupport.manchester.ac.uk/taking-care/qwell/}{studentsupport.manchester.ac.uk/taking-care/qwell} \citep{qwell}
+\item
+  \textbf{Crisis Point} : A mental health crisis support service based in Manchester City Centre provided by Turning Point for people who identify themselves as experiencing a mental health crisis, but do not require immediate medical assessment. There are various support options, including face to face or telephone contact for up to 10 days. You can self-refer between 12 noon and 11pm via 0161 238 5149.
+\end{itemize}
+
+This is not an exhaustive list, and in addition to these suggested resources, we always recommend that you seek advice from your GP or a professional support service regarding any concerns for your physical and emotional health. You can also check out this external resource \href{https://help.miricyl.org}{help.miricyl.org} that can help you to find the right service for you in your local area. If you have any questions about any of the above or wish to discuss support in a further conversation, please
+contact \href{mailto:soe.wellbeing@manchester.ac.uk}{\nolinkurl{soe.wellbeing@manchester.ac.uk}} or you can visit your student support hub.
 
 \section{Disability Advisory and Support Service: DASS}\label{dass}
 
-DASS provides equity of services to everyone regardless of people's age, disability, gender, gender
-identity, race, religion or belief or sexual orientation.
+The Disability Advisory and Support Service (DASS) provides equity of services to everyone regardless of people's age, disability, gender, gender identity, race, religion or belief or sexual orientation.
 
-TODO: finish
+DASS supports a variety of different groups, where students, staff or supporters. They provide practical support by working with you to identify the practical adjustments you need to enable you to succeed in your study, work and the rest of your University experience.
+
+You can find information on who DASS supports, what support is available and how to get support \href{https://www.dass.manchester.ac.uk}{www.dass.manchester.ac.uk} \citep{dass}
+
+DASS is open for calls Monday to Friday 10am to 4pm and the University of Manchester Assessment Centre Monday to Friday 9-4.
+
+\begin{itemize}
+\tightlist
+\item
+  Tel (Disability Service) +44 (0)161 275 7512
+\item
+  Tel (Assessment Centre) +44 (0)161 275 0990
+\item
+  Mobile Number (Text only for d/Deaf students) 07899 658 790
+\item
+  Email (Disability Service) \href{mailto:dass@manchester.ac.uk}{\nolinkurl{dass@manchester.ac.uk}}
+\item
+  Email (Assessment Centre) \href{mailto:assessments@manchester.ac.uk}{\nolinkurl{assessments@manchester.ac.uk}}
+\end{itemize}
 
   \bibliography{book.bib}
 

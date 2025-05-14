@@ -36,7 +36,7 @@ The are many advantages to the University of you doing a placement year
 
 So placements can be a win-win-win situation for all three parties involved:
 
-* they are a win for your employer, see section \@ref(value)
+* they are a win for your employer, see section \@ref(evalue)
 * they are a win for the University, see section \@ref(uvalue)
 * the are a win for you, see section \@ref(value)
 

@@ -1,6 +1,6 @@
-# Employers responsibilities {#employers}
+# Employers responsibilities to placement students {#employers}
 
-Your employers responsibilities to you as their employee are outlined in the contract of employment you have signed. [@contract]
+Your employers responsibilities to you as their employee are outlined in the contract of employment you have signed. [@contract] You should read your contract of employment carefully before signing it.
 
 ## What your employer needs to do {#eq}
 Your employer must treat you with respect, just like they would any other employee. Yes you are a student but you're also an employee like any other. Specifically this means that they must:
@@ -15,5 +15,5 @@ Your employer must treat you with respect, just like they would any other employ
 ## If your employer treats you unfairly {#unfair}
 If you don't think an employer can offer you the working conditions described in section \@ref(eq), we encourage you to look elsewhere for employment before signing a contract of employment.
 
-If you feel that your employer has withdrawn any of the things _while_ you are employed on a placement year, please speak to your line manager about it and get in touch with the placements team sooner rather than later, see section \@ref(team). 
+If you feel that your employer has withdrawn conditions in section \@ref(eq)_while_ you are employed on a placement year, please speak to your line manager about it and/or get in touch with the placements team sooner rather than later, see section \@ref(team). 
 
