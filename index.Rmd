@@ -74,13 +74,13 @@ We have tried to make this handbook as useful as possible but if you spot any er
 
 **EITHER**: 
 
-* Edit the [placement-guide.docx](placement-guide.docx) file, make sure you turn on [track changes in Microsoft Word](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so the placement team can see your edits 
+* Edit the [placement-handbook.docx](placement-handbook.docx) file, make sure you turn on [track changes in Microsoft Word](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so the placement team can see your edits 
 
 **OR**:
 
 * Edit the source in markdown. That's all the `*.Rmd` files [available on github](https://github.com/search?q=repo%3AUoMCS%2Fplacement-handbook++language%3ARMarkdown&type=code), which are used to generate all the outputs including: 
-    + the [placement-guide.pdf](placement-guide.pdf)
-    + the [placement-guide.docx](placement-guide.docx)
+    + the [placement-handbook.pdf](placement-handbook.pdf)
+    + the [placement-handbook.docx](placement-handbook.docx)
     + the `*.html` files you see if you are viewing this text in a web browser
 * Raise new issues at [github.com/uomcs/placement-handbook/issues/new/choose](https://github.com/uomcs/placement-handbook/issues/new/choose)
 * Fork the repository [github.com/uomcs/placement-handbook](https://github.com/uomcs/placement-handbook), make changes and submit a pull request 
