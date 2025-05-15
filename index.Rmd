@@ -1,6 +1,6 @@
 ---
 title: "Computer Science Placement Handbook for students at the University of Manchester"
-author: "edited by the Placements Team "
+author: "edited by Duncan Hull, David Petrescu and the School of Engineering placements team"
 #date: "Last updated `r Sys.Date()`"
 date: "DRAFT version currently under revision, last updated on `r format(Sys.time(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
@@ -74,7 +74,7 @@ The rest of this placement handbook is structured as follows:
 
 ## Editing this handbook {#edit}
 
-We have tried to make this handbook as useful as possible but if you spot any errors or omissions, we appreciate your contributions. You can do this is several ways outlined below.
+We have tried to make this handbook as useful as possible but if you spot any errors or omissions, we appreciate your contributions. You can do this in several ways outlined below.
 
 **EITHER**: 
 

@@ -5,8 +5,7 @@ There are several requirements for Industrial Experience (IE) shown in figure \@
 ```{r plans-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionplans)"}
 knitr::include_graphics("images/plans.png")
 ```
-(ref:captionplans) Once you've received a job offer you need to: 1) check you are registered on IE 2) Tell us where you are going 3) Wait for formal approval and finally 4) Have your placement approved as described in section \@ref(basic)
-
+(ref:captionplans) Once you've received a job offer you need to: (1) check you are registered on IE (2) Tell us where you are going (3) Wait for approval and finally (4) Have your placement formally approved against the requirements outlined in section \@ref(basic)
 
 
 ## Basic requirements {#basic}

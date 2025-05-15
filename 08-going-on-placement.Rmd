@@ -76,15 +76,45 @@ If you'd like to serve on a IE panel during welcome week lecture for next years 
 
 <!--## Don't forget to read your email {#email} -->
 
-## Resitting exams {#resits} 
+## Resitting exams while on Industrial Experience placement {#resits} 
 
 If you fail any of your second year exams, you may need to resit them. This doesn't prevent you from doing your placement, but you will need to negotiate some time off to resit any exams and these will need to be done in person in Manchester. [@resits]
-
 
 ## Don't forget to read your University email! {#email} 
 Your employer will expect you to read your work email on a regular basis, we also expect you to read your University email `@student.manchester.ac.uk` too as it is our primary form of communication with you on your Industrial Experience placement.
 
-For example, your personal tutor and the placement year tutor will be sending you important information by email, so please make sure you read it regularly, somewhere between once a day and once a week.
+For example, your personal tutor and the placement year tutor will be sending you important information by email, so please make sure you read it regularly, we recommned somewhere between at least once a day and once a week.
+
+## Paying your taxes {#taxes}
+
+Moving from student to professional means you'll be paid a salary. Yay! Unfortunately this also means you'll have to start paying taxes too. Taxes are one of only two things we can be sure of in life:
+
+1. Death [@death]
+1. Taxes [@death]
+
+In the UK the relevant taxes are:
+
+* **Income Tax**: is taken out of your salary before you receive it, see [gov.uk/income-tax](https://www.gov.uk/income-tax) [@income-tax]
+* **National Insurance**: see [gov.uk/national-insurance](https://www.gov.uk/national-insurance) [@national] and applying for a National Insurance [gov.uk/apply-national-insurance-number](https://www.gov.uk/apply-national-insurance-number) [@apply]
+* **Council Tax**: you will need to apply for a council tax exemption see [gov.uk/council-tax](https://www.gov.uk/council-tax)[@council-tax]. If you're moving to a new location (e.g. away from Manchester) to where you were living as a student, [@exemption1;@exemption2]
+
+
+## You are an Ambassador {#ambassador}
+One of the reasons we have the biggest elective program of Industrial Experience (IE) at the University of Manchester is that students like you have gone on placements before you and set a good reputation with their employers. Employers come back recruiting more students and frequently make return offers of employment after graduation.
+
+```{r ambassador-fig, echo = FALSE, fig.align = "center", out.width = "80%", fig.cap = "(ref:captionambassador)"}
+knitr::include_graphics("images/ambassador.png")
+```
+(ref:captionambassador) You are an employee **and** you are also an ambassador for the Department of Computer Science, the University of Manchester and its students too. Public domain image adapted from _Hello my name is …_ sticker by Eviatar Bach on Wikimedia Commons [w.wiki/32RV](https://w.wiki/32RV)
+
+While on placement you are an ambassador, see figure \@ref(fig:ambassador-fig). You are an ambassador for: 
+
+1. The Department of Computer Science 
+1. The University of Manchester
+1. Your fellow and future students
+
+ We hope that you can continue to uphold the good reputation of our department and its students while you are on placement so that employers keep coming back to recruit more students like you in the future. 
+
 
 ## Starting Your Future {#etc}
-This chapter has described some basic information to help you get started on a placement year at the University of Manhester, for a more general discussion of how to prepare yourself for the workplace, see _Starting Your Future_ at [cdyf.me/starting](https://www.cdyf.me/starting). [@starting]
+This chapter has described some basic information to help you get started on a placement year at the University of Manchester, for a broader discussion of how to prepare yourself for the workplace, see _Starting Your Future_ at [cdyf.me/starting](https://www.cdyf.me/starting). [@starting]
