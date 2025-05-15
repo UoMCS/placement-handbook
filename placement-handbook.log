@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  15 MAY 2025 23:00
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  15 MAY 2025 23:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -767,19 +767,20 @@ File: images/waterloo.jpg Graphic file (type bmp)
 
 
 [15]
+File: images/skills-audit-graphic.jpg Graphic file (type bmp)
+<images/skills-audit-graphic.jpg>
+
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 397--399
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
 []\TU/lmr/m/n/10 education.library.manchester.ac.uk/none-programme-content/digital-
  []
 
 
-Overfull \hbox (108.76001pt too wide) in paragraph at lines 399--400
+Overfull \hbox (108.76001pt too wide) in paragraph at lines 410--411
 []\TU/lmr/m/n/10 My Skills Development – on CareerConnect []www.careers.manchester.ac.uk/options/skills/myskills/[]
  []
 
-File: images/skills-audit-graphic.jpg Graphic file (type bmp)
-<images/skills-audit-graphic.jpg>
 
 
 [17]
@@ -1073,7 +1074,7 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  17702 strings out of 475846
  324720 string characters out of 5774061
- 876091 words of memory out of 5000000
+ 876104 words of memory out of 5000000
  40392 multiletter control sequences out of 15000+600000
  565296 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
