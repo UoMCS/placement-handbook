@@ -1,5 +1,15 @@
 # Aims of Industrial Experience {#aims}
 
+A key part of Industrial Experience is developing professional skills in the workplace, which you will audit at the beginning and end of your placement.
+
+```{r skillsaudit-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionskillsaudit)"}
+knitr::include_graphics("images/skills-audit-graphic.jpg")
+```
+
+(ref:captionskillsaudit) The skills audit you complete at the beginning and end of your placement year will help you track your progress during Industrial Experience. The audits will also develop your self-awareness and better articulate what you have to offer to prospective employers, find out more at [www.careers.manchester.ac.uk/options/skills/myskills](https://www.careers.manchester.ac.uk/options/skills/myskills/) [@audit]
+
+## Intended Learning Outcomes {#ilos}
+
 The Intended Learning Outcomes (ILOs) for the placement year are
 
 * To learn how to operate in a professional environment
@@ -12,12 +22,6 @@ Some of this will involve developing softer skills, digital skills and knowledge
 
 ## Developing your professional skills {#soft}
 Most engineering education tends to focus on technical skills and knowledge.  While these are important, they are not everything that you'll need to succeeed as a professional. 
-
-```{r skillsaudit-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionskillsaudit)"}
-knitr::include_graphics("images/skills-audit-graphic.jpg")
-```
-
-(ref:captionskillsaudit) Completing a skills audit will help you develop your self-awareness and better articulate what you have to offer to prospective employers, find out more at [www.careers.manchester.ac.uk/options/skills/myskills](https://www.careers.manchester.ac.uk/options/skills/myskills/) [@]
 
 You may have done some group work during your undergraduate study, but most of the assessment at University (and school) is based on your individual performance such as:
 

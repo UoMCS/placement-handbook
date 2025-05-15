@@ -2,6 +2,11 @@
 
 This page lists contacts that will be useful to you on your placement year
 
+```{r kilburn-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnarama)", out.width = "100%"}
+knitr::include_graphics("images/kilburnarama.jpg")
+```
+(ref:captionkilburnarama) A panoramic picture of the Kilburn building from Wikimedia Commons [w.wiki/E6Qk](https://w.wiki/E6Qk)
+
 
 ## Main placement contacts {#main}
 
