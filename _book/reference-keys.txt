@@ -1,6 +1,8 @@
 fig:team-fig
 fig:skillsaudit-fig
+fig:plans-fig
 fig:notuk-fig
+fig:gov-fig
 fig:teams-fig
 fig:survival-fig
 team
@@ -25,14 +27,13 @@ grade-requirements
 visa-requirements
 uk
 working-outside-the-uk
-full-time-work-on-placement
 notuk
 abroad
 applying-for-a-placment-outside-the-uk
 you
 contact-with-the-university-whilst-on-placement
-responsibilities-to-your-employer
-responsibilities-to-the-university
+remployer
+runi
 employers
 eq
 unfair
@@ -52,6 +53,7 @@ five
 six
 resits
 email
+etc
 assessment
 bsc
 meng

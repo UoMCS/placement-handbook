@@ -6,7 +6,7 @@ The University has a duty of care for students on campus _and_ on placement.
 knitr::include_graphics("images/msteams.png")
 ```
 
-(ref:captionteams) Your `@student.manchester.ac.uk` email is the primary communication tool for you while on Industrial Experience. The placement visit meetings described in section \@ref(keydates) will be conducted remotely using either [teams.microsoft.com](https://teams.microsoft.com) or [zoom.com](https://www.zoom.com), you'll be notified about these by email, so please make sure you read it regularly.
+(ref:captionteams) Your `@student.manchester.ac.uk` email is the main way the University will keep in touch with you while on Industrial Experience. For example, the placement visit meetings described in section \@ref(keydates) will be conducted remotely using either [teams.microsoft.com](https://teams.microsoft.com) or [zoom.com](https://www.zoom.com), you'll be notified about these meetings by email, so please make sure you read your University email regularly.
 
 
 ## Your personal tutor {#tutor}

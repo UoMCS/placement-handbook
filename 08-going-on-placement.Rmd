@@ -85,3 +85,6 @@ If you fail any of your second year exams, you may need to resit them. This does
 Your employer will expect you to read your work email on a regular basis, we also expect you to read your University email `@student.manchester.ac.uk` too as it is our primary form of communication with you on your Industrial Experience placement.
 
 For example, your personal tutor and the placement year tutor will be sending you important information by email, so please make sure you read it regularly, somewhere between once a day and once a week.
+
+## Starting Your Future {#etc}
+This chapter has described some basic information to help you get started on a placement year at the University of Manhester, for a more general discussion of how to prepare yourself for the workplace, see _Starting Your Future_ at [cdyf.me/starting](https://www.cdyf.me/starting). [@starting]

@@ -1,6 +1,6 @@
 # Aims of Industrial Experience {#aims}
 
-The Learning outcomes for the placement year are
+The Intended Learning Outcomes (ILOs) for the placement year are
 
 * To learn how to operate in a professional environment
 * To apply the skills and knowledge you've learned at University in the workplace as directed by your employer
@@ -8,10 +8,10 @@ The Learning outcomes for the placement year are
 *  To meet (or exceed) the expectations of your employer, as set out in your contract of employment
 * To describe your development as a professional in a short written report and (optionally) to share that with other students on your course
 
-Some of this will involve developing softer skills, digital skills and knowledge beyond your University curriculum, some of which are described below.
+Some of this will involve developing softer skills, digital skills and knowledge beyond your University curriculum, some of which are described below. The assessment of the ILOs above is described in chapter \@ref(assessment).
 
 ## Developing your professional skills {#soft}
-Engineering education tends to focus on technical skills and knowledge, while these are important, they are not everything that you'll need to succeeed as a professional. 
+Most engineering education tends to focus on technical skills and knowledge.  While these are important, they are not everything that you'll need to succeeed as a professional. 
 
 ```{r skillsaudit-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionskillsaudit)"}
 knitr::include_graphics("images/skills-audit-graphic.jpg")

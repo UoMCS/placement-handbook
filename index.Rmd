@@ -29,6 +29,8 @@ The placements team are here to support you on placement alongside the support y
 1. **The placements admin team** in the School of Engineering, see section \@ref(contacts)
 1. **Your employer**, your line manager(s) and Human Resources (HR) department, see chapter \@ref(employers)
 
+In case you've forgotten what we look like, there's a picture of some of the placements team in figure \@ref(fig:team-fig).
+
 ```{r team-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionteam)'}
 knitr::include_graphics("images/duncananddavid.png")
 ```
@@ -40,13 +42,15 @@ knitr::include_graphics("images/duncananddavid.png")
 
 ## What is a placement year? {#placement}
 
-A placement is a formal period of paid work that is an assessed part of your study as an undergraduate. [@whatisie] The length of the employment varies, in this guide a placement (also known a year-in-industry or  sandwich year) is a **full year** of paid employment. Placements take place in the penultimate year of your study, for Bachelors students, that's after your second year of study.
+A placement is a formal period of paid work that is an assessed part of your study as an undergraduate. [@whatisie] The length of the employment varies, in this guide a placement (also known a year-in-industry or sandwich year) is a **full year** of paid employment. Placements take place in the penultimate year of your study, for Bachelors students, that's after your second year of study.
 
 * a placement is _not_ a summer internship, although these are also good things to do and lots of students do them
 * the usual duration of a placement is 12 months, typically starting between June and August, depending on the employer. At the University of Manchester, the minimum length of employment for placements is 9 months, though 12 months is much more common. 
 
 
-During your placement you are a both full-time student and an employee of an organisation at the same time.
+During your placement you are a both full-time student and an employee of an organisation at the same time. 
+
+Placements aren't the _only_ way to get experience before you graduate, but they are one of the most popular. For a discussion advantages and disadvantages of placement years over summer internships see [cdyf.me/experiencing#interns](https://www.cdyf.me/experiencing#interns) [@experiencing]
 
 
 ## Placement year fees {#fees}
@@ -62,8 +66,9 @@ The rest of this placement handbook is structured as follows:
 * Chapter \@ref(requirements) describes the requirements that need to be met for IE
 * Chapter \@ref(notuk) discusses placements outside the UK
 * Chapter \@ref(you) outlines your responsibilities to your employer and the University
-* Chapter \@ref(university) describes the obligations of the University to you while you are on placement
-* Chapter \@ref(starting) is a starter guide for those finishign their second year of study 
+* Chapter \@ref(employers) outlines your employers responsibilities to you 
+* Chapter \@ref(university) outlines what you can expect from the University to you while you are on placement
+* Chapter \@ref(starting) is a starter guide for those finishing their second year of study 
 * Chapter \@ref(assessment) describes how your placement year is assessed
 * Chapter \@ref(tutors) is the guide for your personal tutor who visits you on placement
 * Chapter \@ref(contacts) lists all the contacts you'll need for your year in industry
@@ -74,15 +79,15 @@ We have tried to make this handbook as useful as possible but if you spot any er
 
 **EITHER**: 
 
-* Edit the [placement-handbook.docx](placement-handbook.docx) file, make sure you turn on [track changes in Microsoft Word](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so the placement team can see your edits 
+* Edit the [placement-handbook.docx](placement-handbook.docx) file, make sure you turn on [track changes in Microsoft Word](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so the placement team can manage your changes 
 
 **OR**:
 
-* Edit the source in markdown. That's all the `*.Rmd` files [available on github](https://github.com/search?q=repo%3AUoMCS%2Fplacement-handbook++language%3ARMarkdown&type=code), which are used to generate all the outputs including: 
+* Edit the source in markdown. That's all the `*.Rmd` files [available on github](https://github.com/search?q=repo%3AUoMCS%2Fplacement-handbook++language%3ARMarkdown&type=code) (github login required), which are used to generate all the outputs including: 
     + the [placement-handbook.pdf](placement-handbook.pdf)
     + the [placement-handbook.docx](placement-handbook.docx)
     + the `*.html` files you see if you are viewing this text in a web browser
-* Raise new issues at [github.com/uomcs/placement-handbook/issues/new/choose](https://github.com/uomcs/placement-handbook/issues/new/choose)
+* Raise new issues at [github.com/uomcs/placement-handbook/issues/new](https://github.com/uomcs/placement-handbook/issues/new) (github login required)
 * Fork the repository [github.com/uomcs/placement-handbook](https://github.com/uomcs/placement-handbook), make changes and submit a pull request 
 * Email us any updates, see section \@ref(team)
 

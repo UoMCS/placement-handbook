@@ -1,6 +1,13 @@
 # Requirements for Industrial Experience {#requirements}
 
-There are several requirements for Industrial Experience (IE).
+There are several requirements for Industrial Experience (IE) shown in figure \@ref(fig:plans-fig)
+
+```{r plans-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionplans)"}
+knitr::include_graphics("images/plans.png")
+```
+(ref:captionplans) Once you've received a job offer you need to: 1) check you are registered on IE 2) Tell us where you are going 3) Wait for formal approval and finally 4) Have your placement approved as described in section \@ref(basic)
+
+
 
 ## Basic requirements {#basic}
 
@@ -35,20 +42,19 @@ You MUST do the following if you want to do Industrial Experience (IE):
 
 
 ## Your right to work in the UK {#uk}
-If you are not a UK resident, a placement year gives you the right to work **full time** in the UK because it is an assessed part of your undergraduate study. [@righttowork;@workingduringstudy]
+If you are not a UK resident, a placement year gives you the right to work **full time** in the UK because it is an assessed part of your undergraduate study. [@righttowork;@workingduringstudy] This applies to: 
+
+* Students from the UK and EU
+* Students from *outside* the UK and EU (e.g. Tier 4 visa holders)
+
+This means you don’t need to apply for a work permit, as your Tier 4 visa entitles you to work when it is an integral part of your degree.
 
 During term-time, student visa holders are allowed to work up to 20 hours per week *during term time* and *full-time during vacation periods* according to the [University’s vacation dates](https://www.manchester.ac.uk/discover/key-dates) [@keydates], including Christmas, Easter and Summer. See [Student Visas: Working during your Studies](https://www.studentsupport.manchester.ac.uk/immigration-and-visas/working/working-during-your-studies/) [@workingduringstudy]
+
 
 
 ## Working outside the UK
 
 It is possible to do a placement year outside the uk, see chapter \@ref(notuk).
 
-## Full-time work on placement 
-For a placement year (with industrial experience) a Student visa allows you to work full-time provided that the employment is part of your study (which an industrial experience year is) this is true for both:
-
-* Students from the UK and EU
-* Students from *outside* the UK and EU (e.g. Tier 4 visa holders)
-
-This means you don’t need to apply for a work permit, as your Tier 4 visa entitles you to work when it is an integral part of your degree.
 
