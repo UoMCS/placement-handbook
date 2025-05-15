@@ -4,9 +4,11 @@
 
 Studying engineering at the University of Manchester helps you to to gain technical skills and knowlege during their lectures, laboratories and projects. With this knowledge you will be able to solve problems, develop new ideas, and design innovative solutions to solve a wide range of engineering and social problems. A year of **Industrial Experience (IE)** will consolidate, broaden and deepen what you are taught at University while preparing you for your final year of study back at University.
 
-```{r manya-fig, echo = FALSE, fig.align = "center", fig.cap = "", out.width = "100%"}
-knitr::include_graphics("images/manya.jpg")
+```{r intro-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionexperience)", out.width = "100%"}
+knitr::include_graphics("images/whitworth.jpg")
 ```
+
+(ref:captionexperience) A panoramic picture of the Queens Arch and [Whitworth Building](https://en.wikipedia.org/wiki/Whitworth_Building) at the University of Manchester
 
 
 ## The value of IE for you {#value}

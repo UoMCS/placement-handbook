@@ -1,11 +1,12 @@
 # Requirements for Industrial Experience {#requirements}
 
-There are several requirements for Industrial Experience (IE) shown in figure \@ref(fig:plans-fig)
+There are several requirements for Industrial Experience (IE) described in section \@ref(basic) and illustrated in figure \@ref(fig:plans-fig)
 
-```{r plans-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionplans)"}
-knitr::include_graphics("images/plans.png")
+```{r reqs-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionreqs)", out.width = "100%"}
+knitr::include_graphics("images/uniplace.jpg")
 ```
-(ref:captionplans) Once you've received a job offer you need to: (1) check you are registered on IE (2) Tell us where you are going (3) Wait for approval and finally (4) Have your placement formally approved against the requirements outlined in section \@ref(basic)
+
+(ref:captionreqs) A panoramic picture of University Place Manchester
 
 
 ## Basic requirements {#basic}
@@ -54,6 +55,12 @@ During term-time, student visa holders are allowed to work up to 20 hours per we
 
 ## Working outside the UK
 
-It is possible to do a placement year outside the uk, see chapter \@ref(notuk).
+It is possible to do a placement year outside the uk, these are described i the next section, chapter \@ref(notuk).
+
+```{r plans-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionplans)"}
+knitr::include_graphics("images/plans.png")
+```
+(ref:captionplans) Once you've received a job offer you need to: (1) check you are registered on IE (2) Tell us where you are going (3) Wait for approval and finally (4) Have your placement formally approved against the requirements outlined in section \@ref(basic)
+
 
 

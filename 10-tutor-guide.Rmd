@@ -2,6 +2,12 @@
 
 Information for personal tutors (academic staff) interviewing students (and their managers) on their Industrial Experience placement.
 
+```{r computerscience-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captioncomputerscience)", out.width = "100%"}
+knitr::include_graphics("images/computerscience.jpg")
+```
+
+(ref:captioncomputerscience) A panoramic picture taken outside the Turing Lounge in the Kilburn Building at the University of Manchester.  
+
 ## Purpose of the meeting {#purpose}
 The purpose of the meeting between you (the tutor), your tutee (the student) and their manager(s) is to: 
 

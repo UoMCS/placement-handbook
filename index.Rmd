@@ -19,24 +19,24 @@ description: "A guidebook for undergraduate students students at the University 
 
 Welcome to the placement manual, this handbook is for undergraduate students studying Computer Science at the University of Manchester before, during and after their Industrial Experience (IE) placements in industry.
 
-```{r team-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionteam)'}
-knitr::include_graphics("images/duncananddavid.png")
+```{r engineering-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionengineering)", out.width = "100%"}
+knitr::include_graphics("images/engineering.jpg")
 ```
-(ref:captionteam) Hello and welcombe from Duncan Hull (left) employability lead for the Department of Computer Science and David Petrescu, Industrial Experience year tutor for your placement.
+
+(ref:captionengineering) A panoramic picture of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building), home to the School of Engineering at the University of Manchester
+
 
 ## The Placements Team in Computer Science {#team}
 
 The placements team are here to support you on placement alongside the support you get from your employer: 
 
 1. **Duncan Hull**: Employability lead, Computer Science [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:team-fig)
-1. **David Petrescu**: Placement year tutor, Computer Science [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu),  see figure \@ref(fig:team-fig)
+1. **David Petrescu**: Placement year tutor for Industrial Experience in Computer Science [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu),  see figure \@ref(fig:team-fig)
 1. **Your personal tutor**: in _most_ cases this is the will be the same personal tutor you had in first year. If you're not sure who your personal tutor is, get in touch with the second year tutor listed in undergraduate handbook [@ughandbook] and the [Monday Mail](https://studentnet.cs.manchester.ac.uk/ugt/mondaymail/) [@mondaymail] 
 1. **The placements admin team**: A group in the School of Engineering, see section \@ref(contacts)
 1. **Your employer**: Principally your line manager(s) and [Human Resources](https://en.wikipedia.org/wiki/Human_resources) (HR) department, see chapter \@ref(employers)
 
 There's a picture of some of the placements team in figure \@ref(fig:team-fig).
-
-
 
 
 ## What is a placement year? {#placement}
@@ -78,7 +78,7 @@ We have tried to make this handbook as useful as possible but if you spot any er
 
 **EITHER**: 
 
-* Edit the [placement-handbook.docx](placement-handbook.docx) file, make sure you turn on [track changes in Microsoft Word](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so the placement team can manage your changes 
+* Edit the [placement-handbook.docx](placement-handbook.docx) file, make sure you turn on [track changes in Microsoft Word](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so other editos can see your changes. Please note, the images do not render well in the word document so it should only be used for editing text (not images or their captions) 
 
 **OR**:
 
@@ -90,6 +90,10 @@ We have tried to make this handbook as useful as possible but if you spot any er
 * Fork the repository [github.com/uomcs/placement-handbook](https://github.com/uomcs/placement-handbook), make changes and submit a pull request 
 * Email us any updates, see section \@ref(team)
 
+```{r team-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionteam)'}
+knitr::include_graphics("images/duncananddavid.png")
+```
+(ref:captionteam) Hello and welcome from Duncan Hull (left) employability lead for the Department of Computer Science and David Petrescu, Placement year tutor for your Industrial Experience.
 
 
 

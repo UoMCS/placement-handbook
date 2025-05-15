@@ -1,5 +1,15 @@
 # Your responsibilities on Industrial Experience {#you}
 
+As a student on Industrial Experience you have a range of responsibilites to your employer, the University and yourself.
+
+```{r resp-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionresponsibilities)", out.width = "100%"}
+knitr::include_graphics("images/mancmuseum.jpg")
+```
+
+(ref:captionresponsibilities) A panoramic picture of the [Manchester Museum](https://en.wikipedia.org/wiki/Manchester_Museum).
+
+## Students resonsibilities {#students}
+
 As a student, you are expected to complete documents for the University as part of the myPlacement application at [studentmobility.manchester.ac.uk](https://studentmobility.manchester.ac.uk/). This includes: **UNIV+: Work Placement Declaration **(subject to updates, check online for latest version). This document sets out some of your responsibilities. When you sign the document, you agree to the following:
 
 1. You will declare any disability or serious, unstable or difficult to manage physical or mental health conditions to my placement administrator at the earliest opportunity. You understand that my placement administrator will work alongside specialist services, such as the Disability Advisory and Support Service and Occupational Health, to investigate the support systems available to you from your employer and any additional funding that you may be entitled to.

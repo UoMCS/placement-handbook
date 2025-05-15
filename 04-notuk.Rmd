@@ -2,13 +2,15 @@
 
 Some degrees at the University of Manchester incorporate a period of study or work outside the University. [@studyabroad]
 
+```{r rothwell-fig, echo = FALSE, fig.align = "center",  fig.cap='(ref:captionrothwell)'}
+knitr::include_graphics("images/rothwell.jpg")
+```
+
+(ref:captionrothwell) A panoramic picture of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building), home to the School of Engineering at the University of Manchester.
+
 ## Study Abroad {#abroad}
 Study Abroad is **not** currently an option for Computer Science degrees at the University of Manchester, however, you can _work abroad_ (outside the UK) for your placement year. While most students do their placements in the UK,  it is possible to do placements outside the UK as well provided you can find a suitable employer and can get (or have) the right to work in the that country.
 
-```{r notuk-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap='(ref:captionnotuk)'}
-knitr::include_graphics(rep("images/outsideuk.png",3))
-```
-(ref:captionnotuk) You can do your Industrial Experience year outside the UK provided you have the right to work in that country or an employer is willing to sponsor the appropriate work visa for you. Either way, the University also needs to formally approve the placement. Creative Commons [BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) licensed map of Europe by Rob984 via Wikimedia Commons [w.wiki/3FXK](https://w.wiki/3FXK)
 
 In Computer Science for example, many students have done placement years at CERN in Switzerland. [@cern]
 
@@ -26,3 +28,9 @@ In some cases you can apply for funding from third parties such as the Turing Sc
 Students taking a placement outside the UK should apply to the University using MyPlacement in the usual way as described in section \@ref(basic).
 
 See also [Fees & funding](https://www.manchester.ac.uk/study/undergraduate/fees-and-funding/) and [Student visa holders](https://www.studentsupport.manchester.ac.uk/immigration-and-visas/)
+
+```{r notuk-fig, echo = FALSE, fig.align = "center",  fig.cap='(ref:captionnotuk)'}
+knitr::include_graphics("images/letsgooutside.png")
+```
+
+(ref:captionnotuk) You can do your Industrial Experience year outside the UK provided you have the right to work in that country or an employer is willing to sponsor the appropriate work visa for you. Either way, the University also needs to formally approve the placement. Creative Commons [BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) licensed map of Europe by Rob984 via Wikimedia Commons [w.wiki/3FXK](https://w.wiki/3FXK)

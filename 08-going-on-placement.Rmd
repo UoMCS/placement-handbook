@@ -1,10 +1,11 @@
 # So, you're going on Industrial Experience? {#starting}
 Congratulations, if you’ve accepted a job offer and its been approved, you’re ready to start your Industrial Experience placement. 
 
-```{r survival-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsurvival)"}
-knitr::include_graphics("images/DiveThriveSurvive.png")
+```{r onyerbike-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captiononyerbike)", out.width = "100%"}
+knitr::include_graphics("images/onyerbike.jpg")
 ```
-(ref:captionsurvival) How can you survive and thrive on your placement year? Jungle survival sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+(ref:captiononyerbike) You got on your bike [@tebbit], now your job is to ride it somewhere interesting with the help of your colleagues. A panoramic picture Starling Bank Bikes available for hire from [beeactive.tfgm.com/cycle-hire](https://beeactive.tfgm.com/cycle-hire/)
 
 
 ## Congratulations! {#congrats}
@@ -23,7 +24,7 @@ Crudely speaking there are three scenarios for your placement year show in figur
 1. Survive - you **will meet** the expectations of your employer
 1. Thrive - you will **exceed** the expectaons of your employer
 
-Most students **meet** or **exceed** the expectations of their employers. We want to help you achieve while avoiding the first scenario and pointing you to help and advice if you are struggling on placement. 
+Most students **meet** or **exceed** the expectations of their employers. We want to help you achieve this while avoiding the first scenario and pointing you to help and advice if you think you might be startin to (or you actually are) struggling on placement. 
 
 ## Key placement dates for IE {#keydates} 
 
@@ -118,3 +119,9 @@ While on placement you are an ambassador, see figure \@ref(fig:ambassador-fig). 
 
 ## Starting Your Future {#etc}
 This chapter has described some basic information to help you get started on a placement year at the University of Manchester, for a broader discussion of how to prepare yourself for the workplace, see _Starting Your Future_ at [cdyf.me/starting](https://www.cdyf.me/starting). [@starting]
+
+```{r survival-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsurvival)"}
+knitr::include_graphics("images/DiveThriveSurvive.png")
+```
+(ref:captionsurvival) How can you survive and thrive on your placement year? Jungle survival sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+

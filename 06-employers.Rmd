@@ -2,11 +2,11 @@
 
 Your employers responsibilities to you as their employee are outlined in the contract of employment you have signed. [@contract] You should read your contract of employment carefully before signing it.
 
-```{r gov-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongov)"}
-knitr::include_graphics("images/govuk.png")
+```{r emloyers-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionemployers)", out.width = "100%"}
+knitr::include_graphics("images/sunchester.jpg")
 ```
 
-(ref:captiongov) All employees have an employment contract with their employer. A contract is an agreement that sets out an employee’s employment conditions, rights, responsibilities and duties. The [gov.uk](https://www.gov.uk/) website gives you basic information on what to expect from UK employers. It is worth familiarising yourself with this information. [@contract;@employee]
+(ref:captionemployers) A panoramic picture of a sunny day on the Oxford Road with the [Kilburn Building](https://en.wikipedia.org/wiki/Kilburn_Building) on the right of the picture.
 
 
 ## What your employer needs to do {#eq}
@@ -23,4 +23,11 @@ Your employer must treat you with respect, just like they would any other employ
 If you don't think an employer can offer you the working conditions described in section \@ref(eq), we encourage you to look elsewhere for employment before signing a contract of employment.
 
 If you feel that your employer has withdrawn conditions in section \@ref(eq)_while_ you are employed on a placement year, please speak to your line manager about it and/or get in touch with the placements team sooner rather than later, see section \@ref(team). 
+
+```{r gov-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongov)"}
+knitr::include_graphics("images/govuk.png")
+```
+
+(ref:captiongov) All employees have an employment contract with their employer. A contract is an agreement that sets out an employee’s employment conditions, rights, responsibilities and duties. The [gov.uk](https://www.gov.uk/) website gives you basic information on what to expect from UK employers. It is worth familiarising yourself with this information. [@contract;@employee]
+
 
