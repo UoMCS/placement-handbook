@@ -6,7 +6,7 @@ A key part of Industrial Experience is developing professional skills in the wor
 knitr::include_graphics("images/waterloo.jpg")
 ```
 
-(ref:captionaims) A panoramic picture of Waterloo Place on the Oxford Road in Manchster
+(ref:captionaims) Your placement year shouldn't be like the [Battle of Waterloo](https://en.wikipedia.org/wiki/Battle_of_Waterloo) but it should be an adventure. Understanding the aims of Industrial Experience will make for a more enjoyable year. Panoramic picture of Waterloo Place on the Oxford Road in Manchster
 
 ## Intended Learning Outcomes {#ilos}
 
@@ -49,7 +49,7 @@ We require students to audit their skills at the beginning and end of their plac
 knitr::include_graphics("images/skills-audit-graphic.jpg")
 ```
 
-(ref:captionskillsaudit) The skills audit you complete at the beginning and end of your placement year will help you track your progress during Industrial Experience. The audits will also develop your self-awareness and better articulate what you have to offer to prospective employers, find out more at [www.careers.manchester.ac.uk/options/skills/myskills](https://www.careers.manchester.ac.uk/options/skills/myskills/) [@audit]
+(ref:captionskillsaudit) The skills audit you complete at the beginning and end of your placement will help you track your progress during your Industrial Experience year. The audits will also develop your self-awareness and better articulate what you have to offer to prospective employer in the future, find out more at [www.careers.manchester.ac.uk/options/skills/myskills](https://www.careers.manchester.ac.uk/options/skills/myskills/) [@audit]
 
 
 ## Exploring your digital capabilities {#digital}

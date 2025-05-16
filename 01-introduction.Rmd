@@ -8,7 +8,7 @@ Studying engineering at the University of Manchester helps you to to gain techni
 knitr::include_graphics("images/whitworth.jpg")
 ```
 
-(ref:captionexperience) Industrial Experience is your entrance to new opportunities in the workplace. A panoramic picture of the Queen's Arch and entrances to the [Whitworth Building](https://en.wikipedia.org/wiki/Whitworth_Building) at the University of Manchester
+(ref:captionexperience) Industrial Experience (IE) is an entrance way to new opportunities provided by your employer to develop your skills and knowledge. Panoramic picture of entrances and the Queen's Arch of the [Whitworth Building](https://en.wikipedia.org/wiki/Whitworth_Building) at the University of Manchester
 
 
 ## The value of IE for you {#value}
@@ -41,11 +41,18 @@ The are many advantages to the University of you doing a placement year
 
 ## Industrial Experience: Win-win-win? {#win}
 
-So placements can be a win-win-win situation for all three parties involved:
+So Industrial Experience placements can be a _win-win-win_ situation for all three parties involved:
 
 * they are a win for your employer, for the reasons outlined in section \@ref(evalue)
 * they are a win for the University, for the reasons outlined in section \@ref(uvalue)
 * they are a win for _you_, for the reasons outlined in section \@ref(value)
 
-So, we hope that you enjoy and make the most of your placement year in industry, the rest of this guide helps you to do that. We wish you the best of luck on your journey!
+So, we hope that you enjoy and make the most of your Industrial Experience placement year in industry.  The rest of this guide helps you to do just that. We wish you the best of luck on your journey and look forward to hearing how you get progress.
+
+```{r winwinwin-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionwinwinwin)", out.width = "100%"}
+knitr::include_graphics("images/winwinwin.png")
+```
+
+(ref:captionwinwinwin) Industrial Experience can be a win-win-win situation for all three parties involved: you, your employer _and_ your University.  [Creative Commons BY](https://creativecommons.org/licenses/by/2.0/deed.en) image of the UEFA Champions League Trophy by David Flores on Wikimedia Commons [w.wiki/6Ubh](https://w.wiki/6Ubh)
+
 

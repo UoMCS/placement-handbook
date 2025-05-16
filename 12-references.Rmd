@@ -1,3 +1,5 @@
 `r if (knitr:::is_html_output()) '
 # References {-}
+
+This chapter lists everything we have cited in this guidebook all in one place.
 '`

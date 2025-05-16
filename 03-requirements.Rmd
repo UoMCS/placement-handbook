@@ -35,13 +35,15 @@ The basic requirements might sound simple but finding a suitable placement requi
 1. If you are made job offer that you'd like to accept you need tell us about it, BEFORE you sign any formal contract of employment 
 
 ## Grade requirements 
-There are no minimum grade requirements besides passing the first and second year of your degree. The placement year doesn’t count towards your degree classification, but it **does** appear in the title of your degree e.g.
+There are no minimum grade requirements besides passing the first and second year of your degree. Ideally you will pass first time, but its OK to pass with resits, see section \@ref(resits). Your placement year doesn’t count towards your degree classification, but it **does** appear in the title of your degree e.g.
 
 * `BSc (Hons) Computer Science with Industrial Experience`
 
 Instead of:
 
 * `BSc (Hons) Computer Science`: the “vanilla” degree
+
+Your placement year is also assessed, as described in chapter \@ref(assessment).
 
 ## Visa requirements 
 

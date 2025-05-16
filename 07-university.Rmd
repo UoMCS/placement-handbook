@@ -1,6 +1,6 @@
-# University responsibilities to studnets on Industrial Experience {#university}
+# University Responsibilities to Students on IE {#university}
 
-The University has a duty of care for students on campus _and_ on placement. 
+The University has a duty of care for students on campus _and_ on placement. We take that duty of care very seriously.
 
 ```{r burlington-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionburlington)", out.width = "100%"}
 knitr::include_graphics("images/burlington.jpg")

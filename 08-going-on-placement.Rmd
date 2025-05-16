@@ -1,11 +1,11 @@
-# So, you're going on Industrial Experience? {#starting}
+# So, You're Going on Industrial Experience? {#starting}
 Congratulations, if you’ve accepted a job offer and its been approved, you’re ready to start your Industrial Experience placement. 
 
 ```{r onyerbike-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captiononyerbike)", out.width = "100%"}
 knitr::include_graphics("images/onyerbike.jpg")
 ```
 
-(ref:captiononyerbike) You got on your bike [@tebbit], now your job is to ride it somewhere interesting with the help of your colleagues. A panoramic picture Starling Bank Bikes available for hire from [beeactive.tfgm.com/cycle-hire](https://beeactive.tfgm.com/cycle-hire/)
+(ref:captiononyerbike) So, you got “[on your bike](https://en.wiktionary.org/wiki/on_your_bike)” [@tebbit] and you are going away on a new adventure? Now your job is to ride that metaphorical bike somewhere interesting with the help of your new colleagues. Panoramic picture Starling Bank Bikes, available for hire from [beeactive.tfgm.com/cycle-hire](https://beeactive.tfgm.com/cycle-hire/)
 
 
 ## Congratulations! {#congrats}
@@ -57,9 +57,17 @@ For students on placement outside the UK (only) **20-31 January 2026** Students 
  Academic tutor, personal tutor and stuent meeting,  **31 March – 25 April 2026**. Students should coordinate with academic, supervisor/line manager to arrange a suitable time and date. If you are not able to arrange a date during this time period, the meeting needs to take place before the end of your placement year
 
 
-### Project selection {#four}
+### Honours Project selection {#four}
 
-See email from [Terence Morley](https://research.manchester.ac.uk/en/persons/terence.morley), make your project selections or propose an own project early **May 2026**
+The `(Hons)` in your `BSc (Hons) Computer Science with Industrial Experience` comes from your **Honours Project**, aka 3rd year (of final year) project. In April/May of your placement year you'll need to either: 
+
+* Pick a project proposed by an academic from the honours project book 
+
+**OR** 
+
+* Propose your own project and find an academic who will agree to supervise it
+
+You'll get an email from [Terence Morley](https://research.manchester.ac.uk/en/persons/terence.morley), make your project selections or propose an own project early **April/May 2026**.
 
 
 ### Placement report submission {#five}

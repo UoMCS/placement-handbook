@@ -1,4 +1,4 @@
-# Employers responsibilities to students on IE {#employers}
+# Employers Responsibilities to Students on IE {#employers}
 
 Your employers responsibilities to you as their employee are outlined in the contract of employment you have signed. [@contract] You should read your contract of employment carefully before signing it.
 
@@ -6,7 +6,7 @@ Your employers responsibilities to you as their employee are outlined in the con
 knitr::include_graphics("images/sunchester.jpg")
 ```
 
-(ref:captionemployers) A panoramic picture of a sunny day on the Oxford Road with the [Kilburn Building](https://en.wikipedia.org/wiki/Kilburn_Building) on the right of the picture.
+(ref:captionemployers) A panoramic picture of the Oxford Road with University Place on the left and the [Kilburn Building](https://en.wikipedia.org/wiki/Kilburn_Building) on the right of the picture.
 
 
 ## What your employer needs to do {#eq}
@@ -43,4 +43,4 @@ knitr::include_graphics("images/govuk.png")
 (ref:captiongov) All employees have an employment contract with their employer. A contract is an agreement that sets out an employee’s employment conditions, rights, responsibilities and duties. The [gov.uk](https://www.gov.uk/) website gives you basic information on what to expect from UK employers. It is worth familiarising yourself with this information. [@contract;@employee]
 
 
-If you're not working in the UK you'll need to familiarise yourself with your rights and responsibilities as an employee, see chapter \@ref(notuk)
+If you're not working in the UK you'll need to familiarise yourself with your rights and responsibilities as an employee in the country you are living in, see chapter \@ref(notuk)

@@ -1,4 +1,4 @@
-# Key contacts for Industrial Experience {#contacts}
+# Key Contacts for Industrial Experience {#contacts}
 
 This page lists contacts that will be useful to you on your placement year
 
@@ -30,6 +30,8 @@ The Careers Service offers support and advice throughout your time at the Univer
 
 For students interested in international placements see [GoinGlobal](https://www.careers.manchester.ac.uk/international/goinglobal/). [@goinglobal]
 
+Careers service consultants for the University are listed online. [@consultants]
+
 ## Wellbeing Support Services {#wellbeing}
 
 There are a wide range of support services available to you across the university and externally:
@@ -37,7 +39,7 @@ There are a wide range of support services available to you across the universit
 Wellbeing Support Services, see [https://www.studentsupport.manchester.ac.uk/taking-care](https://www.studentsupport.manchester.ac.uk/taking-care/) [@wellbeing]
 
 * **University Counselling and Mental Health Service** at [counsellingservice.manchester.ac.uk](https://www.counsellingservice.manchester.ac.uk/) [@counselling]
-* **University GP Service** If you are on placement in Manchester there is an on-campus medical GP practice provided by the Robert Darbishire Practice. It’s located in Crawford House on campus and you can register as a patient at [rdp.org.uk/form/new-patient-registration](https://rdp.org.uk/form/new-patient-registration/).  Find out more about the University GP Service on the Robert Darbishire Practice website at [rdp.org.uk](https://rdp.org.uk).[@darbishire]
+* **GP Services** If you are on placement in England, you'll need to register with a GP surgery. [@registerNHS] If you are on placement in Manchester, you can use the University campus medical GP practice provided by the Robert Darbishire Practice. It is located in Crawford House and you can register as a patient at [rdp.org.uk/form/new-patient-registration](https://rdp.org.uk/form/new-patient-registration/).  Find out more about the University GP Service on the Robert Darbishire Practice website at [rdp.org.uk](https://rdp.org.uk).[@darbishire]
 * **Health Assured 24/7 Helpline**: The service gives you access to empathetic and compassionate support over the phone, in person or online with a trained counsellors. Freephone: 0800 028 3766 or download my healthy advantage app for live chat at [healthassured.org/wisdom-app](https://www.healthassured.org/wisdom-app/)
 * **Manchester Mind**: A mental health charity that offer support and advice, and also have a Self-Care Hub which you might want to look at for wellbeing resources: [manchestermind.org/our-services](https://www.manchestermind.org/our-services/) [@manchestermind]
 * **Qwell**: An online community that offers mental health support 24 hours per day. You can join Qwell

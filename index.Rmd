@@ -15,9 +15,9 @@ github-repo: UoMCS/placement-handbook
 description: "A guidebook for undergraduate students students at the University of Manchester before, during and after their placement in industry"
 ---
 
-# Welcome {-}
+# Welcome to Industrial Experience (IE) {-}
 
-Welcome to the placement manual, this handbook is for undergraduate students studying Computer Science at the University of Manchester before, during and after their Industrial Experience (IE) placements in industry.
+Welcome to the Industrial Experience (IE) placement handbook. This book is primarily for undergraduate students studying Computer Science in the School of Engineering at the University of Manchester. The handbook has been written to help you (and your personal tutor) before, during and after your year-long placement in industry.
 
 ```{r engineering-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionengineering)", out.width = "100%"}
 knitr::include_graphics("images/rothwell.jpg")
@@ -28,11 +28,11 @@ knitr::include_graphics("images/rothwell.jpg")
 
 ## The Placements Team in Computer Science {#team}
 
-The placements team are here to support you on placement alongside the support you get from your employer: 
+The placements team are here to provide support for your Industrial Experience alongside the support you get from your employer. The team consists of:
 
 1. **Duncan Hull**: Employability lead, Computer Science [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:team-fig)
 1. **David Petrescu**: Placement year tutor for Industrial Experience in Computer Science [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu),  see figure \@ref(fig:team-fig)
-1. **Your personal tutor**: in _most_ cases this is the will be the same personal tutor you had in first year. If you're not sure who your personal tutor is, get in touch with the second year tutor listed in undergraduate handbook [@ughandbook] and the [Monday Mail](https://studentnet.cs.manchester.ac.uk/ugt/mondaymail/) [@mondaymail] 
+1. **Your personal tutor**: in _most_ cases this will be the same personal tutor you had in first year. If you are not sure who your personal tutor is, get in touch with the second year tutor listed in undergraduate handbook [@ughandbook] and the [Monday Mail](https://studentnet.cs.manchester.ac.uk/ugt/mondaymail/) [@mondaymail] 
 1. **The placements admin team**: A group of professional services staff providing adminstrative support in the School of Engineering, see section \@ref(contacts)
 1. **Your employer**: Principally your line manager(s), colleagues and [Human Resources](https://en.wikipedia.org/wiki/Human_resources) (HR) department, see chapter \@ref(employers)
 
@@ -52,9 +52,9 @@ During your placement you are a both full-time student and an employee of an org
 Placements aren't the _only_ way to get experience before you graduate, but they are one of the most popular. For a discussion advantages and disadvantages of placement years over summer internships see [cdyf.me/experiencing#interns](https://www.cdyf.me/experiencing#interns) [@experiencing]
 
 
-## Placement year fees {#fees}
+## Placement year fees for IE {#fees}
 
-You pay reduced tuition fees for your placement year, these are not the full tuition fees you pay while studying at University full time. The amount you pay depends on if you are an international student (or not) see [Study Abroad, Placements and Other fees](https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/) [@fees]
+You pay reduced tuition fees for your placement year, these are not the full tuition fees you pay while studying at University full time, although for tax purposes you are still a full-time student, see section \@ref(taxes). The fees you pay depend on if you are an international student (or not) see [Study Abroad, Placements and Other fees](https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/) [@fees]
 
 
 ## How this handbook is structured {#guide}
@@ -70,15 +70,15 @@ The rest of this placement handbook is structured as follows:
 * Chapter \@ref(starting) is a starter guide for those finishing their second year of study 
 * Chapter \@ref(assessment) describes how your placement year is assessed
 * Chapter \@ref(tutors) is the guide for your personal tutor who visits you on placement
-* Chapter \@ref(contacts) lists all the contacts you'll need for your year in industry
+* Chapter \@ref(contacts) lists all the most important contacts you're likely to need for your year in industry
 
 ## Editing this handbook {#edit}
 
-We have tried to make this handbook as useful as possible but if you spot any errors or omissions, we appreciate your contributions. You can do this in several ways outlined below.
+We have tried to make this handbook as useful as possible but if you spot any errors or omissions, we appreciate your contributions and corrections. You can do this in several ways outlined below.
 
 **EITHER**: 
 
-* Edit the [placement-handbook.docx](placement-handbook.docx) file, make sure you turn on [track changes in Microsoft Word](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so other editos can see your changes. Please note, the images do not render well in the word document so it should only be used for editing text (not images or their captions) 
+* Edit the [placement-handbook.docx](placement-handbook.docx) file, make sure you turn on [track changes in Microsoft Word](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so other editors can see your changes. Please note, the images do not render well in the word document so it should only be used for editing the text, not the images.
 
 **OR**:
 
@@ -90,7 +90,7 @@ We have tried to make this handbook as useful as possible but if you spot any er
 * Fork the repository [github.com/uomcs/placement-handbook](https://github.com/uomcs/placement-handbook), make changes and submit a pull request 
 * Email us any updates, see section \@ref(team)
 
-## Academic leads {#leads}
+## Academic leads for IE {#leads}
 
 By your second year, you should have already met us, but in case you've forgotten who we are or what we look like, there's a reminder in figure \@ref(fig:team-fig)
 
