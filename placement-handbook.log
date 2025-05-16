@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  15 MAY 2025 23:08
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  16 MAY 2025 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -722,8 +722,8 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 [6
 
 ]
-File: images/engineering.jpg Graphic file (type bmp)
-<images/engineering.jpg>
+File: images/rothwell.jpg Graphic file (type bmp)
+<images/rothwell.jpg>
 
 Underfull \hbox (badness 5231) in paragraph at lines 123--125
 []\TU/lmr/bx/n/10 Duncan Hull\TU/lmr/m/n/10 : Employability lead, Computer Science []manch-
@@ -738,16 +738,20 @@ Underfull \hbox (badness 5460) in paragraph at lines 217--219
 []\TU/lmr/m/n/10 Fork the repository []github.com/uomcs/placement-handbook[], make
  []
 
-File: images/duncananddavid.png Graphic file (type bmp)
-<images/duncananddavid.png>
 
 
 [9]
+File: images/duncananddavid.png Graphic file (type bmp)
+<images/duncananddavid.png>
+
 
 [10]
 Chapter 1.
 File: images/whitworth.jpg Graphic file (type bmp)
 <images/whitworth.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [11
@@ -767,23 +771,23 @@ File: images/waterloo.jpg Graphic file (type bmp)
 
 
 [15]
+
+[16]
 File: images/skills-audit-graphic.jpg Graphic file (type bmp)
 <images/skills-audit-graphic.jpg>
 
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 408--410
+Underfull \hbox (badness 10000) in paragraph at lines 424--426
 []\TU/lmr/m/n/10 education.library.manchester.ac.uk/none-programme-content/digital-
- []
-
-
-Overfull \hbox (108.76001pt too wide) in paragraph at lines 410--411
-[]\TU/lmr/m/n/10 My Skills Development – on CareerConnect []www.careers.manchester.ac.uk/options/skills/myskills/[]
  []
 
 
 
 [17]
+Overfull \hbox (108.76001pt too wide) in paragraph at lines 426--427
+[]\TU/lmr/m/n/10 My Skills Development – on CareerConnect []www.careers.manchester.ac.uk/options/skills/myskills/[]
+ []
+
+
 
 [18]
 Chapter 3.
@@ -794,23 +798,18 @@ File: images/uniplace.jpg Graphic file (type bmp)
 [19
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 485--487
-[]\TU/lmtt/m/n/10 BSc (Hons) Computer Science with Industrial Experience\TU/lmr/m/n/10 : in-
- []
-
-
-
-[20]
 File: images/plans.png Graphic file (type bmp)
 <images/plans.png>
 
+
+[20]
 
 [21]
 
 [22]
 Chapter 4.
-File: images/rothwell.jpg Graphic file (type bmp)
-<images/rothwell.jpg>
+File: images/queensarch.jpg Graphic file (type bmp)
+<images/queensarch.jpg>
 
 
 [23
@@ -819,12 +818,12 @@ File: images/rothwell.jpg Graphic file (type bmp)
 File: images/letsgooutside.png Graphic file (type bmp)
 <images/letsgooutside.png>
 
-Overfull \hbox (1305.0228pt too wide) in paragraph at lines 575--576
+Overfull \hbox (1305.0228pt too wide) in paragraph at lines 597--598
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 72.50755pt on input line 580.
+LaTeX Warning: Float too large for page by 72.50755pt on input line 602.
 
 
 
@@ -869,57 +868,53 @@ File: images/govuk.png Graphic file (type bmp)
 <images/govuk.png>
 
 
-
-Overfull \hbox (102.31453pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 32 \TU/lmr/m/sl/10 CHAPTER 6.  EMPLOYERS RESPONSIBILITIES TO INDUSTRIAL EXPERIENCE STUDENTS
- []
-
 [32]
+
+[33]
+
+[34
+
+]
 Chapter 7.
 File: images/burlington.jpg Graphic file (type bmp)
 <images/burlington.jpg>
 
 
-[33
-
-]
+[35]
 File: images/msteams.png Graphic file (type bmp)
 <images/msteams.png>
 
 
 
-Overfull \hbox (102.71452pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 34 \TU/lmr/m/sl/10 CHAPTER 7.  UNIVERSITY RESPONSIBILITIES TO INDUSTRIAL EXPERIENCE STUDENTS
+Overfull \hbox (120.21342pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 36 \TU/lmr/m/sl/10 CHAPTER 7.  UNIVERSITY RESPONSIBILITIES TO STUDNETS ON INDUSTRIAL EXPERIENCE
  []
 
-[34]
+[36]
 Chapter 8.
 File: images/onyerbike.jpg Graphic file (type bmp)
 <images/onyerbike.jpg>
 
 
-[35
+[37
 
 ]
 
-[36]
-
-[37]
-
 [38]
+
+[39]
+
+[40]
 File: images/ambassador.png Graphic file (type bmp)
 <images/ambassador.png>
 
-Underfull \vbox (badness 3333) has occurred while \output is active []
 
-
-
-[39]
+[41]
 File: images/DiveThriveSurvive.png Graphic file (type bmp)
 <images/DiveThriveSurvive.png>
 
 
-[40]
+[42]
 Chapter 9.
 File: images/assessment.jpg Graphic file (type bmp)
 <images/assessment.jpg>
@@ -928,74 +923,77 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[41
-
-]
-
-
-Overfull \hbox (14.66452pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 42 \TU/lmr/m/sl/10 CHAPTER 9.  ASSESSMENT OF YOUR INDUSTRIAL EXPERIENCE YEAR
- []
-
-[42]
-Chapter 10.
-File: images/computerscience.jpg Graphic file (type bmp)
-<images/computerscience.jpg>
-
-
 [43
 
 ]
 
 
-Overfull \hbox (3.73453pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 44 \TU/lmr/m/sl/10 CHAPTER 10.  TUTOR GUIDE FOR INDUSTRIAL EXPERIENCE VISITS
+Overfull \hbox (14.66452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 44 \TU/lmr/m/sl/10 CHAPTER 9.  ASSESSMENT OF YOUR INDUSTRIAL EXPERIENCE YEAR
  []
 
 [44]
-Overfull \hbox (32.55002pt too wide) in paragraph at lines 1110--1112
-\TU/lmr/m/n/10 see []www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings[] 
- []
+Chapter 10.
+File: images/computerscience.jpg Graphic file (type bmp)
+<images/computerscience.jpg>
 
 
+[45
 
-[45]
+]
 
 
 Overfull \hbox (3.73453pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 46 \TU/lmr/m/sl/10 CHAPTER 10.  TUTOR GUIDE FOR INDUSTRIAL EXPERIENCE VISITS
  []
 
-[46
+[46]
+Overfull \hbox (32.55002pt too wide) in paragraph at lines 1158--1160
+\TU/lmr/m/n/10 see []www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings[] 
+ []
+
+
+
+[47]
+
+
+Overfull \hbox (3.73453pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 48 \TU/lmr/m/sl/10 CHAPTER 10.  TUTOR GUIDE FOR INDUSTRIAL EXPERIENCE VISITS
+ []
+
+[48
 
 ]
 Chapter 11.
 File: images/kilburnarama.jpg Graphic file (type bmp)
 <images/kilburnarama.jpg>
 
-Underfull \hbox (badness 1337) in paragraph at lines 1137--1139
+Underfull \hbox (badness 1337) in paragraph at lines 1185--1187
 []\TU/lmr/m/n/10 Computer Science placements team: []$[][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1139--1140
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1188
 []\TU/lmr/m/n/10 Engineering placements administration team: []$[][][] [] [][][][][][][][][][] []
  []
 
 
+Underfull \vbox (badness 1270) has occurred while \output is active []
 
-[47]
-Overfull \hbox (32.65202pt too wide) in paragraph at lines 1162--1163
+
+
+[49]
+Overfull \hbox (32.65202pt too wide) in paragraph at lines 1210--1211
 []\TU/lmr/m/n/10 Wellbeing Support Services, see []https://www.studentsupport.manchester.ac.uk/taking-
  []
 
 
 
-[48] (./placement-handbook.bbl
+[50] (./placement-handbook.bbl
 
-[49]
+[51]
 
-[50
+[52
 
 ]
 Underfull \hbox (badness 1077) in paragraph at lines 34--37
@@ -1024,60 +1022,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--57
 
 
 
-[51]
-Underfull \hbox (badness 2418) in paragraph at lines 89--92
+[53]
+Underfull \hbox (badness 2418) in paragraph at lines 94--97
 []\TU/lmr/m/n/10 Georgia Greer.  What’s the state of graduate recruitment in 2024?,
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 139--142
+Underfull \hbox (badness 2142) in paragraph at lines 99--102
+[]\TU/lmr/m/n/10 HESA.  The Graduate Outcomes Survey, 2025.  URL []$[][][][][] [] [] [] [][][] []
+ []
+
+
+
+[54]
+Underfull \hbox (badness 1371) in paragraph at lines 174--177
 []\TU/lmr/m/n/10 Kelly-Ann Mallon.  Professionalism, 2025e.  URL []$[][][][][] [] [] [] [][][] [] [][][][][][][] []
  []
 
 
 
-[52]
-Underfull \hbox (badness 5893) in paragraph at lines 219--222
+[55]
+Underfull \hbox (badness 5893) in paragraph at lines 274--277
 []\TU/lmr/m/n/10 Michael Soft.  Create a scheduling poll in outlook for windows,
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 229--232
-[]\TU/lmr/m/n/10 Student Support.  Study abroad, placements and other fees, 2025b.
+Underfull \hbox (badness 1796) in paragraph at lines 284--287
+[]\TU/lmr/m/n/10 Student Support.  Study Abroad, Placements and Other fees, 2025b.
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 229--232
+Underfull \hbox (badness 7888) in paragraph at lines 284--287
 \TU/lmr/m/n/10 URL []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][] [] [][][][][][][][][][] [] [][] [] [][] [] [][][][][][][][] [] [][][][][][][] [][] [][][][] []
  []
 
 
-Underfull \hbox (badness 5288) in paragraph at lines 234--237
+Underfull \hbox (badness 5288) in paragraph at lines 289--292
 []\TU/lmr/m/n/10 Student Support.  Mitigating circumstances and extension requests,
  []
 
 
-
-[53]
-Underfull \hbox (badness 7963) in paragraph at lines 249--252
+Underfull \hbox (badness 7963) in paragraph at lines 304--307
 []\TU/lmr/m/n/10 Student Support.  Student visas: Working during your studies,
  []
 
 )
 
-[54] (./placement-handbook.aux)
+[56] (./placement-handbook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 17702 strings out of 475846
- 324720 string characters out of 5774061
- 876104 words of memory out of 5000000
- 40392 multiletter control sequences out of 15000+600000
+ 17741 strings out of 475846
+ 325311 string characters out of 5774061
+ 875919 words of memory out of 5000000
+ 40431 multiletter control sequences out of 15000+600000
  565296 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 90i,6n,114p,642b,565s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,6n,114p,651b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on placement-handbook.pdf (54 pages).
+Output written on placement-handbook.pdf (56 pages).

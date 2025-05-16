@@ -3,10 +3,10 @@
 Some degrees at the University of Manchester incorporate a period of study or work outside the University. [@studyabroad]
 
 ```{r rothwell-fig, echo = FALSE, fig.align = "center",  fig.cap='(ref:captionrothwell)'}
-knitr::include_graphics("images/rothwell.jpg")
+knitr::include_graphics("images/queensarch.jpg")
 ```
 
-(ref:captionrothwell) A panoramic picture of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building), home to the School of Engineering at the University of Manchester.
+(ref:captionrothwell) A panoramic picture of the Queen's Arch and the [Whitworth Building](https://en.wikipedia.org/wiki/Whitworth_Building) in Manchester. While many studnets work in Manchester, and most stay in the UK, it is possible to work outside the UK provided certain conditions are met, outlined in this chapter.
 
 ## Study Abroad {#abroad}
 Study Abroad is **not** currently an option for Computer Science degrees at the University of Manchester, however, you can _work abroad_ (outside the UK) for your placement year. While most students do their placements in the UK,  it is possible to do placements outside the UK as well provided you can find a suitable employer and can get (or have) the right to work in the that country.

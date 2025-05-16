@@ -1,4 +1,4 @@
-# Key contacts {#contacts}
+# Key contacts for Industrial Experience {#contacts}
 
 This page lists contacts that will be useful to you on your placement year
 
@@ -19,7 +19,7 @@ In an emergency if you are a Manchester student working overseas please contact 
 
 The University operate a 24 hour emergency helpline tel:+441613069966
 
-Whilst on placement the responsibility for looking after your health and safety rests with your employer.
+Whilst on placement the responsibility for looking after your health and safety rests with your employer, see chapter \@ref(employers)
 
 Students should raise any concerns in the first place with the workplace supervisor (your manager) and then either through the management line of with the Health & Safety contact. If issues are not resolved, then you should contact the placement academic or placements team soe.placements@manchester.ac.uk.
 

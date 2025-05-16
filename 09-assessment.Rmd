@@ -6,7 +6,7 @@ Your placement is formatively assessed by visits during your placement and a sho
 knitr::include_graphics("images/assessment.jpg")
 ```
 
-(ref:captionassessment) Your placement year is an assessed part of your undergraduate degree, but you won't have to sit any traditional univesity exams. Your tutor and the placement team will be assessing your progress on placement as outlined in this chapter. Your performance will also be ``examined'' and judged by your employer, though not all will give you a grade or classification for this. Panoramic picture of Assessment Desktops during exam season at the University of Manchester.
+(ref:captionassessment) Your placement year is an assessed part of your undergraduate degree, but you won't have to sit any traditional univesity exams. Your tutor and the placement team will be assessing your progress on placement as outlined in this chapter. Your performance will also be “examined” and judged by your employer, though not all will give you a grade or classification for this. Panoramic picture of Assessment Desktops during exam season at the University of Manchester.
 
 ## Bachelors degrees: BSc {#bsc}
 

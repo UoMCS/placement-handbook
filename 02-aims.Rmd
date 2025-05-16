@@ -16,7 +16,7 @@ The Intended Learning Outcomes (ILOs) for the placement year are
 * To apply the skills and knowledge you've learned at University in the workplace as directed by your employer
 * To grow as a professional by seeking out development opportunities to acquire new skills and knowledge in the workplace
 *  To meet (or exceed) the expectations of your employer, as set out in your contract of employment
-* To describe your development as a professional in a short written report and (optionally) to share that with other students on your course
+* To describe your development as a professional in a short written report and (optionally) to share your experience other students on your course via PASS, Student Societies and other teaching activities
 
 Some of this will involve developing softer skills, digital skills and knowledge beyond your University curriculum, some of which are described below. The assessment of the ILOs above is described in chapter \@ref(assessment).
 
@@ -28,13 +28,17 @@ You may have done some group work during your undergraduate study, but most of t
 * Exam performance: exams try to measure your skills and knowledge as an individual, collaboration (as in plagiarism) is punished
 * Coursework submission: most coursework tends to be solo projects, that you do on your own, collaboration (as in plagiarism) is usually punished
 
-The workplace is different. You will probably spend a significant amout of time collaborating with more diverse teams of people than you did at University. This means that professional skills, sometimes called [soft skills](https://en.wikipedia.org/wiki/Soft_skills) [@soft;@transferable;@professionalism], are important such as:
+The workplace is different. You will probably spend a significant amout of time collaborating with more diverse teams of people than you did at University. This means that professional skills, sometimes called [soft skills](https://en.wikipedia.org/wiki/Soft_skills) , are important such as:
 
-* Teamwork
-* Leadership
-* Adaptability
-* Negotiation
-* Communication: reading, writing, speaking and listening
+* Teamwork [@soft]
+* Leadership [@transferable]
+* Adaptability [@professionalism]
+* Negotiation [@verbalising]
+* Communication: 
+    + Reading [@reading]
+    + Writing [@writing]
+    + Speaking [@speaking]
+    + Listening [@hearing]
 
 Your placement is an opportunity to develop these professional skills, while also deepening and broadening your technical knowledge.
 

@@ -18,13 +18,13 @@ You've done very well to find a placement during a year when graduate applicatio
 So, you've done incredibly well to find a placement in a very competitve job market. Give yourself a pat on the back!
 
 ## Dive, Survive or Thrive? {#thrive}
-Crudely speaking there are three scenarios for your placement year show in figure \@ref(fig:survival-fig):
+Crudely speaking there are three scenarios for your placement year shown in figure \@ref(fig:survival-fig), they are:
 
 1. Dive - you **won't meet** the expectations of your employer
 1. Survive - you **will meet** the expectations of your employer
 1. Thrive - you will **exceed** the expectaons of your employer
 
-Most students **meet** or **exceed** the expectations of their employers. We want to help you achieve this while avoiding the first scenario and pointing you to help and advice if you think you might be startin to (or you actually are) struggling on placement. 
+Most students **meet** or **exceed** the expectations of their employers. We want to help you achieve this while avoiding the first scenario and pointing you to help and advice if you think you might be starting to (or you actually are) struggling on placement. 
 
 ## Key placement dates for IE {#keydates} 
 
@@ -36,12 +36,12 @@ There are seven key dates you need to pay attention to before, during and after 
 1. Three way progress meeting, see section \@ref(three)
 1. Project selection, see section \@ref(four)
 1. Report submission, see section \@ref(five)
-1. Industrial Experience panel for incoming year 2 students, see section \@ref(five)
+1. Industrial Experience panel for incoming year 2 students, see section \@ref(six)
 
 
 ### Placement approval {#approval}
 
-Obtain and submit plans for formal academic approval deadline, **31 August 2025**, see section \@(basic)
+Obtain and submit plans for formal academic approval of your placement, deadline **31 August 2025**, see section \@ref(basic)
 
 
 ### First check-in meeting {#one}
@@ -81,10 +81,15 @@ If you'd like to serve on a IE panel during welcome week lecture for next years 
 
 If you fail any of your second year exams, you may need to resit them. This doesn't prevent you from doing your placement, but you will need to negotiate some time off to resit any exams and these will need to be done in person in Manchester. [@resits]
 
+## Mitigating Circumstances {#mitcircs}
+
+Mitigating Circumstances is a policy and procedure in place whereby if students experience personal circumstances that affect their ability to perform to the best of their ability across exams, assessments, or their attendance to teaching activities (such as labs or workshops) they can apply for Mitigating Circumstances or Coursework Extension. [@mitcircs]
+
 ## Don't forget to read your University email! {#email} 
 Your employer will expect you to read your work email on a regular basis, we also expect you to read your University email `@student.manchester.ac.uk` too as it is our primary form of communication with you on your Industrial Experience placement.
 
 For example, your personal tutor and the placement year tutor will be sending you important information by email, so please make sure you read it regularly, we recommned somewhere between at least once a day and once a week.
+
 
 ## Paying your taxes {#taxes}
 

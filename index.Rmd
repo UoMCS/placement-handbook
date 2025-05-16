@@ -20,7 +20,7 @@ description: "A guidebook for undergraduate students students at the University 
 Welcome to the placement manual, this handbook is for undergraduate students studying Computer Science at the University of Manchester before, during and after their Industrial Experience (IE) placements in industry.
 
 ```{r engineering-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionengineering)", out.width = "100%"}
-knitr::include_graphics("images/engineering.jpg")
+knitr::include_graphics("images/rothwell.jpg")
 ```
 
 (ref:captionengineering) A panoramic picture of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building), home to the School of Engineering at the University of Manchester
@@ -33,15 +33,15 @@ The placements team are here to support you on placement alongside the support y
 1. **Duncan Hull**: Employability lead, Computer Science [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:team-fig)
 1. **David Petrescu**: Placement year tutor for Industrial Experience in Computer Science [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu),  see figure \@ref(fig:team-fig)
 1. **Your personal tutor**: in _most_ cases this is the will be the same personal tutor you had in first year. If you're not sure who your personal tutor is, get in touch with the second year tutor listed in undergraduate handbook [@ughandbook] and the [Monday Mail](https://studentnet.cs.manchester.ac.uk/ugt/mondaymail/) [@mondaymail] 
-1. **The placements admin team**: A group in the School of Engineering, see section \@ref(contacts)
-1. **Your employer**: Principally your line manager(s) and [Human Resources](https://en.wikipedia.org/wiki/Human_resources) (HR) department, see chapter \@ref(employers)
+1. **The placements admin team**: A group of professional services staff providing adminstrative support in the School of Engineering, see section \@ref(contacts)
+1. **Your employer**: Principally your line manager(s), colleagues and [Human Resources](https://en.wikipedia.org/wiki/Human_resources) (HR) department, see chapter \@ref(employers)
 
-There's a picture of some of the placements team in figure \@ref(fig:team-fig).
+Some of the placements team above are pictured in figure \@ref(fig:team-fig).
 
 
-## What is a placement year? {#placement}
+## What is an Industrial Experience placement year? {#placement}
 
-A placement is a formal period of paid work that is an assessed part of your study as an undergraduate. [@whatisie] The length of the employment varies, in this guide a placement (also known a year-in-industry or sandwich year) is a **full year** of paid employment. Placements take place in the penultimate year of your study, for Bachelors students, that's after your second year of study.
+A Industrial Experience (IE) placement is a formal period of paid work that is an assessed part of your study as an undergraduate. [@whatisie] The length of the employment varies with employers. In **this** guide a placement (also known a year-in-industry or sandwich year) is a **full year** of paid employment. Placements take place in the penultimate year of your study, for Bachelors students, that's _after_ your second year of study and _before_ your final year of study.
 
 * a placement is _not_ a summer internship, although these are also good things to do and lots of students do them
 * the usual duration of a placement is 12 months, typically starting between June and August, depending on the employer. At the University of Manchester, the minimum length of employment for placements is 9 months, though 12 months is much more common. 
@@ -84,16 +84,20 @@ We have tried to make this handbook as useful as possible but if you spot any er
 
 * Edit the source in markdown. That's all the `*.Rmd` files [available on github](https://github.com/search?q=repo%3AUoMCS%2Fplacement-handbook++language%3ARMarkdown&type=code) (github login required), which are used to generate all the outputs including: 
     + the [placement-handbook.pdf](placement-handbook.pdf)
-    + the [placement-handbook.docx](placement-handbook.docx)
+    + the [placement-handbook.docx](placement-handbook.docx), for editors only
     + the `*.html` files you see if you are viewing this text in a web browser
 * Raise new issues at [github.com/uomcs/placement-handbook/issues/new](https://github.com/uomcs/placement-handbook/issues/new) (github login required)
 * Fork the repository [github.com/uomcs/placement-handbook](https://github.com/uomcs/placement-handbook), make changes and submit a pull request 
 * Email us any updates, see section \@ref(team)
 
+## Academic leads {#leads}
+
+By your second year, you should have already met us, but in case you've forgotten who we are or what we look like, there's a reminder in figure \@ref(fig:team-fig)
+
 ```{r team-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionteam)'}
 knitr::include_graphics("images/duncananddavid.png")
 ```
-(ref:captionteam) Hello and welcome from Duncan Hull (left) employability lead for the Department of Computer Science and David Petrescu, Placement year tutor for your Industrial Experience.
+(ref:captionteam) Hello and welcome from Duncan Hull (left) employability lead for the Department of Computer Science and David Petrescu (right) Placement year tutor for your Industrial Experience, our contact details are shown in section \@ref(team)
 
 
 

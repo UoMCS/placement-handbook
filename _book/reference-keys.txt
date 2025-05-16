@@ -23,6 +23,7 @@ placement
 fees
 guide
 edit
+leads
 intro
 value
 evalue
@@ -52,9 +53,10 @@ runi
 employers
 eq
 unfair
+rights
 university
 tutor
-mitcircs
+ptutor
 starting
 congrats
 thrive
@@ -67,6 +69,7 @@ four
 five
 six
 resits
+mitcircs
 email
 taxes
 ambassador

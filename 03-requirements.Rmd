@@ -11,12 +11,18 @@ knitr::include_graphics("images/uniplace.jpg")
 
 ## Basic requirements {#basic}
 
-The basic requirements for Industrial Experience are:
+The basic requirements for Industrial Experience, shown in figure \@ref(fig:plans-fig) are:
 
 1. You should be registered on IE, this may require that you change degree program. Bachelors students can change onto and off IE any point up until the end of your by filling in the [change of degree form](https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php), either in print or pdf and getting it signed-off by the year tutor and employability lead [@changedegree]
 1. You have received a job offer and make an application for IE via [My Placement](https://studentmobility.manchester.ac.uk)  at [@myplacement]
 1. The University formally approves your placement application before you start work 
 1. You formally accept the job offer from the employer and sign a contract of employment
+
+```{r plans-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionplans)"}
+knitr::include_graphics("images/plans.png")
+```
+(ref:captionplans) Once you've received a job offer you need to: (1) check you are registered on IE (2) Tell us where you are going (3) Wait for approval and finally (4) Have your placement formally approved against the requirements outlined in section \@ref(basic)
+
 
 
 ## Finding a placemeent {#finding}
@@ -31,8 +37,11 @@ The basic requirements might sound simple but finding a suitable placement requi
 ## Grade requirements 
 There are no minimum grade requirements besides passing the first and second year of your degree. The placement year doesn’t count towards your degree classification, but it **does** appear in the title of your degree e.g.
 
-* `BSc (Hons) Computer Science with Industrial Experience`: instead of
-* `BSc (Hons) Computer Science`: the ``vanilla'' degree
+* `BSc (Hons) Computer Science with Industrial Experience`
+
+Instead of:
+
+* `BSc (Hons) Computer Science`: the “vanilla” degree
 
 ## Visa requirements 
 
@@ -55,12 +64,8 @@ During term-time, student visa holders are allowed to work up to 20 hours per we
 
 ## Working outside the UK
 
-It is possible to do a placement year outside the uk, these are described i the next section, chapter \@ref(notuk).
+It is possible to do a placement year outside the uk, these are described in the next part, chapter \@ref(notuk).
 
-```{r plans-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionplans)"}
-knitr::include_graphics("images/plans.png")
-```
-(ref:captionplans) Once you've received a job offer you need to: (1) check you are registered on IE (2) Tell us where you are going (3) Wait for approval and finally (4) Have your placement formally approved against the requirements outlined in section \@ref(basic)
 
 
 

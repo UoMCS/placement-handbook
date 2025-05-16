@@ -1,6 +1,6 @@
 # Tutor guide for Industrial Experience visits {#tutors}
 
-Information for personal tutors (academic staff) interviewing students (and their managers) on their Industrial Experience placement.
+Information for personal tutors (academic staff) interviewing students (and their managers) on their Industrial Experience (IE) placement year.
 
 ```{r computerscience-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captioncomputerscience)", out.width = "100%"}
 knitr::include_graphics("images/computerscience.jpg")
@@ -11,7 +11,7 @@ knitr::include_graphics("images/computerscience.jpg")
 ## Purpose of the meeting {#purpose}
 The purpose of the meeting between you (the tutor), your tutee (the student) and their manager(s) is to: 
 
-1. Find out what they have been doing, see section \@ref(what) 
+1. Find out what the student has been doing, see section \@ref(what) 
 1. Get students to reflect on what they’ve done well, with their manager, see section \@ref(www) 
 1. Get students to reflect on what they could do better, with their manager, see section \@ref(ebi) 
 1. Record that the meeting has taken place, using the [bit.ly/placement-visit-form](bit.ly/placement-visit-form) [@visitform]
@@ -30,7 +30,7 @@ Ask the student to describe what they have been doing since they started on plac
 * What methodologies and tools have you been using?
 * What have you been surprised by since you started work?
 
-Most employers can do these visits remotely via Microsoft Teams, Zoom or similar video conferencing software.
+Encourage students to avoid use jargon and explain from first principles. Some students have signed non-disclosure agreements and/or are working on commercially or security senstive areas, so may not be able to share the full details with you. If in doubt, check with their manager. 
 
 
 ## What Went Well (WWW)? {#www}

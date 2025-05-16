@@ -32,22 +32,23 @@ Remember you remain a registered University of Manchester student and must condu
 Once your placement has been formally approved by the Placement academic, you should complete the UNIV+: Work Placement Statement of Commitment (subject to updates, check myPlacement for latest version). This document includes:
 
 
-1. Time commitment: I understand that I must dedicate the necessary time and effort to prepare for my work placement, which includes undertaking independent research, completing any application forms, making my own travel arrangements (if required), obtaining the relevant immigration documents if my
+1. **Time commitment**: I understand that I must dedicate the necessary time and effort to prepare for my work placement, which includes undertaking independent research, completing any application forms, making my own travel arrangements (if required), obtaining the relevant immigration documents if my
 placement is overseas, arranging my own accommodation, adhering to deadlines, and attending all required briefings.
-1. Costs: I have researched any additional costs that may be involved in undertaking a work placement, such as accommodation or travel, and I am confident that I can cover any extra expenses involved. I understand that should I decide to return early from placement / not successfully obtain a visa (if required), I will not be entitled to a reimbursement of costs and will need to pay back any additional funding or scholarships that I may have received.
-1. Declaration of disabilities or health conditions: I understand that I should declare any disability or serious, unstable or difficult to manage health condition, including mental health conditions, to my placement administrator as early as possible, so that I can access any necessary support. I recognise that failure to declare any disabilities or serious, unstable or difficult to manage health conditions, or doing so later in the process, will limit the amount of support available to me, or could have implications for my participation in the exchange programme.
-1. Emergency contacts: In the event of an emergency, I give The University of Manchester permission to communicate with my named emergency contact person(s), partner university staff and appropriate University services (specifically the University insurance provider and emergency assistance provider) regarding all issues surrounding my exchange placement. This may include but is not limited to student account information, student conduct issues, health and safety, or academic concerns; such contact
+1. **Costs**: I have researched any additional costs that may be involved in undertaking a work placement, such as accommodation or travel, and I am confident that I can cover any extra expenses involved. I understand that should I decide to return early from placement / not successfully obtain a visa (if required), I will not be entitled to a reimbursement of costs and will need to pay back any additional funding or scholarships that I may have received.
+1. **Declaration of disabilities or health conditions**: I understand that I should declare any disability or serious, unstable or difficult to manage health condition, including mental health conditions, to my placement administrator as early as possible, so that I can access any necessary support. I recognise that failure to declare any disabilities or serious, unstable or difficult to manage health conditions, or doing so later in the process, will limit the amount of support available to me, or could have implications for my participation in the exchange programme.
+1. **Emergency contacts**: In the event of an emergency, I give The University of Manchester permission to communicate with my named emergency contact person(s), partner university staff and appropriate University services (specifically the University insurance provider and emergency assistance provider) regarding all issues surrounding my exchange placement. This may include but is not limited to student account information, student conduct issues, health and safety, or academic concerns; such contact
 may occur before, during, or after the programme.
 
 ## Responsibilities to your employer {#remployer}
 
-As an employee you are responsible to the placement provider:
+As an employee you have the following responsibilities to your employer:
 
 * Carry out the work programme specified by the placement provider under the supervision of the specified supervisor(s) or manager(s)
 * Abide by all rules regarding health and safety requirements, and other practices and procedures of the employer or placement organisation.
 * Inform the placement provider of any health concerns or disability that may require adjustments.
 * Report any concerns about health and safety at your placement to your placement provider.
 
+See chapter \@ref(you) for further details
 
 ## Responsibilities to the University {#runi}
 

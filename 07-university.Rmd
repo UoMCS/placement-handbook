@@ -1,4 +1,4 @@
-# University responsibilities to Industrial Experience students {#university}
+# University responsibilities to studnets on Industrial Experience {#university}
 
 The University has a duty of care for students on campus _and_ on placement. 
 
@@ -18,12 +18,12 @@ In addition to checking that your placement provider is a suitable employer, an 
 
 The placement team are on hand throughout the year if you need them
 
-## Mitigating Circumstances {#mitcircs}
-
-Mitigating Circumstances is a policy and procedure in place whereby if students experience personal circumstances that affect their ability to perform to the best of their ability across exams, assessments, or their attendance to teaching activities (such as labs or workshops) they can apply for Mitigating Circumstances or Coursework Extension. [@mitcircs]
-
 ```{r teams-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionteams)"}
 knitr::include_graphics("images/msteams.png")
 ```
 
 (ref:captionteams) Your `@student.manchester.ac.uk` email is the main way the University will keep in touch with you while on Industrial Experience. For example, the placement visit meetings described in section \@ref(keydates) will be conducted remotely using either [teams.microsoft.com](https://teams.microsoft.com) or [zoom.com](https://www.zoom.com), you'll be notified about these meetings by email, so please make sure you read your University email regularly.
+
+## Placement and employability tutors {#ptutor}
+
+As well as your personal tutor, the placment and employability tutors are responsible for you on Industrial Experience. If you can't (or don't way to) contact your personal tutor, see section \@ref(team)
