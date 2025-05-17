@@ -47,9 +47,10 @@ Your placement year is also assessed, as described in chapter \@ref(assessment).
 
 ## Visa requirements 
 
-You MUST do the following if you want to do Industrial Experience (IE):
+You MUST **CHECK** your visa. If you’re not a UK student and have a Student visa, you will need to extend your visa an extra year to include your placement year if you’re not already registered on IE. See 
 
-1. **CHECK** your visa. If you’re not a UK or EU student and have a Student visa, you will need to extend your visa an extra year to include your placement year if you’re not already registered on IE. See [Student Visas: Changing your Course](documents.manchester.ac.uk/display.aspx?DocID=37044)  [@changing]
+*  Student Visas: Changing your Course [@changing] 
+*  Student immigration and visas [@immigration]
 
 
 ## Your right to work in the UK {#uk}

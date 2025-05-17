@@ -53,6 +53,6 @@ So, we hope that you enjoy and make the most of your Industrial Experience place
 knitr::include_graphics("images/winwinwin.png")
 ```
 
-(ref:captionwinwinwin) Industrial Experience can be a win-win-win situation for all three parties involved: you, your employer _and_ your University.  [Creative Commons BY](https://creativecommons.org/licenses/by/2.0/deed.en) image of the UEFA Champions League Trophy by David Flores on Wikimedia Commons [w.wiki/6Ubh](https://w.wiki/6Ubh)
+(ref:captionwinwinwin) Industrial Experience can be a win-win-win situation for all three parties involved: you, your employer _and_ your University. Picture adapted from an original [Creative Commons BY](https://creativecommons.org/licenses/by/2.0/deed.en) image of the UEFA Champions League Trophy by David Flores on Wikimedia Commons [w.wiki/6Ubh](https://w.wiki/6Ubh)
 
 
