@@ -8,8 +8,10 @@ knitr::include_graphics("images/computerscience.jpg")
 
 (ref:captioncomputerscience) A panoramic picture taken outside the Turing Lounge in the Kilburn Building at the University of Manchester.  
 
-## Purpose of the meeting {#purpose}
-The purpose of the meeting between you (the tutor), your tutee (the student) and their manager(s) is to: 
+After the intial check-in(s) meeting(s) described in section \@ref()
+
+## Purpose of the manager, tutor, tutee meeting {#purpose}
+The purpose of the meeting between you (the tutor), your tutee (the student) and their manager is to: 
 
 1. Find out what the student has been doing, see section \@ref(what) 
 1. Get students to reflect on what they’ve done well, with their manager, see section \@ref(www) 

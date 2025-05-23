@@ -23,7 +23,7 @@ Welcome to the Industrial Experience (IE) placement handbook. This book is prima
 knitr::include_graphics("images/rothwell.jpg")
 ```
 
-(ref:captionengineering) A panoramic picture of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building), home to the School of Engineering at the University of Manchester
+(ref:captionengineering) A panoramic picture of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building), home to the [School of Engineering](https://www.se.manchester.ac.uk/about/schools-and-departments/school-of-engineering/) at the University of Manchester
 
 
 ## The Placements Team in Computer Science {#team}
@@ -97,7 +97,7 @@ By your second year, you should have already met us, but in case you've forgotte
 ```{r team-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionteam)'}
 knitr::include_graphics("images/duncananddavid.png")
 ```
-(ref:captionteam) Hello and welcome from Duncan Hull (left) employability lead for the Department of Computer Science and David Petrescu (right) Placement year tutor for your Industrial Experience, our contact details are shown in section \@ref(team)
+(ref:captionteam) Hello and welcome from Duncan Hull (left) employability lead, pre placement tutor for the Department of Computer Science and David Petrescu (right) On Placement year tutor for your Industrial Experience, our contact details are shown in section \@ref(team)
 
 
 

@@ -8,7 +8,7 @@ Studying engineering at the University of Manchester helps you to to gain techni
 knitr::include_graphics("images/whitworth.jpg")
 ```
 
-(ref:captionexperience) Industrial Experience (IE) is an entrance way to new opportunities provided by your employer to develop your skills and knowledge. Panoramic picture of entrances and the Queen's Arch of the [Whitworth Building](https://en.wikipedia.org/wiki/Whitworth_Building) at the University of Manchester
+(ref:captionexperience) Industrial Experience (IE) is an entrance way to new opportunities provided by your employer to develop skills and knowledge in the workplace. Panoramic picture of entrances and the Queen's Arch of the [Whitworth Building](https://en.wikipedia.org/wiki/Whitworth_Building) at the University of Manchester
 
 
 ## The value of IE for you {#value}

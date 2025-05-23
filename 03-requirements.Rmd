@@ -13,6 +13,7 @@ knitr::include_graphics("images/uniplace.jpg")
 
 The basic requirements for Industrial Experience, shown in figure \@ref(fig:plans-fig) are:
 
+1. You find a suitable placement. Help is available from academic staff, your peers and the careers service, but it is your responsibility to find a job. We will help you but you'll need to help yourself too, see section \@ref(finding)
 1. You should be registered on IE, this may require that you change degree program. Bachelors students can change onto and off IE any point up until the end of your by filling in the [change of degree form](https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php), either in print or pdf and getting it signed-off by the year tutor and employability lead [@changedegree]
 1. You have received a job offer and make an application for IE via [My Placement](https://studentmobility.manchester.ac.uk)  at [@myplacement]
 1. The University formally approves your placement application before you start work 
@@ -21,9 +22,7 @@ The basic requirements for Industrial Experience, shown in figure \@ref(fig:plan
 ```{r plans-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionplans)"}
 knitr::include_graphics("images/plans.png")
 ```
-(ref:captionplans) Once you've received a job offer you need to: (1) check you are registered on IE (2) Tell us where you are going (3) Wait for approval and finally (4) Have your placement formally approved against the requirements outlined in section \@ref(basic)
-
-
+(ref:captionplans) Once you've received a job offer you need to: (1) check you are registered on IE (2) Tell us where you are going (3) Wait for approval and finally (4) Have your placement formally approved against the requirements outlined in section \@ref(basic).
 
 ## Finding a placemeent {#finding}
 
@@ -31,7 +30,7 @@ The basic requirements might sound simple but finding a suitable placement requi
 
 1. You will need to prepare and debug your CV, as covered in COMP101 and COMP2CARS, see [Debugging Your Future](https://www.cdyf.me/debugging) [@debugging]
 1. You need to find and apply for jobs, see [Finding Your Future](https://www.cdyf.me/finding) [@finding] Your placement needs to be something broadly related to your degree but this can encompass a wide variety of activities from business analysis, software engineering, software testing, hardware design, data science etc. You can self-arrange a placement but it needs to be approved before you can go on placement.
-1. You will need to attend any job interviews, assessment centres etc on-line or in person, sometimes multiple rounds, that you apply to
+1. You will need to attend any job interviews, assessment centres etc on-line or in person, sometimes multiple rounds, that you are invited to. You'll need to be resilient and get used to *lots* of rejection, which is a normal part of job searching for most people.
 1. If you are made job offer that you'd like to accept you need tell us about it, BEFORE you sign any formal contract of employment 
 
 ## Grade requirements 

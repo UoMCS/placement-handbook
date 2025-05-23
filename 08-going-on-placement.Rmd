@@ -59,7 +59,7 @@ For students on placement outside the UK (only) **20-31 January 2026** Students 
 
 ### Honours Project selection {#four}
 
-The `(Hons)` in your `BSc (Hons) Computer Science with Industrial Experience` comes from your **Honours Project**, aka 3rd year (of final year) project. In April/May of your placement year you'll need to either: 
+The `(Hons)` in your `BSc (Hons) Computer Science with Industrial Experience` comes from your **Honours Project**, aka 3rd year (or final year) project. In April/May of your placement year you will need to either: 
 
 * Pick a project proposed by an academic from the honours project book 
 
@@ -67,7 +67,7 @@ The `(Hons)` in your `BSc (Hons) Computer Science with Industrial Experience` co
 
 * Propose your own project and find an academic who will agree to supervise it
 
-You'll get an email from [Terence Morley](https://research.manchester.ac.uk/en/persons/terence.morley), make your project selections or propose an own project early **April/May 2026**.
+You'll get an email about this from [Terence Morley](https://research.manchester.ac.uk/en/persons/terence.morley), make your project selections or propose an own project early **April/May 2026**.
 
 
 ### Placement report submission {#five}
@@ -123,11 +123,36 @@ knitr::include_graphics("images/ambassador.png")
 
 While on placement you are an ambassador, see figure \@ref(fig:ambassador-fig). You are an ambassador for: 
 
-1. The Department of Computer Science 
-1. The University of Manchester
-1. Your fellow and future students
+1. The Department of Computer Science, see figure \@ref(fig:csreputation-fig) 
+1. The University of Manchester, see figure \@ref(fig:mancreputation-fig)
+1. Both your fellow students and future students at the University
 
- We hope that you can continue to uphold the good reputation of our department and its students while you are on placement so that employers keep coming back to recruit more students like you in the future. 
+ We hope that you can continue to uphold the good reputation of our department and its students while you are on placement so that employers keep coming back to recruit more students like you in the future.
+
+```{r csreputation-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:iebig)"}
+
+library(tidyverse)
+library(ggplot2)
+library(forcats)
+
+ieuom <- readr::read_csv("https://raw.githubusercontent.com/dullhunk/cdyf/refs/heads/master/data/ieuom.csv")
+
+ggplot(ieuom, aes(y = forcats::fct_rev(forcats::fct_infreq(Department)))) +
+  geom_bar() +
+  labs(y = "Department at the University of Manchester", x = "Number of undergraduate students starting IE placements in 2024")
+```
+(ref:iebig) The Department of Computer Science has the biggest elective program of Industrial Experience (IE) at the University of Manchester. Number of students starting an Industrial Experience placement year in 2024 as part of their undergraduate study at the University of Manchester. The data is plotted by Department: `CS`: Department of Computer Science [cs.manchester.ac.uk](https://www.cs.manchester.ac.uk/), `MACE`: Department of Mechanical, Aerospace and Civil Engineering (MACE) [mace.manchester.ac.uk](https://www.mace.manchester.ac.uk/), `EEE`: Department of Electrical and Electronic Engineering [eee.manchester.ac.uk](https://www.eee.manchester.ac.uk/), `ChemEng`: Department of Chemical Engineering [ce.manchester.ac.uk](https://www.ce.manchester.ac.uk/), `Chemistry`: Department of Chemistry [chemistry.manchester.ac.uk](https://www.chemistry.manchester.ac.uk/), `Maths`: Department of Mathematics [maths.manchester.ac.uk](https://www.maths.manchester.ac.uk), `Physics`: Department of Physics & Astronomy [physics.manchester.ac.uk](https://www.physics.manchester.ac.uk), `Materials`: Department of Materials [materials.manchester.ac.uk](https://www.materials.manchester.ac.uk/), `EES`: Department of Earth and Environmental Sciences [ees.manchester.ac.uk](https://www.ees.manchester.ac.uk/). Data from PowerBI as of 2025, note that summer internships are shown in this bar chart, only year long placements.
+
+So you're not just an ambassador for the Department, you're an ambassador for the University too.
+
+
+```{r mancreputation-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap='(ref:captionhighfliers)'}
+knitr::include_graphics("images/high-fliers-table-2024.png")
+```
+
+(ref:captionhighfliers) According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester has a good reputation with employers is one of the most highly targeted UK Universities by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com) [@highfliers2024]
+
+
 
 
 ## Starting Your Future {#etc}
