@@ -14,7 +14,15 @@ Study Abroad is **not** currently an option for Computer Science degrees at the 
 
 In Computer Science for example, many students have done placement years at CERN in Switzerland. [@cern]
 
-To work outside the UK, **YOU** (and your employer) will need to sort out an appropriate visa that allows you to work in that country. For example, working the USA requires a J-1 visa - you’d need to find a sponsor. There is more information from the careers service at on working outside the UK at:
+To work outside the UK, **YOU** (and your employer) will need to sort out an appropriate visa that allows you to work in that country. For example, working the USA requires a** J-1 visa** - you’d need to find a sponsor. Depending on your nationality and the country you'd like to work in, visa sponsorship *may* be available from organisations such as:
+
+* [bunac.org](https://bunac.org)
+* The International Association for the Exchange of Students for Technical Experience [iaste.org](https://iaeste.org)
+* [istplus.com](https://istplus.com)
+* [interexchange.org](https://www.interexchange.org)
+* Engineers Without Borders [ewb-uk.org](https://www.ewb-uk.org)
+
+There is more information from the careers service on working outside the UK at:
 
 * [GoinGlobal](https://www.careers.manchester.ac.uk/international/goinglobal/) [@goinglobal]
 * [Finding international jobs. Information for students looking for opportunities outside the UK](https://www.careers.manchester.ac.uk/international/internationaljobs/) [@interjobs]

@@ -1,0 +1,333 @@
+\begin{thebibliography}{65}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Birchall(2024)]{highfliers2024}
+Martin Birchall.
+\newblock The graduate market in 2024: Annual review of graduate vacancies \& starting salaries at the {UK}'s leading employers.
+\newblock https://online.flippingbook.com/view/747999993, 2024.
+
+\bibitem[Bullock(1716)]{death}
+Christopher Bullock.
+\newblock The {C}obbler of {P}reston: A {F}arce, 1716.
+\newblock URL \url{https://en.wikipedia.org/wiki/The_Cobbler_of_Preston}.
+
+\bibitem[CareersService(2025{\natexlab{a}})]{audit}
+CareersService.
+\newblock My {S}kills {D}evelopment on {C}areer{C}onnect, 2025{\natexlab{a}}.
+\newblock URL \url{https://www.careers.manchester.ac.uk/options/skills/myskills}.
+
+\bibitem[CareersService(2025{\natexlab{b}})]{careers}
+CareersService.
+\newblock Careers {S}ervice at the {U}niversity of {M}anchester, 2025{\natexlab{b}}.
+\newblock URL \url{https://www.careers.manchester.ac.uk}.
+
+\bibitem[CareersService(2025{\natexlab{c}})]{goinglobal}
+CareersService.
+\newblock Goinglobal: Explore living and working abroad, 2025{\natexlab{c}}.
+\newblock URL \url{https://www.careers.manchester.ac.uk/international/goinglobal}.
+
+\bibitem[CareersService(2025{\natexlab{d}})]{interjobs}
+CareersService.
+\newblock Finding international jobs. information for students looking for opportunities outside the uk, 2025{\natexlab{d}}.
+\newblock URL \url{https://www.careers.manchester.ac.uk/international/internationaljobs}.
+
+\bibitem[CareersService(2025{\natexlab{e}})]{professionalism}
+CareersService.
+\newblock Professionalism covers a range of behaviours, 2025{\natexlab{e}}.
+\newblock URL \url{https://www.careers.manchester.ac.uk/options/skills/professionalism}.
+
+\bibitem[CareersService(2025{\natexlab{f}})]{righttowork}
+CareersService.
+\newblock Do {I} have the right to work in the uk?, 2025{\natexlab{f}}.
+\newblock URL \url{https://www.careers.manchester.ac.uk/applicationsinterviews/faqs/right-to-work}.
+
+\bibitem[CareersService(2025{\natexlab{g}})]{soft}
+CareersService.
+\newblock How to develop your soft skills, 2025{\natexlab{g}}.
+\newblock URL \url{https://nationalcareers.service.gov.uk/careers-advice/how-to-develop-your-soft-skills}.
+
+\bibitem[CareersService(2025{\natexlab{h}})]{transferable}
+CareersService.
+\newblock Transferable skills: Why do skills matter, 2025{\natexlab{h}}.
+\newblock URL \url{https://www.careers.manchester.ac.uk/options/skills}.
+
+\bibitem[CareersService(2025{\natexlab{i}})]{whatisie}
+CareersService.
+\newblock What is a placement?, 2025{\natexlab{i}}.
+\newblock URL \url{https://www.careers.manchester.ac.uk/findjobs/placement}.
+
+\bibitem[CivilServant(2024)]{turing}
+CivilServant.
+\newblock Turing scheme: apply for funding for international placementst, 2024.
+\newblock URL \url{https://www.gov.uk/guidance/turing-scheme-apply-for-funding-for-international-placements}.
+
+\bibitem[CivilServant(2025{\natexlab{a}})]{apply}
+CivilServant.
+\newblock Apply for a {N}ational {I}nsurance number, 2025{\natexlab{a}}.
+\newblock URL \url{https://www.gov.uk/apply-national-insurance-number}.
+
+\bibitem[CivilServant(2025{\natexlab{b}})]{contract}
+CivilServant.
+\newblock Employment contracts: Overview, 2025{\natexlab{b}}.
+\newblock URL \url{https://www.gov.uk/employment-contracts-and-conditions}.
+
+\bibitem[CivilServant(2025{\natexlab{c}})]{council-tax}
+CivilServant.
+\newblock Council {T}ax: {I}ntroduction, 2025{\natexlab{c}}.
+\newblock URL \url{https://www.gov.uk/council-tax}.
+
+\bibitem[CivilServant(2025{\natexlab{d}})]{disciplinary}
+CivilServant.
+\newblock Disciplinary procedures and action against you at work, 2025{\natexlab{d}}.
+\newblock URL \url{https://www.gov.uk/disciplinary-procedures-and-action-at-work}.
+
+\bibitem[CivilServant(2025{\natexlab{e}})]{discrimination}
+CivilServant.
+\newblock Discrimination: Your rights and protected characteristics, 2025{\natexlab{e}}.
+\newblock URL \url{https://www.gov.uk/discrimination-your-rights}.
+
+\bibitem[CivilServant(2025{\natexlab{f}})]{dismissal}
+CivilServant.
+\newblock Dismissal: Your rights, 2025{\natexlab{f}}.
+\newblock URL \url{https://www.gov.uk/dismissal}.
+
+\bibitem[CivilServant(2025{\natexlab{g}})]{employee}
+CivilServant.
+\newblock Employment status: Employee, 2025{\natexlab{g}}.
+\newblock URL \url{https://www.gov.uk/employment-status/employee}.
+
+\bibitem[CivilServant(2025{\natexlab{h}})]{exemption2}
+CivilServant.
+\newblock Council {T}ax: Discounts for full-time students, 2025{\natexlab{h}}.
+\newblock URL \url{https://www.gov.uk/council-tax/discounts-for-full-time-students}.
+
+\bibitem[CivilServant(2025{\natexlab{i}})]{income-tax}
+CivilServant.
+\newblock Income {T}ax: {I}ntroduction, 2025{\natexlab{i}}.
+\newblock URL \url{https://www.gov.uk/income-tax}.
+
+\bibitem[CivilServant(2025{\natexlab{j}})]{minimumwage}
+CivilServant.
+\newblock The {N}ational {M}inimum {W}age and {L}iving {W}age, 2025{\natexlab{j}}.
+\newblock URL \url{https://www.gov.uk/national-minimum-wage}.
+
+\bibitem[CivilServant(2025{\natexlab{k}})]{national}
+CivilServant.
+\newblock National {I}nsurance: {I}ntroduction, 2025{\natexlab{k}}.
+\newblock URL \url{https://www.gov.uk/national-insurance}.
+
+\bibitem[CivilServant(2025{\natexlab{l}})]{notice}
+CivilServant.
+\newblock Handing in your notice, 2025{\natexlab{l}}.
+\newblock URL \url{https://www.gov.uk/handing-in-your-notice}.
+
+\bibitem[Conway(2020)]{conway}
+Amanda Conway.
+\newblock Digital cv makeover? you are savvier than you think, 2020.
+\newblock URL \url{https://manunicareersblog.wordpress.com/2020/01/03/digital-cv-makeover-you-are-savvier-than-you-think}.
+
+\bibitem[Conway(2025)]{consultants}
+Amanda Conway.
+\newblock Faculty of {S}cience and {E}ngineering - key careers service contacts at the {U}niversity of {M}anchester, 2025.
+\newblock URL \url{https://www.staffnet.manchester.ac.uk/supporting-students/careers/contacts/fsecontacts}.
+
+\bibitem[Elledge(2023)]{tebbit}
+Jonn Elledge.
+\newblock The absurdity of the {T}ories’ “on your bike” plea: By imploring the over-50s to become {D}eliveroo cyclists, ministers are attacking their own potential supporters, 2023.
+\newblock URL \url{https://www.newstatesman.com/comment/2023/08/the-absurdity-of-the-tories-on-your-bike-plea}.
+
+\bibitem[Engineer(2025{\natexlab{a}})]{cern}
+Anne Engineer.
+\newblock Technical student programme projects at cern, 2025{\natexlab{a}}.
+\newblock URL \url{https://careers.cern/tech-projects}.
+
+\bibitem[Engineer(2025{\natexlab{b}})]{poll}
+Anne Engineer.
+\newblock Create a scheduling poll in outlook for windows, 2025{\natexlab{b}}.
+\newblock URL \url{https://support.microsoft.com/en-us/office/create-a-scheduling-poll-in-outlook-for-windows-34176e59-c87a-4a19-85a4-bb35050ace02}.
+
+\bibitem[Gordon-Lanes(2022)]{penney}
+Penney Gordon-Lanes.
+\newblock The benefits of an undergraduate placement, 2022.
+\newblock URL \url{https://manunicareersblog.wordpress.com/2022/09/14/the-benefits-of-an-undergraduate-placement}.
+
+\bibitem[Greer(2024)]{ratio}
+Georgia Greer.
+\newblock What's the state of graduate recruitment in 2024?, 2024.
+\newblock URL \url{https://luminate.prospects.ac.uk/whats-the-state-of-graduate-recruitment-in-2024}.
+
+\bibitem[HESA(2025)]{graduateoutcomes}
+HESA.
+\newblock The {G}raduate {O}utcomes {S}urvey, 2025.
+\newblock URL \url{https://www.graduateoutcomes.ac.uk}.
+
+\bibitem[Hull(2025{\natexlab{a}})]{debugging}
+Duncan Hull.
+\newblock Debugging {Y}our {F}uture, 2025{\natexlab{a}}.
+\newblock URL \url{https://www.cdyf.me/debugging}.
+
+\bibitem[Hull(2025{\natexlab{b}})]{experiencing}
+Duncan Hull.
+\newblock Experiencing {Y}our {F}uture, 2025{\natexlab{b}}.
+\newblock URL \url{https://www.cdyf.me/experiencing}.
+
+\bibitem[Hull(2025{\natexlab{c}})]{finding}
+Duncan Hull.
+\newblock Finding {Y}our {F}uture, 2025{\natexlab{c}}.
+\newblock URL \url{https://www.cdyf.me/finding}.
+
+\bibitem[Hull(2025{\natexlab{d}})]{hearing}
+Duncan Hull.
+\newblock Hearing {Y}our {F}uture, 2025{\natexlab{d}}.
+\newblock URL \url{https://www.cdyf.me/hearing}.
+
+\bibitem[Hull(2025{\natexlab{e}})]{manc}
+Duncan Hull.
+\newblock The {N}orthern {S}oftware {H}ouse: {E}mployers of {C}omputer {S}cience {S}tudents in {M}anchester, 2025{\natexlab{e}}.
+\newblock URL \url{https://git.io/manc}.
+
+\bibitem[Hull(2025{\natexlab{f}})]{reading}
+Duncan Hull.
+\newblock Reading {Y}our {F}uture, 2025{\natexlab{f}}.
+\newblock URL \url{https://www.cdyf.me/reading}.
+
+\bibitem[Hull(2025{\natexlab{g}})]{speaking}
+Duncan Hull.
+\newblock Speaking {Y}our {F}uture, 2025{\natexlab{g}}.
+\newblock URL \url{https://www.cdyf.me/speaking}.
+
+\bibitem[Hull(2025{\natexlab{h}})]{starting}
+Duncan Hull.
+\newblock Starting {Y}our {F}uture, 2025{\natexlab{h}}.
+\newblock URL \url{https://www.cdyf.me/starting}.
+
+\bibitem[Hull(2025{\natexlab{i}})]{verbalising}
+Duncan Hull.
+\newblock Verbalising {Y}our {F}uture, 2025{\natexlab{i}}.
+\newblock URL \url{https://www.cdyf.me/verbalising}.
+
+\bibitem[Hull(2025{\natexlab{j}})]{writing}
+Duncan Hull.
+\newblock Writing {Y}our {F}uture, 2025{\natexlab{j}}.
+\newblock URL \url{https://www.cdyf.me/writing}.
+
+\bibitem[Hull and Petrescu(2025)]{visitform}
+Duncan Hull and David Petrescu.
+\newblock Placement form to record tutor, manager and student meetings, 2025.
+\newblock URL \url{https://bit.ly/placement-visit-form}.
+
+\bibitem[Mind(2025)]{manchestermind}
+Manchester Mind.
+\newblock We are {M}anchester {M}ind, 2025.
+\newblock URL \url{https://www.manchestermind.org/our-services}.
+
+\bibitem[NHS(2025{\natexlab{a}})]{darbishire}
+NHS.
+\newblock The {R}obert {D}arbishire {P}ractice: {N}{H}{S} {G}{P} {S}urgery in {M}anchester, 2025{\natexlab{a}}.
+\newblock URL \url{https://rdp.org.uk}.
+
+\bibitem[NHS(2025{\natexlab{b}})]{registerNHS}
+NHS.
+\newblock How to register with a gp surgery in {E}ngland, 2025{\natexlab{b}}.
+\newblock URL \url{https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery}.
+
+\bibitem[Nutter(2024)]{ughandbook}
+Paul Nutter.
+\newblock Undergraduate {P}rogrammes {H}andbook: {C}omputer {S}cience, 2024.
+\newblock URL \url{https://bit.ly/UG-handbook-2024-25}.
+
+\bibitem[Nutter(2025)]{mondaymail}
+Paul Nutter.
+\newblock The {M}onday {M}ail: Your weekly round-up of undergraduate life in the {D}epartment of {C}omputer {S}cience at the {U}niversity of {M}anchester, 2025.
+\newblock URL \url{https://studentnet.cs.manchester.ac.uk/ugt/mondaymail}.
+
+\bibitem[StudentSupport(2025{\natexlab{a}})]{exemption1}
+StudentSupport.
+\newblock How to get your {C}ouncil {T}ax exemption, 2025{\natexlab{a}}.
+\newblock URL \url{https://www.studentsupport.manchester.ac.uk/student-services/council-tax}.
+
+\bibitem[StudentSupport(2025{\natexlab{b}})]{fees}
+StudentSupport.
+\newblock Study {A}broad, {P}lacements and {O}ther fees, 2025{\natexlab{b}}.
+\newblock URL \url{https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees}.
+
+\bibitem[StudentSupport(2025{\natexlab{c}})]{immigration}
+StudentSupport.
+\newblock Immigration and visas, 2025{\natexlab{c}}.
+\newblock URL \url{https://www.studentsupport.manchester.ac.uk/immigration-and-visas/}.
+
+\bibitem[StudentSupport(2025{\natexlab{d}})]{mitcircs}
+StudentSupport.
+\newblock Mitigating circumstances and extension requests, 2025{\natexlab{d}}.
+\newblock URL \url{https://www.studentsupport.manchester.ac.uk/study-support/mitigating-circumstances}.
+
+\bibitem[StudentSupport(2025{\natexlab{e}})]{qwell}
+StudentSupport.
+\newblock You are not alone: Qwell, 2025{\natexlab{e}}.
+\newblock URL \url{https://www.studentsupport.manchester.ac.uk/taking-care/qwell}.
+
+\bibitem[StudentSupport(2025{\natexlab{f}})]{wellbeing}
+StudentSupport.
+\newblock Taking care of your wellbeing, 2025{\natexlab{f}}.
+\newblock URL \url{https://www.studentsupport.manchester.ac.uk/taking-care}.
+
+\bibitem[StudentSupport(2025{\natexlab{g}})]{workingduringstudy}
+StudentSupport.
+\newblock Student visas: Working during your studies, 2025{\natexlab{g}}.
+\newblock URL \url{https://www.studentsupport.manchester.ac.uk/immigration-and-visas/working/working-during-your-studies}.
+
+\bibitem[UCAS(2025)]{ucas}
+UCAS.
+\newblock Is work experience important?, 2025.
+\newblock URL \url{https://www.ucas.com/connect/blogs/work-experience-important}.
+
+\bibitem[UoM(2025{\natexlab{a}})]{changedegree}
+UoM.
+\newblock Request to change degree program, 2025{\natexlab{a}}.
+\newblock URL \url{https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php}.
+
+\bibitem[UoM(2025{\natexlab{b}})]{changing}
+UoM.
+\newblock Student visas: Changing your course, 2025{\natexlab{b}}.
+\newblock URL \url{https://documents.manchester.ac.uk/display.aspx?DocID=37044}.
+
+\bibitem[UoM(2025{\natexlab{c}})]{counselling}
+UoM.
+\newblock Counselling and {M}ental {H}ealth {S}ervice at the {U}niversity of {M}anchester, 2025{\natexlab{c}}.
+\newblock URL \url{https://www.counsellingservice.manchester.ac.uk}.
+
+\bibitem[UoM(2025{\natexlab{d}})]{dass}
+UoM.
+\newblock Disability {A}dvisory and {S}upport {S}ervice at the {U}niversity of {M}anchester, 2025{\natexlab{d}}.
+\newblock URL \url{https://www.dass.manchester.ac.uk}.
+
+\bibitem[UoM(2025{\natexlab{e}})]{keydates}
+UoM.
+\newblock Key dates at the {U}niversity of {M}anchester, 2025{\natexlab{e}}.
+\newblock URL \url{https://www.manchester.ac.uk/discover/key-dates}.
+
+\bibitem[UoM(2025{\natexlab{f}})]{myplacement}
+UoM.
+\newblock Welcome to myplacement, 2025{\natexlab{f}}.
+\newblock URL \url{https://studentmobility.manchester.ac.uk}.
+
+\bibitem[UoM(2025{\natexlab{g}})]{regulations}
+UoM.
+\newblock Regulation xvii: Conduct and discipline of students, 2025{\natexlab{g}}.
+\newblock URL \url{https://documents.manchester.ac.uk/DocuInfo.aspx?DocID=6530}.
+
+\bibitem[UoM(2025{\natexlab{h}})]{resits}
+UoM.
+\newblock Resitting exams: Guidance on reassessment away from {M}anchester, 2025{\natexlab{h}}.
+\newblock URL \url{https://www.exams.manchester.ac.uk/resits}.
+
+\bibitem[UoM(2025{\natexlab{i}})]{studyabroad}
+UoM.
+\newblock Study {A}broad at the {U}niversity of {M}anchester, 2025{\natexlab{i}}.
+\newblock URL \url{https://www.manchester.ac.uk/study/undergraduate/study-experience/study-abroad}.
+
+\end{thebibliography}

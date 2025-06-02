@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: placement-handbook.aux
+The style file: plainnat.bst
+Database file #1: book.bib
+You've used 65 entries,
+            2773 wiz_defined-function locations,
+            812 strings with 12260 characters,
+and the built_in function-call counts, 19502 in all, are:
+= -- 1696
+> -- 661
+< -- 65
++ -- 307
+- -- 198
+* -- 1085
+:= -- 2907
+add.period$ -- 195
+call.type$ -- 65
+change.case$ -- 261
+chr.to.int$ -- 21
+cite$ -- 130
+duplicate$ -- 975
+empty$ -- 2081
+format.name$ -- 265
+if$ -- 4175
+int.to.chr$ -- 45
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 333
+num.names$ -- 260
+pop$ -- 781
+preamble$ -- 1
+purify$ -- 196
+quote$ -- 0
+skip$ -- 855
+stack$ -- 0
+substring$ -- 130
+swap$ -- 116
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 715
+warning$ -- 0
+while$ -- 195
+width$ -- 0
+write$ -- 787

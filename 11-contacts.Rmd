@@ -26,11 +26,14 @@ Students should raise any concerns in the first place with the workplace supervi
 
 ## Careers service {#careers}
 
-The Careers Service offers support and advice throughout your time at the University of Manchester to help you make the most of your time here and best prepare you for your future. They can also advise you about your placement and career plans, see [www.careers.manchester.ac.uk](https://www.careers.manchester.ac.uk/) [@careers]
+The Careers Service offers support and advice throughout your time at the University of Manchester to help you make the most of your time here and best prepare you for your future. They can also advise you about your placement and career plans, see figure \@ref(fig:careers-fig).
 
-For students interested in international placements see [GoinGlobal](https://www.careers.manchester.ac.uk/international/goinglobal/). [@goinglobal]
+```{r careers-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captioncareersservice)", out.width = "100%"}
+knitr::include_graphics("images/careers-service.png")
+```
+(ref:captioncareersservice) The careers service offers a wide variety of support to you before, during and after your placement year, see [www.careers.manchester.ac.uk](https://www.careers.manchester.ac.uk) [@careers]
 
-Careers service consultants for the University are listed online. [@consultants]
+For students interested in international placements see chapter \@ref(notuk). Careers service consultants for the University are listed online. [@consultants]
 
 ## Wellbeing Support Services {#wellbeing}
 

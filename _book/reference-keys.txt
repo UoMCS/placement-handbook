@@ -21,6 +21,7 @@ fig:survival-fig
 fig:assessment-fig
 fig:computerscience-fig
 fig:kilburn-fig
+fig:careers-fig
 team
 placement
 fees

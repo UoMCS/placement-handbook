@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  2 JUN 2025 10:54
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  2 JUN 2025 11:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -820,12 +820,12 @@ File: images/queensarch.jpg Graphic file (type bmp)
 File: images/letsgooutside.png Graphic file (type bmp)
 <images/letsgooutside.png>
 
-Overfull \hbox (1305.0228pt too wide) in paragraph at lines 613--614
+Overfull \hbox (1305.0228pt too wide) in paragraph at lines 629--630
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 72.50755pt on input line 618.
+LaTeX Warning: Float too large for page by 72.50755pt on input line 634.
 
 
 
@@ -898,7 +898,7 @@ File: images/onyerbike.jpg Graphic file (type bmp)
 ]
 
 [38]
-Underfull \hbox (badness 10000) in paragraph at lines 926--927
+Underfull \hbox (badness 10000) in paragraph at lines 942--943
 \TU/lmr/m/n/10 The \TU/lmtt/m/n/10 (Hons) \TU/lmr/m/n/10 in your \TU/lmtt/m/n/10 BSc (Hons) Computer Science with Industrial
  []
 
@@ -907,7 +907,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 926--927
 [39]
 
 [40]
-Underfull \hbox (badness 2351) in paragraph at lines 986--988
+Underfull \hbox (badness 2351) in paragraph at lines 1002--1004
 []\TU/lmr/bx/n/10 National Insurance\TU/lmr/m/n/10 : see []gov.uk/national-insurance[] [[]CivilServant[],
  []
 
@@ -961,7 +961,7 @@ Overfull \hbox (3.73453pt too wide) has occurred while \output is active
  []
 
 [48]
-Overfull \hbox (32.55002pt too wide) in paragraph at lines 1216--1218
+Overfull \hbox (32.55002pt too wide) in paragraph at lines 1232--1234
 \TU/lmr/m/n/10 see []www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings[] 
  []
 
@@ -981,19 +981,22 @@ Chapter 11.
 File: images/kilburnarama.jpg Graphic file (type bmp)
 <images/kilburnarama.jpg>
 
-Underfull \hbox (badness 1337) in paragraph at lines 1243--1245
+Underfull \hbox (badness 1337) in paragraph at lines 1259--1261
 []\TU/lmr/m/n/10 Computer Science placements team: []$[][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1245--1246
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1262
 []\TU/lmr/m/n/10 Engineering placements administration team: []$[][][] [] [][][][][][][][][][] []
  []
 
 
 
 [51]
-Overfull \hbox (32.65202pt too wide) in paragraph at lines 1270--1271
+File: images/careers-service.png Graphic file (type bmp)
+<images/careers-service.png>
+
+Overfull \hbox (32.65202pt too wide) in paragraph at lines 1295--1296
 []\TU/lmr/m/n/10 Wellbeing Support Services, see []https://www.studentsupport.manchester.ac.uk/taking-
  []
 
@@ -1004,6 +1007,12 @@ Overfull \hbox (32.65202pt too wide) in paragraph at lines 1270--1271
 [53] (./placement-handbook.bbl
 
 [54]
+
+[55]
+
+[56
+
+]
 Underfull \hbox (badness 2790) in paragraph at lines 9--12
 []\TU/lmr/m/n/10 Martin Birchall.  The graduate market in 2024: Annual review of
  []
@@ -1020,16 +1029,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
 
 
-[55
-
-]
+[57]
 Underfull \hbox (badness 10000) in paragraph at lines 149--152
 \TU/lmr/m/n/10 URL []$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] [][] [][] [][] [] [][][][][][] [] [][][][][][] [][] [] [][] [][][][][][][][][][] [][] [][][][] [][]
  []
 
 
 
-[56]
+[58]
 Underfull \hbox (badness 2418) in paragraph at lines 159--162
 []\TU/lmr/m/n/10 Georgia Greer.  What’s the state of graduate recruitment in 2024?,
  []
@@ -1041,7 +1048,7 @@ Underfull \hbox (badness 2142) in paragraph at lines 164--167
 
 
 
-[57]
+[59]
 Underfull \hbox (badness 3000) in paragraph at lines 254--257
 []\TU/lmr/m/n/10 StudentSupport.  Study Abroad, Placements and Other fees, 2025b.
  []
@@ -1073,21 +1080,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--282
 
 
 
-[58])
+[60])
 
-[59] (./placement-handbook.aux)
+[61] (./placement-handbook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 17809 strings out of 475846
- 327590 string characters out of 5774061
- 880390 words of memory out of 5000000
- 40495 multiletter control sequences out of 15000+600000
+ 17829 strings out of 475846
+ 328190 string characters out of 5774061
+ 880609 words of memory out of 5000000
+ 40514 multiletter control sequences out of 15000+600000
  565296 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  90i,6n,114p,1719b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on placement-handbook.pdf (59 pages).
+Output written on placement-handbook.pdf (61 pages).
