@@ -1,7 +1,7 @@
 \contentsline {chapter}{Welcome to Industrial Experience (IE)}{7}{chapter*.2}%
 \contentsline {section}{\numberline {0.1}The Placements Team in Computer Science}{7}{section.0.1}%
 \contentsline {section}{\numberline {0.2}What is an Industrial Experience placement year?}{8}{section.0.2}%
-\contentsline {section}{\numberline {0.3}Placement year fees for IE}{8}{section.0.3}%
+\contentsline {section}{\numberline {0.3}Placement year fees for IE}{9}{section.0.3}%
 \contentsline {section}{\numberline {0.4}How this handbook is structured}{9}{section.0.4}%
 \contentsline {section}{\numberline {0.5}Editing this handbook}{9}{section.0.5}%
 \contentsline {section}{\numberline {0.6}Academic leads for IE}{10}{section.0.6}%

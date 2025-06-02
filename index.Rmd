@@ -17,7 +17,7 @@ description: "A guidebook for undergraduate students students at the University 
 
 # Welcome to Industrial Experience (IE) {-}
 
-Welcome to the Industrial Experience (IE) placement handbook. This book is primarily for undergraduate students studying Computer Science in the School of Engineering at the University of Manchester. The handbook has been written to help you (and your personal tutor) before, during and after your year-long placement in industry.
+Welcome to the Industrial Experience (IE) placement handbook. This handbook is primarily for undergraduate students studying Computer Science in the School of Engineering at the University of Manchester. The handbook has been written to help you (and your personal tutor) before, during and after your year-long placement in industry.
 
 ```{r engineering-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionengineering)", out.width = "100%"}
 knitr::include_graphics("images/rothwell.jpg")
@@ -28,7 +28,7 @@ knitr::include_graphics("images/rothwell.jpg")
 
 ## The Placements Team in Computer Science {#team}
 
-The placements team are here to provide support for your Industrial Experience alongside the support you get from your employer. The team consists of:
+The placements team are here to provide support for your Industrial Experience year alongside the support you will get from your employer. The team consists of:
 
 1. **Duncan Hull**: Employability lead, Computer Science [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:team-fig)
 1. **David Petrescu**: Placement year tutor for Industrial Experience in Computer Science [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu),  see figure \@ref(fig:team-fig)
@@ -41,7 +41,7 @@ Some of the placements team above are pictured in figure \@ref(fig:team-fig).
 
 ## What is an Industrial Experience placement year? {#placement}
 
-A Industrial Experience (IE) placement is a formal period of paid work that is an assessed part of your study as an undergraduate. [@whatisie] The length of the employment varies with employers. In **this** guide a placement (also known a year-in-industry or sandwich year) is a **full year** of paid employment. Placements take place in the penultimate year of your study, for Bachelors students, that's _after_ your second year of study and _before_ your final year of study.
+A Industrial Experience (IE) placement is a formal period of paid work that is an _assessed_ part of your study as an undergraduate. [@whatisie] The length of the employment varies with employers. In **this** guide a placement (also known a year-in-industry or sandwich year) is a **full year** of paid employment. Placements take place in the penultimate year of your study, for Bachelors students, that's _after_ your second year of study and _before_ your final year of study.
 
 * a placement is _not_ a summer internship, although these are also good things to do and lots of students do them
 * the usual duration of a placement is 12 months, typically starting between June and August, depending on the employer. At the University of Manchester, the minimum length of employment for placements is 9 months, though 12 months is much more common. 
