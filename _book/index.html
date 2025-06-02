@@ -289,10 +289,10 @@ Figure 0.1: A panoramic picture of the <a href="https://en.wikipedia.org/wiki/Na
 <ul>
 <li>the <a href="placement-handbook.pdf">placement-handbook.pdf</a></li>
 <li>the <a href="placement-handbook.docx">placement-handbook.docx</a>, for editors only</li>
-<li>the <code>*.html</code> files you see if you are viewing this text in a web browser</li>
+<li>the <a href="https://placement-handbook.cs.manchester.ac.uk">placement-handbook.cs.manchester.ac.uk</a>, all the <code>*.html</code> files you see if you are reading this text in a web browser</li>
 </ul></li>
+<li>Clone or fork the repository <a href="https://github.com/uomcs/placement-handbook">github.com/uomcs/placement-handbook</a>, make changes and submit a pull request</li>
 <li>Raise new issues at <a href="https://github.com/uomcs/placement-handbook/issues/new">github.com/uomcs/placement-handbook/issues/new</a> (github login required)</li>
-<li>Fork the repository <a href="https://github.com/uomcs/placement-handbook">github.com/uomcs/placement-handbook</a>, make changes and submit a pull request</li>
 <li>Email us any updates, see section <a href="index.html#team">0.1</a></li>
 </ul>
 </div>
@@ -349,14 +349,14 @@ gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
   "sharing": {
     "github": false,
-    "facebook": true,
-    "twitter": true,
-    "linkedin": false,
+    "facebook": false,
+    "twitter": false,
+    "linkedin": true,
     "weibo": false,
     "instapaper": false,
     "vk": false,
-    "whatsapp": false,
-    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+    "whatsapp": true,
+    "all": ["facebook", "linkedin", "whatsapp", "github"]
   },
   "fontsettings": {
     "theme": "white",
@@ -382,7 +382,9 @@ gitbook.start({
   },
   "toc": {
     "collapse": "subsection"
-  }
+  },
+  "bookdown::gitbook": null,
+  "info": true
 });
 });
 </script>

@@ -85,9 +85,9 @@ We have tried to make this handbook as useful as possible but if you spot any er
 * Edit the source in markdown. That's all the `*.Rmd` files [available on github](https://github.com/search?q=repo%3AUoMCS%2Fplacement-handbook++language%3ARMarkdown&type=code) (github login required), which are used to generate all the outputs including: 
     + the [placement-handbook.pdf](placement-handbook.pdf)
     + the [placement-handbook.docx](placement-handbook.docx), for editors only
-    + the `*.html` files you see if you are viewing this text in a web browser
+    + the [placement-handbook.cs.manchester.ac.uk](https://placement-handbook.cs.manchester.ac.uk), all the `*.html` files you see if you are reading this text in a web browser
+* Clone or fork the repository [github.com/uomcs/placement-handbook](https://github.com/uomcs/placement-handbook), make changes and submit a pull request 
 * Raise new issues at [github.com/uomcs/placement-handbook/issues/new](https://github.com/uomcs/placement-handbook/issues/new) (github login required)
-* Fork the repository [github.com/uomcs/placement-handbook](https://github.com/uomcs/placement-handbook), make changes and submit a pull request 
 * Email us any updates, see section \@ref(team)
 
 ## Academic leads for IE {#leads}

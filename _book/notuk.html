@@ -305,14 +305,14 @@ gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
   "sharing": {
     "github": false,
-    "facebook": true,
-    "twitter": true,
-    "linkedin": false,
+    "facebook": false,
+    "twitter": false,
+    "linkedin": true,
     "weibo": false,
     "instapaper": false,
     "vk": false,
-    "whatsapp": false,
-    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+    "whatsapp": true,
+    "all": ["facebook", "linkedin", "whatsapp", "github"]
   },
   "fontsettings": {
     "theme": "white",
@@ -338,7 +338,9 @@ gitbook.start({
   },
   "toc": {
     "collapse": "subsection"
-  }
+  },
+  "bookdown::gitbook": null,
+  "info": true
 });
 });
 </script>
