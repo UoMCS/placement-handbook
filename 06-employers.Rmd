@@ -16,7 +16,7 @@ Your employer must treat you with respect, just like they would any other employ
 * Pay you [minimum wage](https://www.gov.uk/national-minimum-wage) or higher. [@minimumwage] The job market for computer scientists is such that you will usually be paid more than minimum wage, but some employers (even big ones) pay lower wages. In the UK, placement salaries range from minimum wage to £60k+ depending on the sector and location of the employer, see [cdyf.me/finding#undersell](https://cdyf.me/finding#undersell) [@finding]
 * Provide you with projects to work on where you can apply the skills and knowledge you've learned at University
 * Help you learn new skills and acquire new knowledge from your colleagues and their customers, clients or other stakeholders 
-* Treat you with respect. Although you are probably one of the most junior employees, you should not just be the office dogsbody, who's main responsbilities are making cups of tea and running errands for your colleagues. 
+* Treat you with respect. Although you are probably one of the most junior employees, you should not just be the office [dogsbody](https://en.wikipedia.org/wiki/Dogsbody), whose main responsbilities are making cups of tea and running errands for your colleagues. 
 
 
 ## If your employer treats you unfairly {#unfair}

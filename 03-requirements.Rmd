@@ -15,7 +15,7 @@ The basic requirements for Industrial Experience, shown in figure \@ref(fig:plan
 
 1. You find a suitable placement. Help is available from academic staff, your peers and the careers service, but it is your responsibility to find a job. We will help you but you'll need to help yourself too, see section \@ref(finding)
 1. You should be registered on IE, this may require that you change degree program. Bachelors students can change onto and off IE any point up until the end of your by filling in the [change of degree form](https://studentnet.cs.manchester.ac.uk/ugt/changedegree.php), either in print or pdf and getting it signed-off by the year tutor and employability lead [@changedegree]
-1. You have received a job offer and make an application for IE via [My Placement](https://studentmobility.manchester.ac.uk)  at [@myplacement]
+1. You have received a job offer and make an application for IE via My Placement [studentmobility.manchester.ac.uk](https://studentmobility.manchester.ac.uk)  [@myplacement]
 1. The University formally approves your placement application before you start work 
 1. You formally accept the job offer from the employer and sign a contract of employment
 
@@ -24,7 +24,7 @@ knitr::include_graphics("images/plans.png")
 ```
 (ref:captionplans) Once you've received a job offer you need to: (1) check you are registered on IE (2) Tell us where you are going (3) Wait for approval and finally (4) Have your placement formally approved against the requirements outlined in section \@ref(basic).
 
-## Finding a placemeent {#finding}
+## Finding a placement {#finding}
 
 The basic requirements might sound simple but finding a suitable placement requires a significant amount of your time and energy, and you'll have to balance these requirements with those of your study.
 
