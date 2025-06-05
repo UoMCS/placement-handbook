@@ -114,7 +114,7 @@ In the UK the relevant taxes are:
 
 
 ## You are an Ambassador {#ambassador}
-One of the reasons we have the biggest elective program of Industrial Experience (IE) at the University of Manchester is that students like you have gone on placements before you and set a good reputation with their employers. Employers come back recruiting more students and frequently make return offers of employment after graduation.
+One of the reasons the Department of Computer Science has the biggest elective program of Industrial Experience (IE) at the University of Manchester is that students like you have gone on placements before you and set a good reputation with their employers. Employers come back recruiting more students and frequently make return offers of employment after graduation.
 
 ```{r ambassador-fig, echo = FALSE, fig.align = "center", out.width = "80%", fig.cap = "(ref:captionambassador)"}
 knitr::include_graphics("images/ambassador.png")
