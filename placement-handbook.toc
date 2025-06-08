@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {2.5}Recording your professional development}{18}{section.2.5}%
 \contentsline {chapter}{\numberline {3}Requirements for Industrial Experience}{19}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Basic requirements}{19}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Finding a placemeent}{20}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Finding a placement}{20}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Grade requirements}{21}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Visa requirements}{21}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Your right to work in the UK}{21}{section.3.5}%

@@ -8,7 +8,7 @@ knitr::include_graphics("images/computerscience.jpg")
 
 (ref:captioncomputerscience) A panoramic picture taken outside the Turing Lounge in the Kilburn Building at the University of Manchester.  
 
-After the intial check-in(s) meeting(s) described in section \@ref()
+After the intial check-in(s) meeting(s) described in section \@ref(tutor), the main placement meeting is for you to meet the student and their manager and review their progress up to that point.
 
 ## Purpose of the manager, tutor, tutee meeting {#purpose}
 The purpose of the meeting between you (the tutor), your tutee (the student) and their manager is to: 
@@ -16,12 +16,12 @@ The purpose of the meeting between you (the tutor), your tutee (the student) and
 1. Find out what the student has been doing, see section \@ref(what) 
 1. Get students to reflect on what they’ve done well, with their manager, see section \@ref(www) 
 1. Get students to reflect on what they could do better, with their manager, see section \@ref(ebi) 
-1. Record that the meeting has taken place, using the [bit.ly/placement-visit-form](bit.ly/placement-visit-form) [@visitform]
+1. Record that the meeting has taken place, using the [bit.ly/placement-visit-form](https://bit.ly/placement-visit-form) [@visitform]
 1. Any other business? See section \@ref(aob) 
 
 Most employers can do these visits remotely via Microsoft Teams, Zoom or similar video conferencing software.
 
-Once you’ve visited your tutees, please fill in the short tutees form at [bit.ly/placement-visit-form](bit.ly/placement-visit-form) [@visitform] to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 15 and 30 minutes, we've a suggested agenda below.
+Once you’ve visited your tutees, please fill in the short tutees form at [bit.ly/placement-visit-form](https://bit.ly/placement-visit-form) [@visitform] to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 15 and 30 minutes, we've a suggested agenda below.
 
 ## What have you been doing? {#what}
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  2 JUN 2025 13:21
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  8 JUN 2025 20:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -725,21 +725,12 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 File: images/rothwell.jpg Graphic file (type bmp)
 <images/rothwell.jpg>
 
-Underfull \hbox (badness 5231) in paragraph at lines 123--125
-[]\TU/lmr/bx/n/10 Duncan Hull\TU/lmr/m/n/10 : Employability lead, Computer Science []manch-
- []
-
-
 
 [7]
 
 [8]
 
 [9]
-Underfull \hbox (badness 5460) in paragraph at lines 217--219
-[]\TU/lmr/m/n/10 Fork the repository []github.com/uomcs/placement-handbook[], make
- []
-
 File: images/duncananddavid.png Graphic file (type bmp)
 <images/duncananddavid.png>
 
@@ -1091,10 +1082,10 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  17829 strings out of 475846
  328190 string characters out of 5774061
- 880609 words of memory out of 5000000
+ 880628 words of memory out of 5000000
  40514 multiletter control sequences out of 15000+600000
  565296 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 90i,6n,114p,1719b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,6n,114p,1739b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on placement-handbook.pdf (61 pages).

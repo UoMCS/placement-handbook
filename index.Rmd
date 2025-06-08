@@ -30,7 +30,7 @@ knitr::include_graphics("images/rothwell.jpg")
 
 The placements team are here to provide support for your Industrial Experience year alongside the support you will get from your employer. The team consists of:
 
-1. **Duncan Hull**: Employability lead, Computer Science [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:team-fig)
+1. **Duncan Hull**: Employability lead and employability tutor, Computer Science [manchester.ac.uk/staff/duncan.hull/contact](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:team-fig)
 1. **David Petrescu**: Placement year tutor for Industrial Experience in Computer Science [manchester.ac.uk/en/persons/david-petrescu](https://research.manchester.ac.uk/en/persons/david-petrescu),  see figure \@ref(fig:team-fig)
 1. **Your personal tutor**: in _most_ cases this will be the same personal tutor you had in first year. If you are not sure who your personal tutor is, get in touch with the second year tutor listed in undergraduate handbook [@ughandbook] and the [Monday Mail](https://studentnet.cs.manchester.ac.uk/ugt/mondaymail/) [@mondaymail] 
 1. **The placements admin team**: A group of professional services staff providing adminstrative support in the School of Engineering, see section \@ref(contacts)
@@ -97,7 +97,7 @@ By your second year, you should have already met us, but in case you've forgotte
 ```{r team-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='(ref:captionteam)'}
 knitr::include_graphics("images/duncananddavid.png")
 ```
-(ref:captionteam) Hello and welcome from Duncan Hull (left) employability lead, pre placement tutor for the Department of Computer Science and David Petrescu (right) On Placement year tutor for your Industrial Experience, our contact details are shown in section \@ref(team)
+(ref:captionteam) Hello and welcome from Duncan Hull (left) employability lead and employability tutor for the Department of Computer Science and David Petrescu (right) Placement year tutor for your Industrial Experience, our contact details are shown in section \@ref(team)
 
 
 
