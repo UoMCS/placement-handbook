@@ -3,7 +3,7 @@
 \contentsline {section}{\numberline {0.2}What is an Industrial Experience placement year?}{8}{section.0.2}%
 \contentsline {section}{\numberline {0.3}Placement year fees for IE}{9}{section.0.3}%
 \contentsline {section}{\numberline {0.4}How this handbook is structured}{9}{section.0.4}%
-\contentsline {section}{\numberline {0.5}Industrial Experience in dark mode?}{9}{section.0.5}%
+\contentsline {section}{\numberline {0.5}Industrial Experience in dark mode}{9}{section.0.5}%
 \contentsline {section}{\numberline {0.6}Editing this handbook}{9}{section.0.6}%
 \contentsline {section}{\numberline {0.7}Academic leads for IE}{11}{section.0.7}%
 \contentsline {chapter}{\numberline {1}Introduction to Industrial Experience}{13}{chapter.1}%

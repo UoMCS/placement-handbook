@@ -78,14 +78,14 @@ The rest of this placement handbook is structured as follows:
 * Chapter \@ref(tutors) is the guide for your personal tutor who visits you on placement
 * Chapter \@ref(contacts) lists all the most important contacts you're likely to need for your year in industry
 
-## Industrial Experience in dark mode? {#darkmode}
-We often get asked if teaching materials are available in [dark mode](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme). The good news is that this handbook **is** available in dark mode if you're reading this in a web browser, see figure \@ref(fig:darkmode-fig).
+## Industrial Experience in dark mode {#darkmode}
+We often get asked if teaching materials are available in [dark mode](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme). The good news is that unlikely some other course materials, this handbook **is** available in dark mode. If you're reading this in a web browser, you can choose whatever mode you prefer, see figure \@ref(fig:darkmode-fig).
 
 ```{r darkmode-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondarkmode)", out.width = "100%"}
 knitr::include_graphics("images/darkmode.png")
 ```
 
-(ref:captiondarkmode) If you'd prefer to read this handbook in [light on dark colour scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme), move your mouse to the `A` at the top of the screen and select `Night` as shown circled in red here. Dark mode works in the web browser only, not the [pdf](https://placement-handbook.cs.manchester.ac.uk/placement-handbook.pdf) or [word](https://placement-handbook.cs.manchester.ac.uk/placement-handbook.docx) version.
+(ref:captiondarkmode) If you'd prefer to read this handbook in a [light on dark colour scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme), move your mouse to the `A` at the top of the screen and select `Night` as shown circled in red here. Dark mode works in the web browser only, not the [pdf](https://placement-handbook.cs.manchester.ac.uk/placement-handbook.pdf) or [word](https://placement-handbook.cs.manchester.ac.uk/placement-handbook.docx) version.
 
 
 ## Editing this handbook {#edit}
