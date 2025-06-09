@@ -15,6 +15,12 @@ github-repo: UoMCS/placement-handbook
 description: "A guidebook for undergraduate students students at the University of Manchester before, during and after their placement in industry"
 ---
 
+<!--Add note for Word ouput at top of document
+e.g. warning, this version is for editors only who prefer not to use github
+turn on track changes etc see 
+https://github.com/dullhunk/cdyf/issues/1194
+-->
+
 # Welcome to Industrial Experience (IE) {-}
 
 Welcome to the Industrial Experience (IE) placement handbook. This handbook is primarily for undergraduate students studying Computer Science in the School of Engineering at the University of Manchester. The handbook has been written to help you (and your personal tutor) before, during and after your year-long placement in industry.
@@ -72,9 +78,19 @@ The rest of this placement handbook is structured as follows:
 * Chapter \@ref(tutors) is the guide for your personal tutor who visits you on placement
 * Chapter \@ref(contacts) lists all the most important contacts you're likely to need for your year in industry
 
+## Industrial Experience in dark mode? {#darkmode}
+We often get asked if teaching materials are available in [dark mode](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme). The good news is that this handbook **is** available in dark mode if you're reading this in a web browser, see figure \@ref(fig:darkmode-fig).
+
+```{r darkmode-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondarkmode)", out.width = "100%"}
+knitr::include_graphics("images/darkmode.png")
+```
+
+(ref:captiondarkmode) If you'd prefer to read this handbook in [light on dark colour scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme), move your mouse to the `A` at the top of the screen and select `Night` as shown circled in red here. Dark mode works in the web browser only, not the [pdf](https://placement-handbook.cs.manchester.ac.uk/placement-handbook.pdf) or [word](https://placement-handbook.cs.manchester.ac.uk/placement-handbook.docx) version.
+
+
 ## Editing this handbook {#edit}
 
-We have tried to make this handbook as useful as possible but if you spot any errors or omissions, we appreciate your contributions and corrections. You can do this in several ways outlined below.
+We have put a lot of work into making this handbook as useful as possible but we are also human and make mistakes. If you spot any errors or omissions, we appreciate your contributions, corrections and queries. You can do this in several ways outlined below.
 
 **EITHER**: 
 

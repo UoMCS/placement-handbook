@@ -3,71 +3,72 @@
 \contentsline {section}{\numberline {0.2}What is an Industrial Experience placement year?}{8}{section.0.2}%
 \contentsline {section}{\numberline {0.3}Placement year fees for IE}{9}{section.0.3}%
 \contentsline {section}{\numberline {0.4}How this handbook is structured}{9}{section.0.4}%
-\contentsline {section}{\numberline {0.5}Editing this handbook}{9}{section.0.5}%
-\contentsline {section}{\numberline {0.6}Academic leads for IE}{10}{section.0.6}%
-\contentsline {chapter}{\numberline {1}Introduction to Industrial Experience}{11}{chapter.1}%
-\contentsline {section}{\numberline {1.1}The value of IE for you}{12}{section.1.1}%
-\contentsline {section}{\numberline {1.2}The value of IE for your employer}{12}{section.1.2}%
-\contentsline {section}{\numberline {1.3}The value of IE to the University}{12}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Industrial Experience: Win-win-win?}{13}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Aims of Industrial Experience}{15}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Intended Learning Outcomes}{15}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Developing your professional skills}{16}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Audit your professional skills}{17}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Exploring your digital capabilities}{17}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Recording your professional development}{18}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Requirements for Industrial Experience}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Basic requirements}{19}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Finding a placement}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Grade requirements}{21}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Visa requirements}{21}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Your right to work in the UK}{21}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Working outside the UK}{22}{section.3.6}%
-\contentsline {chapter}{\numberline {4}Industrial Experience Outside the UK}{23}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Study Abroad}{23}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Applying for a placement outside the UK}{24}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Your Responsibilities on Industrial Experience}{27}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Students resonsibilities}{27}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Contact with the University whilst on placement}{28}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Responsibilities to your employer}{29}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Responsibilities to the University}{30}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Employers Responsibilities to Students on IE}{31}{chapter.6}%
-\contentsline {section}{\numberline {6.1}What your employer needs to do}{31}{section.6.1}%
-\contentsline {section}{\numberline {6.2}If your employer treats you unfairly}{32}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Know your rights and responsibilities}{32}{section.6.3}%
-\contentsline {chapter}{\numberline {7}University Responsibilities to Students on IE}{35}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Your personal tutor}{35}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Placement and employability tutors}{36}{section.7.2}%
-\contentsline {chapter}{\numberline {8}So, You're Going on Industrial Experience?}{37}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Congratulations!}{37}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Dive, Survive or Thrive?}{38}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Key placement dates for IE}{38}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}Placement approval}{38}{subsection.8.3.1}%
-\contentsline {subsection}{\numberline {8.3.2}First check-in meeting}{39}{subsection.8.3.2}%
-\contentsline {subsection}{\numberline {8.3.3}Second check-in meeting}{39}{subsection.8.3.3}%
-\contentsline {subsection}{\numberline {8.3.4}Manager, Tutor and You meeting}{39}{subsection.8.3.4}%
-\contentsline {subsection}{\numberline {8.3.5}Honours Project selection}{39}{subsection.8.3.5}%
-\contentsline {subsection}{\numberline {8.3.6}Placement report submission}{39}{subsection.8.3.6}%
-\contentsline {subsection}{\numberline {8.3.7}Industrial Experience panel}{40}{subsection.8.3.7}%
-\contentsline {section}{\numberline {8.4}Resitting exams while on Industrial Experience placement}{40}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Mitigating Circumstances}{40}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Don't forget to read your University email!}{40}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Paying your taxes}{40}{section.8.7}%
-\contentsline {section}{\numberline {8.8}You are an Ambassador}{41}{section.8.8}%
-\contentsline {section}{\numberline {8.9}Starting Your Future}{41}{section.8.9}%
-\contentsline {chapter}{\numberline {9}Assessment of your Industrial Experience year}{45}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Bachelors degrees: BSc}{46}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Integrated Masters degrees: MEng}{46}{section.9.2}%
-\contentsline {chapter}{\numberline {10}Tutor Guide for Industrial Experience Visits}{47}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Purpose of the manager, tutor, tutee meeting}{47}{section.10.1}%
-\contentsline {section}{\numberline {10.2}What have you been doing?}{48}{section.10.2}%
-\contentsline {section}{\numberline {10.3}What Went Well (WWW)?}{48}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Even Better If (EBI)?}{49}{section.10.4}%
-\contentsline {section}{\numberline {10.5}Any Other Business (AOB)}{49}{section.10.5}%
-\contentsline {section}{\numberline {10.6}Scheduling meetings using Outlook}{49}{section.10.6}%
-\contentsline {chapter}{\numberline {11}Key Contacts for Industrial Experience}{51}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Main placement contacts}{51}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Emergency contacts}{52}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Careers service}{52}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Wellbeing Support Services}{52}{section.11.4}%
-\contentsline {section}{\numberline {11.5}Disability Advisory and Support Service: DASS}{54}{section.11.5}%
+\contentsline {section}{\numberline {0.5}Industrial Experience in dark mode?}{9}{section.0.5}%
+\contentsline {section}{\numberline {0.6}Editing this handbook}{9}{section.0.6}%
+\contentsline {section}{\numberline {0.7}Academic leads for IE}{11}{section.0.7}%
+\contentsline {chapter}{\numberline {1}Introduction to Industrial Experience}{13}{chapter.1}%
+\contentsline {section}{\numberline {1.1}The value of IE for you}{14}{section.1.1}%
+\contentsline {section}{\numberline {1.2}The value of IE for your employer}{14}{section.1.2}%
+\contentsline {section}{\numberline {1.3}The value of IE to the University}{14}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Industrial Experience: Win-win-win?}{15}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Aims of Industrial Experience}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Intended Learning Outcomes}{17}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Developing your professional skills}{18}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Audit your professional skills}{19}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Exploring your digital capabilities}{19}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Recording your professional development}{20}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Requirements for Industrial Experience}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Basic requirements}{21}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Finding a placement}{22}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Grade requirements}{23}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Visa requirements}{23}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Your right to work in the UK}{23}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Working outside the UK}{24}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Industrial Experience Outside the UK}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Study Abroad}{25}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Applying for a placement outside the UK}{26}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Your Responsibilities on Industrial Experience}{29}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Students resonsibilities}{29}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Contact with the University whilst on placement}{30}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Responsibilities to your employer}{31}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Responsibilities to the University}{32}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Employers Responsibilities to Students on IE}{33}{chapter.6}%
+\contentsline {section}{\numberline {6.1}What your employer needs to do}{33}{section.6.1}%
+\contentsline {section}{\numberline {6.2}If your employer treats you unfairly}{34}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Know your rights and responsibilities}{34}{section.6.3}%
+\contentsline {chapter}{\numberline {7}University Responsibilities to Students on IE}{37}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Your personal tutor}{37}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Placement and employability tutors}{38}{section.7.2}%
+\contentsline {chapter}{\numberline {8}So, You're Going on Industrial Experience?}{39}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Congratulations!}{39}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Dive, Survive or Thrive?}{40}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Key placement dates for IE}{40}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Placement approval}{40}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}First check-in meeting}{41}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}Second check-in meeting}{41}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}Manager, Tutor and You meeting}{41}{subsection.8.3.4}%
+\contentsline {subsection}{\numberline {8.3.5}Honours Project selection}{41}{subsection.8.3.5}%
+\contentsline {subsection}{\numberline {8.3.6}Placement report submission}{41}{subsection.8.3.6}%
+\contentsline {subsection}{\numberline {8.3.7}Industrial Experience panel}{42}{subsection.8.3.7}%
+\contentsline {section}{\numberline {8.4}Resitting exams while on Industrial Experience placement}{42}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Mitigating Circumstances}{42}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Don't forget to read your University email!}{42}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Paying your taxes}{42}{section.8.7}%
+\contentsline {section}{\numberline {8.8}You are an Ambassador}{43}{section.8.8}%
+\contentsline {section}{\numberline {8.9}Starting Your Future}{43}{section.8.9}%
+\contentsline {chapter}{\numberline {9}Assessment of your Industrial Experience year}{47}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Bachelors degrees: BSc}{48}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Integrated Masters degrees: MEng}{48}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Tutor Guide for Industrial Experience Visits}{49}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Purpose of the manager, tutor, tutee meeting}{49}{section.10.1}%
+\contentsline {section}{\numberline {10.2}What have you been doing?}{50}{section.10.2}%
+\contentsline {section}{\numberline {10.3}What Went Well (WWW)?}{50}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Even Better If (EBI)?}{51}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Any Other Business (AOB)}{51}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Scheduling meetings using Outlook}{51}{section.10.6}%
+\contentsline {chapter}{\numberline {11}Key Contacts for Industrial Experience}{53}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Main placement contacts}{53}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Emergency contacts}{54}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Careers service}{54}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Wellbeing Support Services}{54}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Disability Advisory and Support Service: DASS}{56}{section.11.5}%

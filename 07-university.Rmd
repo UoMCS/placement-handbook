@@ -6,7 +6,7 @@ The University has a duty of care for students on campus _and_ on placement. We 
 knitr::include_graphics("images/burlington.jpg")
 ```
 
-(ref:captionburlington) A panoramic picture of the Samuel Alexander Building from Burlington Street in Manchester.
+(ref:captionburlington) A panoramic picture of the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) Building from Burlington Street in Manchester.
 
 
 ## Your personal tutor {#tutor}
