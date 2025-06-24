@@ -18,9 +18,19 @@ You will gain valuable experience and can further explore your career interests 
 * The responsibilities associated with commercial employment
 * Working within a team, collaborating with the wider organisation that you have joined
 * The satisfaction of contributing to products and serfvices that will influence the future development of society
-* The consolidation of your education to date
+* The consolidation and validation of your education to date, see Ben Listers's story (`BSc (Hons) Computer Science and Mathematics with Industrial Experience`) in figure \@ref(fig:benlister-vid)
 * The increased likelihood of return (or extended) job offers after graduation. It is common for students who perform well to receive return offers from their placement providers
-*  For many, Industrial Experience is the start of a transformation from student to engineer and from student to professional
+*  For many, Industrial Experience is the start of a transition from student to engineer and from student to professional.
+* Developing skills and knowledge that will improve your final year project, performance and motivation
+* The chance to receive a return offer, if you like working for the employer and they like you.
+
+
+```{r benlister-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbenlister)"}
+knitr::include_url('https://www.youtube.com/embed/8oPDfD67U8I')
+```
+
+(ref:captionbenlister) Computer Science student Ben Lister describes what he got from his cybersecurity placement year at [nccgroup.com](https://www.nccgroup.com) [@benlister]. More placement testimonials from students like Ben can be found in _[Hearing Your Future](https://www.cdyf.me/hearing)_ and on the Careers Service website [@hearing;@placementstories]
+
 
 ## The value of IE for your employer {#evalue}
 

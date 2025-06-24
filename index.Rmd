@@ -2,15 +2,16 @@
 title: "Computer Science Placement Handbook for students at the University of Manchester"
 author: "edited by Duncan Hull, David Petrescu and the School of Engineering placements team"
 #date: "Last updated `r Sys.Date()`"
-date: "DRAFT version currently under revision, last updated on `r format(Sys.time(), '%d %B, %Y')`"
+date: "DRAFT version currently under revision, finalised 2025/6 version due for release in September 2025. Last updated on `r format(Sys.time(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib]
 biblio-style: 
 link-citations: yes
-csl: /Users/user/Zotero/styles/harvard-imperial-college-london.csl
-# local copy but available from https://www.zotero.org/styles
+csl: https://www.zotero.org/styles/harvard-imperial-college-london
+# can read style file from http rather than storing locally
+# csl: /Users/duncan/Zotero/styles/harvard-imperial-college-london.csl
 github-repo: UoMCS/placement-handbook
 description: "A guidebook for undergraduate students students at the University of Manchester before, during and after their placement in industry"
 ---
@@ -79,7 +80,7 @@ The rest of this placement handbook is structured as follows:
 * Chapter \@ref(contacts) lists all the most important contacts you're likely to need for your year in industry
 
 ## Industrial Experience in dark mode {#darkmode}
-We often get asked if teaching materials are available in [dark mode](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme). The good news is that unlikely some other course materials, this handbook **is** available in dark mode. If you're reading this in a web browser, you can choose whatever mode you prefer, see figure \@ref(fig:darkmode-fig).
+We often get asked if teaching materials are available in [dark mode](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme). The good news is that unlike some other course materials, this handbook **is** available in dark mode. If you're reading this in a web browser, you can choose whatever mode you prefer, see figure \@ref(fig:darkmode-fig).
 
 ```{r darkmode-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondarkmode)", out.width = "100%"}
 knitr::include_graphics("images/darkmode.png")
