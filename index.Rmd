@@ -24,7 +24,7 @@ https://github.com/dullhunk/cdyf/issues/1194
 
 # Welcome to Industrial Experience (IE) {-}
 
-Welcome to the Industrial Experience (IE) placement handbook. This handbook is for undergraduate students studying Computer Science in the School of Engineering at the University of Manchester. The handbook has been written to help you (and your personal tutor) before, during and after your year-long placement in industry and is [also available as a pdf](https://placement-handbook.cs.manchester.ac.uk/placement-handbook.pdf). 
+Welcome to the Industrial Experience (IE) placement handbook. This student handbook is for undergraduates studying Computer Science in the School of Engineering at the University of Manchester. The handbook has been written to help you (and your personal tutor) before, during and after your year-long placement in industry and is [also available as a pdf](https://placement-handbook.cs.manchester.ac.uk/placement-handbook.pdf). test.
 
 ```{r engineering-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionengineering)", out.width = "100%"}
 knitr::include_graphics("images/rothwell.jpg")
