@@ -17,7 +17,6 @@ fig:burlington-fig
 fig:teams-fig
 fig:onyerbike-fig
 fig:ambassador-fig
-fig:csreputation-fig
 fig:mancreputation-fig
 fig:survival-fig
 fig:assessment-fig

@@ -21,12 +21,13 @@ bookdown::gitbook:
       whatsapp: true
       all: ['facebook', 'linkedin', 'whatsapp', 'github']
     info: true
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: true
+# use official pdf    
+# bookdown::pdf_book:
+#  includes:
+#  latex_engine: xelatex
+#    in_header: preamble.tex
+#  citation_package: natbib
+#  keep_tex: true
 
 
 bookdown::word_document2: default

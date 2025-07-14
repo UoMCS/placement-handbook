@@ -10,6 +10,11 @@ knitr::include_graphics("images/whitworth.jpg")
 
 (ref:captionexperience) Industrial Experience (IE) is an entrance way to new opportunities provided by your employer to develop skills and knowledge in the workplace. Panoramic picture of entrances and the Queen's Arch of the [Whitworth Building](https://en.wikipedia.org/wiki/Whitworth_Building) at the University of Manchester
 
+Doing an industrial experience year is beneficial for all three parties involved:
+
+1. You
+1. Your Employer
+1. Your University
 
 ## The value of IE for you {#value}
 You will gain valuable experience and can further explore your career interests while you are on Industrial Experience. [@experiencing;@ucas;@penney] The “with Industrial Experience” (IE) scheme of our undergraduate degrees provides a valuable opportunity for you to experience employment before you graduate. There are many advantages to this, including:
@@ -29,7 +34,7 @@ You will gain valuable experience and can further explore your career interests 
 knitr::include_url('https://www.youtube.com/embed/8oPDfD67U8I')
 ```
 
-(ref:captionbenlister) Computer Science student Ben Lister describes what he got from his cybersecurity placement year at [nccgroup.com](https://www.nccgroup.com) [@benlister]. More placement testimonials from students like Ben can be found in _[Hearing Your Future](https://www.cdyf.me/hearing)_ and on the Careers Service website [@hearing;@placementstories]
+(ref:captionbenlister) Computer Science and Mathematics student Ben Lister describes what he got from his cybersecurity placement year at [nccgroup.com](https://www.nccgroup.com) [@benlister]. More placement testimonials from students like Ben can be found in _[Hearing Your Future](https://www.cdyf.me/hearing)_ and on the Careers Service website [@hearing;@placementstories]
 
 
 ## The value of IE for your employer {#evalue}

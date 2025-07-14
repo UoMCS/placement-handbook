@@ -101,12 +101,7 @@ For example, your personal tutor and the placement year tutor will be sending yo
 
 ## Paying your taxes {#taxes}
 
-Moving from student to professional means you'll be paid a salary. Yay! Unfortunately this also means you'll have to start paying taxes too. Taxes are one of only two things we can be sure of in life:
-
-1. Death [@death]
-1. Taxes [@death]
-
-In the UK the relevant taxes are:
+Moving from student to professional means you'll be paid a salary. Unfortunately this also means you'll have to start paying taxes too. In the UK the relevant taxes are:
 
 * **Income Tax**: is taken out of your salary before you receive it, see [gov.uk/income-tax](https://www.gov.uk/income-tax) [@income-tax]
 * **National Insurance**: see [gov.uk/national-insurance](https://www.gov.uk/national-insurance) [@national] and applying for a National Insurance [gov.uk/apply-national-insurance-number](https://www.gov.uk/apply-national-insurance-number) [@apply]
@@ -123,27 +118,11 @@ knitr::include_graphics("images/ambassador.png")
 
 While on placement you are an ambassador, see figure \@ref(fig:ambassador-fig). You are an ambassador for: 
 
-1. The Department of Computer Science, see figure \@ref(fig:csreputation-fig) 
+1. The Department of Computer Science
 1. The University of Manchester, see figure \@ref(fig:mancreputation-fig)
 1. Both your fellow students and future students at the University
 
  We hope that you can continue to uphold the good reputation of our department and its students while you are on placement so that employers keep coming back to recruit more students like you in the future.
-
-```{r csreputation-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:iebig)"}
-
-library(tidyverse)
-library(ggplot2)
-library(forcats)
-
-ieuom <- readr::read_csv("https://raw.githubusercontent.com/dullhunk/cdyf/refs/heads/master/data/ieuom.csv")
-
-ggplot(ieuom, aes(y = forcats::fct_rev(forcats::fct_infreq(Department)))) +
-  geom_bar() +
-  labs(y = "Department at the University of Manchester", x = "Number of undergraduate students starting IE placements in 2024")
-```
-(ref:iebig) The Department of Computer Science has the biggest elective program of Industrial Experience (IE) at the University of Manchester. The chart shows the number of students starting an Industrial Experience placement year in 2024 as part of their undergraduate study at the University of Manchester. The data is plotted by Department: `CS`: Department of Computer Science [cs.manchester.ac.uk](https://www.cs.manchester.ac.uk/), `MACE`: Department of Mechanical, Aerospace and Civil Engineering (MACE) [mace.manchester.ac.uk](https://www.mace.manchester.ac.uk/), `EEE`: Department of Electrical and Electronic Engineering [eee.manchester.ac.uk](https://www.eee.manchester.ac.uk/), `ChemEng`: Department of Chemical Engineering [ce.manchester.ac.uk](https://www.ce.manchester.ac.uk/), `Chemistry`: Department of Chemistry [chemistry.manchester.ac.uk](https://www.chemistry.manchester.ac.uk/), `Maths`: Department of Mathematics [maths.manchester.ac.uk](https://www.maths.manchester.ac.uk), `Physics`: Department of Physics & Astronomy [physics.manchester.ac.uk](https://www.physics.manchester.ac.uk), `Materials`: Department of Materials [materials.manchester.ac.uk](https://www.materials.manchester.ac.uk/), `EES`: Department of Earth and Environmental Sciences [ees.manchester.ac.uk](https://www.ees.manchester.ac.uk/). Data from PowerBI as of 2025, note that summer internships are shown in this bar chart, only year long placements.
-
-So you're not just an ambassador for the Department, you're an ambassador for the University too.
 
 
 ```{r mancreputation-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap='(ref:captionhighfliers)'}
@@ -153,7 +132,7 @@ knitr::include_graphics("images/high-fliers-table-2024.png")
 (ref:captionhighfliers) According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester has a good reputation with employers is one of the most highly targeted UK Universities by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com) [@highfliers2024]
 
 
-
+ So you're not just an ambassador for the Department, you're an ambassador for the University too.
 
 ## Starting Your Future {#etc}
 This chapter has described some basic information to help you get started on a placement year at the University of Manchester, for a broader discussion of how to prepare yourself for the workplace, see _Starting Your Future_ at [cdyf.me/starting](https://www.cdyf.me/starting). [@starting]
